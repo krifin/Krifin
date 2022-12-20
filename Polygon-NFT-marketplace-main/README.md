@@ -45,7 +45,7 @@ yarn test
 
 ## Template Author
 
-👤 **Dung Huynh**
+👤 **Samridhi Shoor**
 
 - Website: https://krifin.in/
 - Twitter: [@samridhishoor](https://twitter.com/samridhishoor)
