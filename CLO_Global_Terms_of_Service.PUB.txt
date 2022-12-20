@@ -1,0 +1,887 @@
+TERMS OF SERVICE
+
+1. BINDING AGREEMENT
+1.1 These terms ("Terms") govern your use of the websites and services of CLO Virtual Fashion LLC and its Affiliates (collectively, "CLO")-including CLO-SET, online stores (including CONNECT and the Marvelous Designer Store), the CLO Enterprise user training website, CLOVirtualFashion.com and other services that may be developed, modified, combined, and/or newly offered through our websites from time to time (collectively, "Services").
+
+1.2 These Terms also govern your use of our software that you download off of any of our websites (such as https://www.clo3d.com/ and https://www.marvelousdesigner.com/) or that we include as part of our Services, including any related applications and documentation (collectively "CLO Software" or "Software").
+
+1.3 IF YOU HAVE ENTERED INTO ANOTHER AGREEMENT WITH US CONCERNING SPECIFIC SERVICES OR CLO SOFTWARE, THEN THE TERMS OF THAT AGREEMENT CONTROLS WHERE IT CONFLICTS WITH THESE TERMS.
+
+1.4 By setting up a CLO account, by using our Services, by using or downloading CLO Software, or by clicking the "I accept" button (or its equivalent), you agree to these Terms. For the avoidance of doubt, if you set up a CLO account, use our Services, use or download our Software, or click the "I accept" button (or its equivalent) on behalf of an entity, organization, or Legal Entity, you represent and warrant that you are authorized to accept these Terms on behalf of such entity or organization--in which case "you" and "your" will refer to that entity or organization.
+
+1.5 If at any point for any reason you do not agree to any portion of the then-current version of these Terms, our Privacy Policy, or any other CLO policy, rules or codes of conduct relating to your use of our Services, your license to use our Services shall immediately terminate and you must stop using our Services and promptly remove any CLO Software installed on your computer. CLO offers various Services and Software. As a result, additional terms or service requirements may apply. Additional terms will be available with the relevant Services or Software, and those additional terms become part of your agreement with us if you use those Services or Software. If you receive CLO Software from us, the use of such software is governed by the applicable License Agreement or End User License Agreement (collectively, "EULA") presented to and signed by you. If no EULA or additional license terms are presented to and signed by you, these Terms apply.
+
+1.6 Unless otherwise set forth in these Terms, to the extent these Terms conflict with any other CLO terms, policy, rules or codes of conduct, these Terms shall govern.
+
+2. DEFINITIONS
+Unless otherwise defined in the main body of these Terms, capitalized terms used in these Terms are defined as follows:
+
+2.1 "Affiliate" of a person or entity shall mean any entity Controlled by, under common Control with or under the Control of such person or entity. "Control" shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through the ownership of registered capital or voting securities, by Agreement or otherwise, and includes (i) ownership directly or indirectly of fifty percent (50%) or more of the shares or other equity interests in issue or registered capital of such entity, (ii) ownership, directly or indirectly of fifty percent (50%) or more of the voting power of such Person or (iii) the power directly or indirectly to appoint a majority of the members of the board of directors or similar governing body of such entity, and the terms "Controlled" and "Controlling" shall have correlative meanings.
+
+2.2 "Authorized User" means the employees of Licensee who are under the control of and authorized by the Licensee to install or access the Licensed Materials. In the case of an Academic Licensee, an Authorized User shall mean to include the faculty and students of such Licensee.
+
+2.3 "CLO Samples" means samples provided by CLO in the Licensed Materials, including, but not limited to, avatars, sample patterns and designs, modules for patterns and designs, and expressions of components and elements used in patterns and designs. CLO samples may be modified where such modifications are permitted by the intended functionality of the Licensed Materials.
+
+2.4 "Legal Entity" or "entity" means any company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, proprietorship, joint venture or other form of business organization. In the context of Academic Licenses, "Legal Entity" also means a Qualified Academic Institution.
+
+2.5 "Licensed Materials" means the Services, the CLO Software, Supplemental Materials, and/or User Documentation, as applicable.
+
+2.6 "Licensee" or "you" means:
+
+2.6.1 In the context of Individual Licenses, either a single, natural person or a Legal Entity to which the Licensed Materials are exclusively licensed, otherwise meeting the eligibility criteria for an Individual License set forth in Section 3
+
+2.6.2 In the context of Academic Licenses, a single Qualified Academic Institution to which the Licensed Materials are exclusively licensed, otherwise meeting the eligibility criteria for an Academic License set forth in Section 3.
+
+2.6.3 In the context of Enterprise Licenses, a single Legal Entity to which the Licensed Materials are exclusively licensed, otherwise meeting the eligibility criteria for an Enterprise License set forth in Section 3. For clarification, unless otherwise agreed to in writing by CLO through an EULA, "Licensee" or "you" refers only to a single, specifically identified Legal Entity, and does not include any Affiliate of any such Legal Entity.
+
+2.7 "Modification" means any change by Licensee (but only to the extent permitted by the intended functionality of the Software and/or Supplemental Materials) to the substance of a CLO Sample or any change to the substance of the contents of a file containing a CLO Sample; and/or any new file that contains any part of a CLO Sample; all of which ensures that the CLO Sample is not the primary source of value. Modifications may not be made to Restricted CLO Samples.
+
+2.8 "Open Source Software and Other Software" means the open source software and other software disclosed and referenced at the end of this document. 
+
+2.9 "Restricted CLO Samples" means non-modifiable avatars and dummys (and each of their elements) and pre-designed clothing and accessories (including but not limited to buttons, shoes, head coverings, socks, and gloves) included in the Licensed Materials, and any other Licensed Materials specified as "Restricted Licensed Materials" (or similar verbiage).
+
+2.10 "Supplemental Materials" means materials, other than Software and related User Documentation that are distributed or made available by CLO for use with Software. Supplemental Materials include, without limitation, CLO Samples and Restricted CLO Samples.
+
+2.11 "Update(s)" means, subject to the payment of the applicable fees (e.g. Annual Subscription Fee, Monthly Subscription Fee, or RLC), any corrections, patches, maintenance, and/or replacement of a Software version with a new Software version as and when CLO deems such Update is necessary to correct errors, remove, add or improve functionalities, and/or add service packs. CLO's obligations to provide Updates to Software versions are further detailed in Section 9.
+
+2.12 "User Documentation" means the explanatory or instructional materials for Software or Supplemental Materials.
+
+3. ELIGIBILITY
+3.1 If you are a Legal Entity, you represent that only employees under your control and authorized by you to access or use the Licensed Materials on your behalf (an "Authorized User") may install the Software or access the Services, unless otherwise agreed to in writing by CLO. You will be responsible for compliance with these terms by any Authorized User and any other persons who may have access to the Licensed Materials through you.
+
+3.2 For the purpose of determining your eligibility to purchase, or acquire on a trial basis, the licenses to the CLO Software under License Classes set forth in this Section 3.2 and below in Section 9.3 of these Terms (as well as at https://www.clo3d.com/pricing; https://www.clo3d.com/download; and other webpages on the CLO website that may be updated from time to time to display License Classes offered by CLO), you agree to the following additional terms
+
+3.2.1 Individual License. If purchasing, or acquiring on a trial basis, an Individual License as an Individual User under the "Individuals" tab on our website (also known as "CLO-for-Individuals"), you represent that you are:
+
+3.2.1.1 an individual, natural person (e.g. hobbyist, member of the general public, student, etc.) requesting access to the CLO Software for personal use-and not on behalf of a legal entity, registered company, business that should be obtaining an Enterprise License under Section 3.2.2 in order to access the Software and not on behalf of a Qualified Academic Institution that should be obtaining an Academic License in order to the access the Software under Section 3.2.3; or
+
+3.2.1.2 a One Person Company, a Sole Proprietorship, a single-member LLC that does not elect to be treated as a corporation for tax purposes ("disregarded entity"), a freelancer, a self-employed independent contractor, or similarly situated self-employee otherwise in business for yourself-as verified through independent documentation such as articles of incorporation, business registration, tax returns/filings, proof of Self-Employment Tax payment, etc. CLO may request documentation verifying entity status prior to granting access to the Services or CLO Software.
+
+3.2.2 Enterprise License. Whether purchasing a license or acquiring a license on a trial basis, you will be deemed by CLO, in CLO's sole discretion, as an Enterprise User requiring an Enterprise License to access the CLO Software under the "Business" tab on our website (also known as "CLO-for-Businesses"), if an Academic License pursuant to criteria set forth in Section 3.2.3 is deemed by CLO as inapplicable to you and if any of the following applies:
+
+3.2.2.1 You register for a CLO account or make any purchases of our Services or CLO Software using a corporate credit card on behalf of an Enterprise Company, corporate email account, corporate email address, or corporate domain name;
+
+3.2.2.2 You represent that you are requesting an Individual License on behalf of an entity satisfying the conditions set forth above in Section 3.2.1.2, but CLO has reason to believe that the entity in question has at least one (1) full-time employee other than the natural person who owns that entity;
+
+3.2.2.3 You otherwise satisfy the conditions for an Individual User set forth above in Section 3.2.1.2, but CLO has reason to believe that you are attempting to access the CLO Software on behalf of an Enterprise Company that should be obtaining its own Enterprise License to access the CLO Software (e.g. you are a freelancer who accesses the CLO Software through a computer owned by an Enterprise Company);
+
+3.2.2.4 You represent that you are requesting an Academic License on behalf of an entity satisfying the conditions set forth below in Section 3.2.3, but CLO has reason to believe that you are attempting to access the CLO Software on behalf of an Enterprise Company that should be obtaining an Enterprise License to access the CLO Software (e.g. you are requesting an Academic License on behalf on an entity for commercial, professional, or other for-profit purposes and not for "Academic Purposes" as that term is defined below in Section 3.2.3.1); or
+
+3.2.2.5 For any other reason not specifically addressed by the foregoing subsections, you do not satisfy the spirit or letter of the conditions set forth above in Section 3.2.1 to qualify as an Individual User eligible for an Individual License or the conditions set forth in Section 3.2.3 to qualify as an Academic User eligible for an Academic License-as determined by CLO in CLO's sole discretion.
+
+3.2.3 Academic License. Whether purchasing a license or acquiring a license on a trial basis, you will be deemed by CLO, in CLO's sole discretion, as an Academic User requiring an Academic License to access the CLO Software under the "Education" tab on our website (also known as "CLO-for-Education"), if an Enterprise License pursuant to criteria set forth in Section 3.2.2 is deemed by CLO as not applicable to you and if any of the following applies:
+
+3.2.3.1 You are accessing the CLO Software on behalf of a Qualified Academic Institution or you are a member of the faculty therein-as determined by CLO in its sole discretion-for purposes directly related to learning, teaching, training, research, and development that are part of the instructional functions performed by a Qualified Academic Institution ("Academic Purposes")-where Academic Purposes does not include commercial, professional, or any other for-profit purposes-as determined by CLO in its sole discretion;
+
+3.2.3.2 You register for a CLO account or make any purchases of our Services or CLO Software using a credit card that belongs to a Qualified Academic Institution; or
+
+3.2.3.3 You otherwise satisfy the conditions for an Individual User set forth above in Section 3.2.1.2, but CLO has reason to believe that you are attempting to access the CLO Software on behalf of a Qualified Academic Institution that should be obtaining its own Academic License to access the CLO Software (e.g. you are a student of a Qualified Academic Institution who accesses the CLO Software for a course in which the CLO Software is being taught or used for instructional purposes).
+
+3.3 You further acknowledge that you are age 13 or older, and, if under the age of majority in your jurisdiction, are using our Services under the consent and supervision of a parent, legal guardian, or other responsible adult. In any event, if you are under the age of majority in your jurisdiction you are not allowed to use our Services or submit personal information to us.
+
+4. EQUIPMENT
+You must provide all equipment and software necessary to access our Services or Software. You are responsible for all internet fees, data fees, or mobile fees that you incur while accessing our Services or Software.
+
+5. Changes to Terms & Our Services
+5.1 CLO reserves the right, at our discretion, to change or modify these Terms at any time. Although it is your responsibility to review these Terms from time to time for any changes, CLO will notify you of any revisions to these Terms by posting them at this location, and may provide other notice which may include by email or in-Service notice. If you do not agree to the revised Terms, you must stop using our Services. Your continued use of our Services following any revision to these Terms signifies your assent to and acceptance of the revised Terms.
+
+5.2These Terms may not otherwise be amended except in a writing signed by you and CLO. For purposes of this provision, "writing" does not include an e-mail message.
+
+5.3 You agree that CLO retains the unfettered right to modify any aspect of our Services or Software. You acknowledge that CLO has been, is, and will be constantly making changes to our Services or Software. These changes include modifications to features, functions or abilities of any element of our Services or Software.
+
+5.4 All descriptions, images, references, features, content, specifications, products and prices of products and services described or depicted on our Services or Software, are subject to change (including availability) at any time without notice.
+
+6. LICENSE TO USE OUR SERVICES & SOFTWARE
+6.1 Subject to your compliance with these Terms and your eligibility for the applicable License Class determined by criteria set forth in Section 3, CLO grants you a non-exclusive, non-transferable license when you sign up for an account and pay any fees, where applicable, to:
+
+6.1.1 access and use our Software and/or Services for your own personal use (for Individual Licenses granted under Section 3.2.1.1) or internal business purposes (for Individual Licenses granted to self-employed entities under Section 3.2.1.2 or for Enterprise Licenses granted to Enterprise Companies under Section 3.2.2) or Academic Purposes (for Academic Licenses granted to Qualified Academic Institutions under Section 3.2.3), as applicable;
+
+6.1.2 download and install CLO Software on authorized devices within your possession and control, subject to the applicable License Type, License Class, and License Term as those capitalized terms are defined in Sections 3 and 9; and
+
+6.1.3 use CLO Software to access and use our Services for your own personal use (for Individual Licenses granted under Section 3.2.1.1) or internal business purposes (for Individual Licenses granted to self-employed entities under Section 3.2.1.2 or for Enterprise Licenses granted to Enterprise Companies under Section 3.2.2) or Academic Purposes (for Academic Licenses granted to Qualified Academic Institutions under Section 3.2.3), as applicable.
+
+6.2 Our Services and CLO Software, and their content, features, and functionality are owned by CLO, its licensors, or other providers of such material and is protected by copyright and other laws and international treaty provisions. Except for the licenses explicitly granted in these Terms, these Terms do not grant you any rights to patents, copyrights, trade secrets, trademarks, source code, or any other right, title or interest in our Services or CLO Software, ownership of which is retained by CLO and its suppliers, as applicable. Any updates to our Services or CLO Software are also governed by these Terms.
+
+6.3 CLO Software is licensed, not sold, to you for use only under these Terms, and CLO reserves all rights not expressly granted to you.
+
+6.4 You agree to maintain and reproduce all copyright, proprietary, and other notices on all copies, in any form, of CLO Software in the same form and manner that such copyright and other proprietary notices are included on CLO Software. Except as expressly authorized by these Terms, you shall not make any copies or duplicates of CLO Software without the prior written permission of CLO.
+
+6.5 Work product and other data created using our Services or Software may contain certain notices and limitations that make the work product and other data usable only in certain circumstances. In addition, if you combine or link your work product or other data created using our Services or Software with work product or other data otherwise created, then such other work product or data may also be affected by these notices and limitations. CLO will have no responsibility or liability whatsoever if you combine or link work product or other data created using our Services with work product or other data otherwise created. In addition, you will not remove, alter or obscure any such notices or limitations.
+
+6.6 CLO SOFTWARE MAY BE SUBJECT TO OTHER LIMITATIONS, DISCLAIMERS OR WARRANTIES SET FORTH IN AN APPLICABLE EULA. IN THE EVENT OF ANY CONFLICT BETWEEN THE TERMS OF SUCH EULA AND THESE TERMS, THE EULA SHALL CONTROL WITH RESPECT TO SUCH CLO SOFTWARE ONLY. SUCH CLO SOFTWARE IS WARRANTED, IF AT ALL, ONLY ACCORDING TO THE TERMS OF THE APPLICABLE EULA.
+
+6.7 You understand that while at times you may "purchase" or be "credited" (a) virtual currency for use within our Services; or (b) virtual items (together with virtual currency, "Virtual Items"), you do not own the Virtual Items and the amounts of any Virtual Item do not refer to any credit balance of real currency or its equivalent. Rather, you are purchasing a limited license to use that aspect of our Services, including software programs that occasionally manifest themselves as these items. Any "virtual currency" balance shown in your account does not constitute a real-world balance or reflect any stored value, but instead constitutes a measurement of the extent of your license. Virtual Items are non-transferable to another person or account (unless otherwise explicitly permitted by the functionality of our Services), has no cash value and is not redeemable for any sum of money or monetary value from CLO. Virtual Items do not constitute a personal property right. We reserve the right to reduce, liquidate, deactivate, suspend or terminate your Virtual Items or access thereto if we suspect, after investigation, that you have misused Virtual Items or have otherwise used them to conduct any fraudulent or illegal activity. Unless otherwise specified or contemplated by the functionalities of our Services, Virtual Items are non-transferable to another person or account.
+
+7. UNAUTHORIZED ACTIVITIES
+7.1 You may use our Services and/or Software only for lawful purposes, in accordance with these Terms, and only in the manner contemplated by the functionalities of our Services and/or Software (in CLO's sole judgment).
+
+7.2 You may not (i) utilize any equipment, device, software, or other means to (or designed to) circumvent or remove any form of technical protection used by CLO in connection with our Services or CLO Software, or (ii) install or access our Services or CLO Software with any product code, authorization code, serial number, or other copy-protection device not supplied by CLO. Without limitation of the generality of the foregoing, you may not utilize any equipment, device, software, or other means to circumvent or remove any protection measure provided or made available by CLO for managing, monitoring or controlling installation of or access to our Services or CLO Software.
+
+7.3 Except as expressly authorized in these Terms or allowed by applicable law, you may not (i) use, copy, modify, reverse engineer, disassemble, decompile, modify, or transfer our Services or CLO Software, or otherwise attempt to derive the source code of our Services or CLO Software; (ii) translate, adapt, arrange, or create derivative works based on, or otherwise modify our Services or CLO Software or any elements thereof for any purpose; provided however you may make Modifications to CLO Samples where such Modifications are permitted by the intended functionality of our Services or CLO Software and such Modifications ensures that the CLO Sample is not the primary source of value; (iii) permit our Services or CLO Software to be used on a service bureau or time sharing basis; (iv) distribute CLO Samples as your work product without Modifications, (v) distribute and/or make Modifications to Restricted CLO Samples; or authorize any third party to do any of the foregoing; (vi) use a replaced dongle after receiving a replacement dongle; (vii) otherwise use the Licensed Materials for any purpose other than the intended use and functionality of the Licensed Materials as permitted in these Terms and/or the applicable EULA; or (viii) authorize any third party to do any of the foregoing.
+
+7.4 CLO's Default Avatars
+
+7.4.1 CLO Avatars. "CLO Avatar" means any avatars included in the Licensed Materials. Licensee shall not distribute, sell, monetize, publish, post, or otherwise disseminate any such avatar (A) onto any e-commerce website or (B) as part of any advertising, marketing, or promotional media (collectively, "Disseminate"):
+
+7.4.1.1 without the prior written consent of CLO and upon the payment of a royalty fee to CLO (in the amount of $3,000 per avatar); or
+
+7.4.1.2 unless proper attribution is given to CLO in each instance in which an avatar is so Disseminated, pursuant to the specifications set forth in Section 7.4.3
+
+7.4.2 Sample Distributions. For clarity, Licensee shall have the right to use CLO Avatars in conjunction with Modifications to send as samples to customers, factories, and Affiliates (collectively, "Sample Distribution") without having to comply with Section 7.4.1.1 provided that:
+
+7.4.2.1 such customers, factories, or Affiliates and their respective personnel do not gain access to any other component of the Licensed Materials by virtue of such Sample Distributions (unless such customers, factories, or Affiliates have purchased or received from CLO their own licenses to the Licensed Materials); and
+
+7.4.2.2 proper attribution is given to CLO in each instance of such Sample Distribution pursuant to the specifications set forth in Section 7.4.3.
+
+7.4.3 Attribution Specifications. The following attribution must appear - in Avenir Next font, font size 10, and color 323236 - in each instance in which attribution is required pursuant to this Section 7.4:
+
+CLO Virtual Fashion, Inc. owns all rights to the avatar displayed.
+
+https://www.clo3d.com/
+
+7.5 Any reproduction or redistribution of our Services or CLO Software is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
+
+7.6 WITHOUT LIMITING OUR OTHER REMEDIES, WE MAY LIMIT, SUSPEND, DEACTIVATE OR TERMINATE USER ACCOUNTS, PROHIBIT ACCESS TO ALL OR ANY PORTION OF OUR SERVICES, DELAY OR REMOVE USER CONTENT, AND TAKE TECHNICAL AND LEGAL STEPS TO PREVENT YOU FROM ACCESSING OUR SERVICES IF WE BELIEVE THAT YOU ARE CREATING RISK OR POSSIBLE LEGAL LIABILITIES, INFRINGING THE INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES, OR ACTING INCONSISTENTLY WITH THE LETTER OR SPIRIT OF OUR TERMS OR POLICIES, WITH OR WITHOUT NOTICE TO YOU. YOU CAN LOSE YOUR ACCOUNT AS A RESULT OF ACCOUNT SUSPENSION, DEACTIVATION, OR TERMINATION, AS WELL AS ANY BENEFITS, PRIVILEGES, ITEMS AND PURCHASED ITEMS ASSOCIATED WITH YOUR USE OF OUR SERVICES, AND CLO IS UNDER NO OBLIGATION TO COMPENSATE YOU FOR ANY SUCH LOSSES OR RESULTS.
+
+8. Fee-Based Services & Purchases
+
+8.1 Some aspects of our Services require the payment of fees (for example, subscription fees). If you are required to pay a fee, the specific terms and conditions associated with such service will be included where those services are offered. Unless otherwise noted, all currency references are in U.S. dollars. All fees and charges are payable in accordance with payment terms in effect at the time the fee becomes payable. CLO may, from time to time (and upon notice if required by applicable laws), modify, amend, or supplement its fees and fee-billing methods, and such changes shall be effective immediately upon the changes posting on our Services or on the websites through which our Services are accessed.
+
+8.2 If you have elected to access a paid aspect of our Services, upon your acceptance of these Terms and submission of your order, you hereby agree that we have the right to automatically charge your credit card or debit your account for the applicable fees, plus any applicable taxes we are required to collect, and you authorize us to do so. All posted prices on our Services do not include any applicable sales tax, unless specifically noted that it is tax-inclusive. You agree to pay all fees and applicable taxes incurred by you or anyone using an account registered to you. You may also be directed to a webpage that is hosted by a third party payment service and not by CLO (such page, the "Payment Service Page"). You will be asked to supply certain information relevant to your purchase. If you are using and providing information through a Payment Service Page, you will be subject to the terms of service and privacy policy of that payment service, rather than these Terms and CLO's Privacy Policy. CLO has no control over, and shall not be responsible for, any payment service's use of information collected through the Payment Service Page.
+
+8.3 By ordering a license to use Virtual Items, you agree and accept that the Virtual Items ordered will be promptly provided to you following completion of your purchase. You may also be required to agree to additional terms when making purchases. These may include the CLO Downloadable Media License Agreement, which you must agree to when making purchases of CLO Virtual Media (as defined in the CLO Downloadable Media License Agreement).
+
+8.4 UNLESS OTHERWISE SPECIFIED IN ANY SUPPLEMENTAL TERMS AND CONDITIONS ASSOCIATED WITH YOUR PURCHASE, YOU ACKNOWLEDGE THAT CLO IS NOT REQUIRED TO PROVIDE A REFUND FOR ANY REASON. YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR UNUSED VIRTUAL ITEMS WHEN AN ACCOUNT IS SUSPENDED OR DEACTIVATED, OR IF YOU ARE DENIED ACCESS TO OUR SERVICES, WHETHER SUCH SUSPENSION, DEACTIVATION, OR DENIAL WAS VOLUNTARY OR INVOLUNTARY. YOU PROMISE THAT YOU WILL NEVER ASSERT OR BRING ANY CLAIM OR SUIT AGAINST CLO, ITS LICENSOR(S) OR THIRD PARTY PROVIDERS, OR ANY EMPLOYEES OF ANY OF THE ABOVE, WHICH IS RELATED TO OR BASED ON (I) A CLAIM FOR THE "VALUE" OF VIRTUAL ITEMS IF CLO DELETES THEM (AND/OR SUSPENDS, DEACTIVATES, OR TERMINATES YOUR ACCOUNT), (II) A CLAIM FOR THE "VALUE" OF VIRTUAL ITEMS THAT YOU MAY LOSE IF CLO DOES ANYTHING THAT IT IS ENTITLED TO DO PURSUANT TO ANY PROVISION OF THESE TERMS, EULA, RULES OF CONDUCT, AND/OR PRIVACY POLICY, OR FOR ANY MALFUNCTIONS AND/OR BUGS IN OUR SERVICES AND/OR (III) A CLAIM THAT THE "VALUE" OF ANY VIRTUAL ITEMS HAS INCREASED OR DECREASED BY VIRTUE OF ANY MODIFICATION THAT CLO HAS MADE OR WILL MAKE TO OUR SERVICES.
+
+9. LICENSE CLASS, LICENSE TYPE, AND LICENSE TERM
+9.1 License Class. CLO makes available the CLO Software under the following separate License Classes, each with their own terms and conditions.
+
+9.1.1 Individual License. Under an Individual License, you may install the specified Licensed Materials subject to the License Type, and permit access to such Licensed Materials solely by a single Authorized User (a natural, individual person i.e. you). An Individual License may be used solely for your personal use if you are eligible for an Individual License under Section 3.2.1.1, solely for your Internal Business Needs if you are eligible for an Individual License under Section 3.2.1.2, or solely for your Academic Purposes if you are eligible for an Individual License as a student under Section 3.2.1.1. Individual Licenses are offered on either a Monthly Subscription or Annual Subscription basis pursuant to Section 9.3, as further described on our pricing page.
+
+9.1.2 Enterprise License. Under an Enterprise License, you may install the specified Licensed Materials subject to the License Type, and permit access to such Licensed Materials solely by Authorized Users, and solely for your Internal Business Needs. "Internal Business Needs" means, in reference to the Licensed Materials, the use of such Licensed Materials by an Authorized User to meet the internal requirements of your business in the ordinary course of such business. In no event will your Internal Business Needs include providing or making available the Licensed Materials to any third party.
+
+9.1.3 Academic License. Under an Academic License, you may install the specified Licensed Materials subject to the License Type, and permit access to such Licensed Materials solely by an Authorized User, solely for Academic Purposes. "Academic Purposes" means purposes directly related to learning, teaching, training, research and development that are part of the instructional functions performed by a Qualified Academic Institution. Academic Purposes do not include commercial, professional or any other for-profit purposes. "Qualified Academic Institution" means an educational institution which has been accredited by an authorized governmental agency or other recognized accrediting body, and retains such accreditations throughout the applicable License Term.
+
+9.1.4 Trial License. Under a Trial License, you may install the Licensed Materials and permit access to the Licensed Materials solely by an Authorized User, solely for Trial Purposes. "Trial Purposes" means purposes of evaluation and demonstration of the capabilities of the Licensed Materials but excludes (A) competitive analysis or (B) any commercial, promotional, marketing, advertising, or for-profitorfor-profit purposes--unless otherwise agreed to in writing by CLO.
+
+9.2 License Type. CLO makes available the CLO Software under either the Standalone or Network License Types, each with their own terms, conditions, and authentication methods.
+
+9.2.1 Standalone. Under a Standalone type of license, the Licensed Materials must be installed on a single computer for non-concurrent use, which cannot be accessed from any other computer. The Standalone type of license encompasses the Dongle authentication version.
+
+9.2.2 Network. Under a Network type of license, the Licensed Materials may be installed on a single file server computer to be uploaded and installed to, and operated, viewed, or otherwise accessed from, other computers through a Local Area Network (LAN) connection; provided that the maximum permitted number of Authorized Users that may access or use the Licensed Materials concurrently at any one time may not exceed the total number of non-expired licenses provided to you under these Terms. The Network type of license encompasses the Network Online Authentication version.
+
+9.2.3 Authentication.
+
+9.2.3.1 DONGLES. "Dongle" means a physical USB device used to authenticate a valid license to the Software. IF A DONGLE IS DAMAGED, DESTROYED, MISPLACED, OR OTHERWISE BECOMES IMPAIRED OR UNUSABLE DUE TO NO FAULT OF CLO, CLO WILL PROVIDE A REPLACEMENT DONGLE, BUT ONLY UPON PAYMENT BY YOU OF (A) IN THE CASE WHERE SUCH DONGLE IS DAMAGED, DESTROYED, IMPAIRED OR UNUSABLE (AND RETURNED TO CLO) , THE ACTUAL REPLACEMENT COST OF SUCH DONGLE, AND (B) IN ALL OTHER CASES, THE FEE PAID BY YOU FOR THE LICENSE EMBODIED IN THE REPLACED DONGLE. IF A REPLACED NETWORK DONGLE IS SUBSEQUENTLY FOUND AND/OR IS USABLE, YOU WILL PROMPTLY SHIP THE REPLACED DONGLE BACK TO CLO. NO REFUNDS ARE PROVIDED EVEN IF A DONGLE IS SUBSEQUENTLY FOUND. IF YOU REQUEST A REPLACEMENT DONGLE, YOU ARE AUTHORIZED TO USE THE REPLACEMENT DONGLE ONLY. IN ADDITION TO ANY OTHER RIGHTS CLO MAY HAVE, ANY USE OF A REPLACED DONGLE AFTER RECEIVING A REPLACEMENT DONGLE WILL RESULT IN THE AUTOMATIC TERMINATION, WITHOUT REFUND, OF YOUR LICENSE TO USE THE SERVICES AND SOFTWARE.
+
+9.2.3.2 Network Online Authentication. In order for an Authorized User to log-in and access the Licensed Materials under a Network Online Authentication license, internet connection will be required in each instance to authenticate the Authorized User's USER ID and Password. The specified Licensed Materials may be installed, and accessed directly and locally on the computers of Authorized Users (rather than on computers linked to a single file server computer through a LAN connection); provided that the maximum permitted number of Authorized Users that may access or use the Licensed Materials concurrently at any one time may not exceed the total number of non-expired licenses provided to you under these Terms.
+
+9.3 License Term. CLO makes available the CLO Software under each of the following licenses--each with their own terms, conditions, and duration of license: a Perpetual License , Renewal License, a Monthly Subscription License, an Annual Subscription License, a Trial License (or another License Term described in the account features of your account, or as otherwise agreed to in a writing signed by CLO).
+
+9.3.1 PERPETUAL LICENSE.
+
+9.3.1.1 Perpetual Licenses Discontinued. As of July 2020, CLO no longer offers Perpetual Licenses. For any previously purchased Perpetual Licenses, CLO will continue to make available Updates by way of Renewal Licenses which can be purchased upon the payment of the applicable Renewal License Charge ("RLC"). Unless otherwise agreed to in writing signed by CLO, all previously purchased Perpetual Licenses are subject to the terms and conditions set forth in this Section 9.3.1 specifically and these Terms generally.
+
+9.3.1.2 Primary Licenses and Renewal Licenses. When you purchase a Perpetual License, you acquire a Primary License as that term is defined in Section 9.3.1.3. When you purchase a Renewal License, you acquire a Renewal License as that term is defined in Section 9.3.1.4.
+
+9.3.1.3 Primary License; Primary License Charge ("PLC"). "Primary License" means the perpetual right to install and use the applicable Licensed Materials-specifically, the then-current version of the Licensed Materials as of the time of purchase. "PLC" means fees payable for this right. The PLC excludes fees payable for Updates.
+
+9.3.1.4 Renewal License; Renewal License Charge ("RLC"). "Renewal License" means the non-perpetual, annually renewable right to Update the Licensed Materials, where such Updates are made available generally to other customers of CLO, for a specific period of time. "RLC" means fees payable for this right. Renewable Licenses are renewable on a yearly basis. The initial term of a license subject to an RLC begins on (i) the date of purchase or (ii) upon delivery of the Licensed Materials-whichever is later-or where such license is renewed, on the date of renewal. Where the Licensee fails to pay the applicable RLC, CLO will be under no obligation to provide Licensee with any of the updates, bug fixes, and additional support services that are made available to other customers of CLO who do pay the applicable RLC. CLO will invoice Licensee in respect of the RLC-provided that CLO will only provide such invoice if Licensee is then currently subject to a paid RLC.
+
+9.3.1.5 Both the PLC and RLC Are Required for Initial Purchase. Primary Licenses cannot be sold separately and must be purchased with a Renewal License at Licensee's initial purchase of the Perpetual License. As such, both the PLC and RLC must be paid as a one-time license fee at the time of Licensee's initial purchase of a Perpetual License (and before first installation of the Licensed Materials). In addition, any subsequent Updates to any Licensed Materials acquired under a Perpetual License can be purchased on an annual basis, through the purchase of a Renewal License and the corresponding payment of the applicable RLC.
+
+9.3.1.6 Subsequent RLCs Purchased at Licensee's Option. Any subsequent Renewal Licenses may be purchased with the payment of the applicable RLC (set forth in the License Schedule) on an annual basis. For each year in which an RLC is paid, Licensee would receive major and minor updates, bug fixes, maintenance and support.
+
+9.3.1.7 RLC Accumulation Policy. If the RLC is not paid in any given year(s), Licensee must pay all RLCs since the last RLC was purchased in order to upgrade the Licensed Materials to the latest version.
+
+9.3.1.8 Converting Perpetual Licenses to Annual Subscription Licenses.
+
+9.3.1.8.1 Two-For-One Deal for the Initial Term. Licensee can elect to convert existing Perpetual Licenses to Annual Subscription Licenses under the following incentivized structure ("Conversion Option"). For each existing Perpetual License that Licensee elects to convert to an Annual Subscription License ("Converted License"), CLO will provide one (1) additional Annual Subscription License ("Promotional License"); and the Annual Subscription Fee for both the Converted License and the Promotional License will be waived for their Initial Term-provided that Licensee pays the RLC for the existing Perpetual License that Licensee is converting. In the subsequent year, for the Renewal Term of such Converted and Promotional Licenses, the Total Annual Subscription Fee that will be due and payable for such Converted and Promotional Licenses will be the number of such licenses multiplied by the Annual Subscription Price.
+
+9.3.1.8.2 Option Expiration Date. The Conversion Option shall expire on June 30, 2022 ("Option Expiration Date").
+
+9.3.1.8.3 Exercising the Conversion Option. At any time until the Option Expiration Date, Licensee may exercise the Conversion Option by so indicating in a Software Order executed by the Parties. Licensee may also exercise the Conversion Option contemporaneously with the execution of this Agreement by so indicating in this License Schedule
+
+9.3.1.8.4 Miscellaneous Conditions. For Converted Licenses and Promotional Licenses:
+
+9.3.1.8.4.1 The "Initial Term" will commence as of the latest to occur of (A) the date on which Licensee elects to exercise the Conversion Option ("License Conversion Date") or (B) upon delivery of the specific Licensed Materials and the new, specific User ID and Password necessary to access the Licensed Materials-and will continue for the period of twelve (12) months thereafter.
+
+9.3.1.8.4.2 "Renewal Term" means, unless otherwise agreed to in writing by the Parties, the twelve (12) month renewal term automatically following either the Initial Term, or a previous Renewal Term.
+
+9.3.1.8.4.3 Except for the Initial Term of such licenses, for which the Annual Subscription Fee will be waived in exchange for the payment of the applicable RLC, CLO's corresponding obligations to Licensee under this Agreement during the applicable Term are conditioned upon Licensee's payment of the applicable Annual Subscription Fee.
+
+9.3.2 MONTHLY SUBSCRIPTION LICENSE. When you purchase a Monthly Subscription License, you receive access to the then-current version of the Licensed Materials that CLO makes available online on our website, subject to the payment of the applicable Monthly Subscription Fee.
+
+9.3.2.1 Individual Licenses Only. Only Individual Licenses are offered on a Monthly Subscription basis.
+
+9.3.2.2 Monthly Subscription Term. The subscription period of a Monthly Subscription License is one (1) calendar month. Such subscription terms are individually and collectively referred to herein as "License Term," "Subscription Term," "Monthly Subscription," or "Monthly Subscription Term".
+
+9.3.2.3 Auto-Renewal. Monthly Subscription Licenses renew automatically, unless you cancel the subscription prior to the renewal date. You will be obligated to pay the corresponding Monthly Subscription Fees for any and all Monthly Subscription Terms that are renewed. You will be billed monthly for the Monthly Subscription License on or about the same day each month until you cancel your subscription.
+
+9.3.2.4 Refunds are not provided for cancelled subscriptions.
+
+9.3.2.5 Updates. Your payment of the applicable Monthly Subscription Fee entitles you to receive Updates during the applicable Subscription Term.
+
+9.3.3 ANNUAL SUBSCRIPTION LICENSE. When you purchase an Annual Subscription License, you receive access to the then-current version of the Software that CLO makes available online on our website for a period of twelve (12) months, subject to the payment of the applicable Annual Subscription Fee.
+
+9.3.3.1 Initial Term and Renewal Term. The "Initial Term' of any Annual Subscription Licenses will commence upon download or delivery of the specific Licensed Materials and will continue for a period of twelve (12) months thereafter. "Renewal Term" means, unless otherwise agreed in writing by CLO, the twelve (12) month renewal term following either the Initial Term, or a previous Renewal Term. The Initial Term and any subsequent Renewal Terms are individually and collectively referred to herein as the "License Term," "Subscription Term," "Annual Subscription," or "Annual Subscription Term".
+
+9.3.3.2 Auto-Renewal for Individual Licenses. Annual Subscription Licenses that are provided under the License Class of Individual Licenses renew automatically, unless you cancel the subscription prior to the renewal date. You will be obligated to pay the corresponding Annual Subscription Fee for any and all Annual Subscription Licenses that are renewed. You will be billed annually for the Annual Subscription License each year until you cancel your subscription.
+
+9.3.3.3 Other License Class Do Not Automatically Renew. Annual Subscription Licenses that are provided under any License Class other than Individual Licenses do not renew automatically. For any such non-auto-renewing Annual Subscription Licenses, although we may provide notice to you of an expiring subscription period, it is your responsibility to monitor the remaining term of your subscription period, and renew your subscription on a timely basis. If you do not renew your subscription on a timely basis, you may lose all content associated with your account.
+
+9.3.3.4 Refunds are not provided for cancelled subscriptions.
+
+9.3.3.5 Updates. Your payment of the applicable Annual Subscription Fee entitles you to receive Updates during the applicable Subscription Term.
+
+9.3.4 TRIAL LICENSE. When you obtain a Trial License, you receive access to the then-current version of the Software that CLO makes available on its website. Unless otherwise agreed to in writing by CLO, a Trial License Term is for thirty (30) says. If you have signed up for a free trial account and have provided your payment information, you must cancel your free trial before the end of your trial period. It is your responsibility to monitor the remaining term of your trial period. If you do not cancel before the end of your trial period, you will be charged after the trial period ends.
+
+9.3.4.1 Only 1 Trial License. Unless otherwise agreed to in writing by CLO:
+
+9.3.4.1.1 No individual person or entity may sign up for (or otherwise obtain) a trial license more than once;
+
+9.3.4.1.2 All persons and entities are expressly limited to one trial license; no person or entity may sign up for (or otherwise obtain) more than one trial license;
+
+9.3.4.1.3 Once a trial license expires, it may not be extended or renewed;
+
+9.3.4.1.4 Any access to, or use of, any aspect of our Software or Services beyond the scope or expiration of any trial license will be on a paid basis-and you consent to being charged for any such access or use, regardless of whether you utilize the same or another account for such access or use; and
+
+9.3.4.1.5 Any violation of the spirit or letter of this Section 9.3.4-as determined in the sole discretion of CLO-is subject to technical and legal remedies including (but not limited to) immediate suspension or termination (without notice) of any and all licenses CLO has reason to believe are associated with such violation.
+
+9.3.5 In some exceptional cases when agreed to in writing by CLO, CLO may provide you with a non-perpetual, non-automatically renewing subscription license (e.g. where it is necessary to prorate the Subscription Term of newly purchased Annual Subscription Licenses to match the then-active Subscription Term of previously purchased Annual Subscription Licenses for Enterprise or Academic customers). Although we may provide notice to you of an expiring subscription period, it is your responsibility to monitor the remaining term of your subscription period, and renew your subscription on a timely basis. If you do not renew your subscription on a timely basis, you may lose all content associated with your account.
+
+10. PRICE CHANGES
+CLO reserves the right to change prices or institute new charges for access to or use of our Services or Software at any time upon not less than thirty (30) days' notice to you. You are responsible for regularly reviewing such pricing information. Continued use of the Service or Software or non-termination of your account after such thirty (30) day period constitutes your acceptance of the prices as modified.
+
+11. REGISTRATION, USERNAMES & PASSWORDS
+11.1 In order to access some features of the Services, you may be required to register an account with us.
+
+11.2 When creating or updating an account, you may be asked to provide us with certain personal information, which may include your e-mail address and other information that can be used to identify you. Such information, if provided to us, will be held and used in accordance with our Privacy Policy.
+
+11.3 Notwithstanding anything herein to the contrary, you acknowledge and agree that you have no ownership or other property interest in the account, and you further acknowledge and agree that all rights in and to the account are and shall be owned solely and exclusively by CLO.
+
+11.4 You agree to (i) provide us with current, complete and accurate information as prompted by the applicable registration form, and (ii) maintain and promptly update the registration data to keep it true, complete, accurate and correct. If you provide any information that is untrue, inaccurate, not current or incomplete, CLO has the right to suspend or deactivate your account and refuse you from any and all current and future use of the Services (or any portion thereof).
+
+11.5 When registering for an account, you will be asked to choose a password and username. You may not use a username that is used by someone else, is vulgar or otherwise offensive (as determined by CLO in its sole discretion), infringes any trademark or other rights of others, or is used in any way that violates these Terms. You are entirely responsible for maintaining the confidentiality and security of your account information (including usernames, passwords and billing information).
+
+11.6 You are solely responsible for any and all activities, charges and fees that occur under your account. You agree to properly exit from your account at the end of each session. You agree to notify CLO immediately of any unauthorized use of your account or any other breach of security (and to provide properly documented evidence as reasonably requested by CLO).
+
+11.7 CLO will not be liable for any loss or damage that you may suffer as a result of someone else using your account, either with or without your knowledge. You will be liable for any and all losses incurred by CLO and/or any of its licensors due to someone else using your account. You may not use anyone else's account at any time. Your account is personal to you and you may not transfer or make your account available to others. Any distribution by you of your account or related information may result in suspension or deactivation of your account without refund or compensation to you, and the imposition of additional charges to your account based on any unauthorized use.
+
+12. USER CONTENT & UNSOLICITED SUBMISSIONS
+12.1 Certain aspects of the Services allow users to upload, transmit or post content ("Post"). By Posting content, including, without limitation, Virtual Items such as patterns and related data, materials, choosing a username, or participation in any chats or forums, you automatically grant us and our designees, or warrant that the owner of such content has expressly granted us and our designees, a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, copy, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display content you Post throughout the world in any media. You also hereby grant each user of the Services a non-exclusive license to access content you Post, and to use, reproduce, distribute, display and perform such content, each in the manner contemplated by the Services and these Terms.
+
+12.2 You further represent and warrant that: (i) you own or have the necessary rights (intellectual property rights or otherwise) in and to any and all content you Post and to enable inclusion and use of such content in the manner contemplated by the Services and these Terms; (ii) that we will not need to obtain any licenses or consents from, or make any payments to, any third party for any use or exploitation of content you Post as authorized herein, or have any liability to you or any other party as a result of any use or exploitation of such content as authorized herein; (iii) content you Post will not be illegal, obscene, threatening, defamatory, invasive of privacy, or otherwise injurious to third parties or objectionable, and must not consist of or contain software viruses, commercial solicitation, chain letters, mass mailings, or any form of "spam;" (iv) content you Post may be copied by other users of the Services (where permitted by the intended functionality of the Services); and (v) if you do not have the right to Post content for such use, it may subject you to liability. CLO takes no responsibility and assumes no liability for any content Posted by you or any third party.
+
+12.3 We have no obligation to monitor content Posted on the Services and we are not responsible for monitoring the Services for inappropriate or illegal content or conduct by other users. However, we retain the right, in our sole discretion, to edit, refuse to post, or remove any content. We may also, at our discretion, monitor and/or record your interaction with the Services or your communications with CLO or other users (including without limitation chat text and voice communications) when you are using the Services.
+
+12.4 We are pleased to hear from you and welcome comments regarding the Services. Unfortunately, however, long-standing company policy does not allow us to accept or consider creative ideas, suggestions or materials other than those we have specifically requested. If, despite our request that you not send us any other creative materials, you send us creative suggestions, ideas, notes, drawings, concepts or other information (collectively, the "Unsolicited Submissions"), the Unsolicited Submissions shall be deemed, and shall remain, the property of CLO. None of the Unsolicited Submissions shall be subject to any obligation of confidence on the part of CLO, and we shall not be liable for any use or disclosure of any Unsolicited Submissions. Without limitation of the foregoing, we shall exclusively own all now known or hereafter existing rights to the Unsolicited Submissions of every kind and nature, in perpetuity, throughout the universe and shall be entitled to unrestricted use of the Unsolicited Submissions for any purpose whatsoever, commercial or otherwise, without compensation to the provider of the Unsolicited Submissions. You waive any and all moral rights in any such Unsolicited Submissions as well as any claim to a right of credit or approval. The foregoing shall also apply to any creative submissions you make at our specific request, unless otherwise agreed in writing.
+
+13. CONFIDENTIALITY
+13.1 Confidentiality. In the course of providing the Software and/or Services to you under these Terms, including any presales communications or post-sales support, we and/or our Affiliates (the "Disclosing Party") may disclose or may have already disclosed to you and/or your Affiliates (the "Receiving Party") non-public information relating to the subject matter of these terms, which shall be considered to be the Disclosing Party's "Confidential Information"--whether disclosed or received, directly or indirectly, in oral, written, or any other format or media whatsoever. The Receiving Party agrees that it will take the same steps to protect the confidentiality of the Disclosing Party's Confidential Information as it takes to protect its own proprietary and confidential information. The Receiving Party shall protect and keep confidential and shall not use, publish or otherwise disclose to any third party, except as contemplated by this Agreement or with the Disclosing Party's prior written consent, the Disclosing Party's Confidential Information during and after the term of this Agreement. Licensee agrees and acknowledges that CLO may share Licensee's Confidential Information to third party contractors for the exclusive purpose of providing services to Licensee in relation to this Agreement; provided that CLO shall remain fully liable for acts and omissions of any such contractor in breach of this Agreement. For purposes of this Agreement, Confidential Information shall not include such information that:
+
+was known to the Receiving Party at the time of disclosure of it to the receiving Party by the Disclosing Party hereunder; or
+was generally available to the public or was otherwise part of the public domain at the time of disclosure or became generally available to the public or otherwise part of the public domain after disclosure other than through any act or omission of the Receiving Party in breach of this Agreement; or
+became known to the Receiving Party after disclosure from a source that had a lawful right to disclose such information to others; or
+was independently developed by the Receiving Party where such independent development can be established by written documentation.
+13.2 Permitted Disclosure. Notwithstanding the foregoing, the Receiving Party may disclose Confidential Information of the Disclosing Party and/or the terms and conditions of this Agreement pursuant to a subpoena or other court process only (i) after having given the Disclosing Party prompt notice of the Receiving Party's receipt of such subpoena or other process and (ii) after the Receiving Party has given the Disclosing Party a reasonable opportunity to oppose such subpoena or other process or to obtain a protective order. Confidential Information of the Disclosing Party in the custody or control of the Receiving Party shall be promptly returned or destroyed upon the earlier of (i) the Disclosing Party's written request or (ii) termination of these Terms.
+
+13.3 Term. The obligations of the Receiving Party under this Section 13 shall survive, with respect to any particular Confidential Information of the Disclosing Party, until all Confidential Information of the Disclosing Party disclosed hereunder becomes publicly known or made generally available through no action or inaction of the Receiving Party; except with respect to Confidential Information of the Disclosing Party that constitutes a trade secret under applicable law, in which case, such obligations of the Receiving Party shall continue until such Confidential Information becomes publicly known or made generally available through no action or inaction of the Receiving Party.
+
+13.4 Remedies. The Receiving Party agrees that any violation or threatened violation of this Agreement may cause irreparable injury to the Disclosing Party, entitling the Disclosing Party to seek injunctive relief in addition to all legal remedies.
+
+14. COPYRIGHT NOTICES & COMPLAINTS
+CLO respects the intellectual property of others, and we ask our users to do the same. CLO may, in appropriate circumstances and at its discretion, disable and/or terminate the accounts of users who may be repeat infringers. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide CLO's Copyright Agent the following information:
+
+an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+a description of the copyrighted work or other intellectual property that you claim has been infringed;
+a description of where the material that you claim is infringing is located on the site;
+your address, telephone number, and email address;
+a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+CLO's Agent for Notice of claims of copyright or other intellectual property infringement can be reached as follows:
+
+CLO Copyright Agent
+16 E 34th Street
+18th Floor
+New York, NY 10016
+Email: legal@clo3d.com
+
+15. ELECTRONIC COMMUNICATIONS
+15.1When you use the Services or send emails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We may communicate with you by email (if provided by you) or by posting notices through the Services. You agree that all agreements, notices, disclosures and other communications that we provide you electronically satisfy any legal requirement that such communications be in writing.
+
+15.2 Privacy and Use of Information; Connectivity. For Network Online Authentication licenses, you acknowledge and agree that: (i) when the Software is installed and connected to the Internet, CLO (and/or third parties acting on behalf of CLO) may automatically collect certain information and data from you including anonymized USER IDs, encrypted passwords, the specifications of hardware utilized by Authorized Users to access the Licensed Materials (HWIDs), and IP addresses ("Licensee Data"). The Licensee Data is used for purposes of user registration, activation, updating, validating, monitoring installation, providing technical support, and such other purposes reasonably necessary to monitor and maintain the Software and provide you with the Services. You hereby consent to CLO monitoring, maintaining, using, storing and disclosing such Licensee Data within the scope of these Terms--including the storage of Licensee Data in data-centers hosted by third party providers; and that certain aspects of the Software require access to and use of content and services that are hosted on websites maintained by CLO. Accessing such content or services and use of the Software will cause your computer, without additional notice, to connect automatically to the Internet and to communicate with CLO.
+
+15.3 Activation and Security. Installation of the Software and access to the Services require, and the continued use thereof may from time to time require, remote authentication by CLO or activation codes issued by CLO. YOU ACKNOWLEDGE AND AGREE THAT INSTALLATION OF OUR SERVICES AND/OR SOFTWARE MAY BE DISABLED BY CLO PROTECTION MECHANISMS IF YOU TRY TO TRANSFER ALL OR A PART OF THE OUR SOFTWARE TO ANOTHER COMPUTER, IF YOU ARE NOT AN AUTHORIZED USER, IF YOU TAMPER WITH THE TECHNICAL PROTECTION MECHANISMS OR DATE-SETTING MECHANISMS ON A COMPUTER OR IN OUR SOFTWARE, IF YOU USE OUR SOFTWARE PAST THE APPLICABLE LICENSE TERM, OR IF YOU UNDERTAKE CERTAIN OTHER ACTIONS THAT AFFECT THE SECURITY OR UNDER OTHER CIRCUMSTANCES AND THAT, IN ANY SUCH EVENT, YOUR ACCESS TO YOUR WORK PRODUCT AND OTHER DATA MAY BE AFFECTED
+
+16. LINKS
+The Services may contain links to websites operated by third parties. We do not monitor or control the linked sites and make no representations regarding, and are not liable or responsible for the accuracy, completeness, timeliness, reliability or availability of, any of the content uploaded, displayed, or distributed, or products, or services available at these sites. If you choose to access any third party site, you do so at your own risk. The presence of a link to a third party site does not constitute or imply our endorsement, sponsorship, or recommendation of the third party or of the content, products, or services contained on, or available through, the third party site. We reserve the right to disable links from or to third party sites. Your correspondence or dealings with the linked website or service providers are solely between you and such third party, and CLO is neither responsible nor liable for any part of such dealings. Any charges you incur in relation to those third parties are your responsibility. You understand that when you provide data to such third parties, you are providing it in accordance with their privacy policy (if any), and our Privacy Policy does not apply with respect to such data provided to the third parties.
+
+17. THIRD-PARTY MERCHANTS & PROVIDERS
+The Services may enable you to order and receive products, information and services from third parties that are not owned or operated by us. The purchase, payment, warranty, guarantee, delivery, maintenance, and all other matters concerning the merchandise, services or information, opinion or advice ordered or received from such businesses are solely between you and such third parties. We do not endorse, warrant, or guarantee such products, information, or services, and are not liable for the accuracy, completeness, or usefulness of such information or the quality of availability of such products or services. We will not be a party to or in any way be responsible for monitoring any transaction between you and third-party providers of such products, services, or information, or for ensuring the confidentiality of your credit card information. Any separate charges or obligations you incur in your dealings with these third parties are your responsibility and are not part of the fee, if any, charged for the Services. In addition, the Services may prompt you to establish an account with a third party not owned or operated by us. Your agreement and understanding with any such third party is solely between you and such third party. We will not be a party to or in any way be responsible for your agreement with such third-party. Any disputes you may encounter with such third party shall be settled solely between you and such third party.
+
+18. OPEN SOURCE SOFTWARE AND OTHER SOFTWARE
+18.1 You acknowledge that certain Software may contain copyrighted software of third parties, including open source software, which are obtained under a license from such parties ("Third Party Software"). Required notices can be found at the end of this document. All third party licensors retain all right, title and interest in and to such Third Party Software and all copies thereof, including all copyright and other intellectual property rights. Your use of any Third Party Software shall be subject to, and you shall comply with, these Terms, and the applicable restrictions and other terms and conditions set forth in any Third Party Software documentation or printed materials, including without limitation an end user license agreement. There may be provisions in an open source end user license agreement that expressly override some of these Terms. Notwithstanding anything to the contrary contained in Third Party Software licenses, the disclaimer of warranties and the limitation of liability provisions in these Terms shall apply to such Third Party Software.
+
+18.2 Certain components of the Software and Third Party Software which is open source software, if any, may be made available by CLO at the end of this document (collectively the "Open-Source Components"). Each item of Open-Source Components is licensed under the terms of the end user license that accompanies such Open-Source Component. Nothing in these Terms limit your rights under, or grant you rights that supersede, the terms and conditions of any applicable end user license for the Open-Source Components.
+
+19. CLO's Brand Marks
+Any trademarks, logos, web pages, screenshots, or other distinctive features of our Services and CLO software (collectively, the "Brand Marks") are copyrights, trademarks, service marks, trade dress and/or other intellectual property whether registered or unregistered owned by CLO, its licensors, or other providers of such material. Unless otherwise agreed in writing by CLO, nothing herein grants or should be deemed to grant to you any right, title or interest in or to the Brand Marks, ownership of which is retained by CLO and its suppliers, as applicable. Your use of the CLO Brand Marks shall inure to the sole benefit of CLO.
+
+20. AUDITS
+You agree that CLO has the right to require an audit (electronic or otherwise) of the Services and/or Software, and the installation thereof or access thereto. As part of any such audit, CLO or its authorized representative will have the right, on at least ten (10) days' prior notice to you, to inspect your records, systems and facilities to verify that the use of any and all of the Services and/or Software is in conformance with these Terms. You will provide full cooperation to enable any such audit. If CLO determines that your use is not in conformity with these Terms, you will obtain immediately and pay for valid license(s) to bring your use into compliance with these Terms and other applicable terms and pay the reasonable costs of the audit. In addition to such payment rights, CLO reserves the right to seek any other remedies available at law or in equity, whether under these Terms or otherwise.
+
+21. TERM & TERMINATION
+21.1 Your right to use the Services and Software are effective through the end of the applicable Subscription Term, or where a perpetual license is purchased, perpetually, unless earlier terminated pursuant to these Terms.
+
+21.2 As between CLO and you, each of CLO or you may terminate these Terms and your license to the Services and/or Software if the other party is in breach of these Terms and fails to cure such breach within ten (10) calendar days after written notice of the breach; however, if you are in breach of Sections 3, 7, 9, and/or 13 of these Terms, CLO may terminate these Terms, and your license to the Services, Software, or Licensed Materials immediately, without further notice to you. In addition, CLO may, as an alternative to termination, suspend your license to the Services, Software, and/or Licensed Materials and/or other CLO obligations or your rights under these Terms, if you fail to pay the applicable fees to CLO or otherwise fails to comply with the provisions of these Terms or other terms relating to any such license or other associated materials. CLO may also terminate these Terms if you become subject to bankruptcy proceedings, become insolvent, or make an arrangement with your creditors. These Terms and any licenses issued hereunder will terminate automatically without further notice or action by CLO if you go into liquidation. You acknowledge and agree that CLO may assign or subcontract any of its rights or obligations under these Terms. Each of CLO or you may terminate these Terms for convenience, upon sixty (60) days prior written notice; provided that these Terms shall not terminate until all then-active Subscription Terms of all prepaid Subscription Licenses issued hereunder expire and all payments required from you to CLO under these Terms are made by you to CLO.
+
+21.3 Upon termination, the licenses granted to you by CLO shall cease, you may not be able to access or retrieve any content associated with your account, and you will promptly remove the Software from your device.
+
+21.4 If you terminate your account, you agree that we may keep your content on our servers for a reasonable time thereafter (for example, to enable you to renew a subscription or reactivate your account, if you so desire).
+
+21.5 Survival. In the event of expiration or termination of your account, the representations made by you in these Terms, and the obligations of each party, which by their nature would continue beyond the termination or expiration of these Terms-including without limitation the Sections entitled "Term and Termination", "Disclaimers", "Limitation of Liability", "Indemnification", "Equitable Remedies", "Governing Law and Disputes", and Sections 27 through 30-shall survive such expiration or termination.
+
+22. DISCLAIMERS
+22.1 NEITHER CLO, ITS AFFILIATES, LICENSORS AND THIRD PARTY PROVIDERS, NOR ANY OF THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS (COLLECTIVELY, THE "CLO PARTIES"), MAKE ANY WARRANTY WHATSOEVER, INCLUDING, WITHOUT LIMITATION, (i) THAT OUR SERVICES WILL BE UNINTERRUPTED OR ERROR FREE; (ii) AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF OUR SERVICES; OR (iii) OR AS TO THE ACCURACY, RELIABILITY, QUALITY OR CONTENT OF ANY INFORMATION, SERVICE OR MERCHANDISE PROVIDED ON OR THROUGH OUR SERVICES
+
+22.2 YOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, OUR SERVICES IS AT YOUR SOLE RISK. CLO WILL HAVE NO LIABILITY WHATSOEVER AS A RESULT OF LOSS OR DAMAGE TO CONTENT, OR FAILURE TO STORE OR ENCRYPT CONTENT. OUR SERVICES AND ANY CONTENT APPEARING ON OUR SERVICES, INCLUDING USER CONTENT, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WITHOUT LIMITING THE FOREGOING, TO THE FULLEST EXTENT PERMITTED BY LAW, CLO MAKES NO REPRESENTATIONS, WARRANTIES, CONDITIONS OR OTHER TERMS OF ANY KIND, EITHER EXPRESS OR IMPLIED, ABOUT OUR SERVICES CLO DISCLAIMS ANY WARRANTIES OF TITLE OR IMPLIED WARRANTIES, CONDITIONS OR OTHER TERMS OF NON-INFRINGEMENT, MERCHANTABILITY, QUIET ENJOYMENT OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN THOSE WARRANTIES WHICH ARE INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER THE LAWS APPLICABLE TO THESE TERMS.
+
+23. LIMITATION OF LIABILITY
+23.1 IN NO EVENT WILL ANY OF THE CLO PARTIES BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED, AND UNDER ANY THEORY OF LIABILITY EVEN IF CLO WAS PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+23.2 IN THE EVENT ANY CLAIM RELATING TO THE PERFORMANCE OR NONPERFORMANCE BY CLO PURSUANT TO THESE TERMS, OR IN ANY OTHER WAY CONCERNING OUR SERVICES IS MADE BY YOU, THE ACTUAL DAMAGES TO WHICH YOU MAY BE ENTITLED SHALL BE LIMITED TO THE FEES, IF ANY, PAID BY YOU FOR USE OF THE MARVELOUS DESIGNER SERVICES IN THE 180 DAY PERIOD PRECEDING YOUR CLAIM AND IF YOU HAVE NOT PAID ANY AMOUNTS DURING THAT TIME PERIOD, YOU ACKNOWLEDGE THAT YOUR SOLE REMEDY SHALL BE TO CEASE USING THE MARVELOUS DESIGNER SERVICES AND TERMINATE YOUR ACCOUNT.
+
+23.3 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF STATUTORY OR IMPLIED WARRANTIES, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CERTAIN TYPES OF DAMAGES. IN SUCH JURISDICTIONS THE LIMITATIONS AND EXCLUSIONS SET FORTH HEREIN MAY NOT APPLY TO YOU. CONSEQUENTLY, IN SUCH JURISDICTIONS, THE LIABILITY OF THE CLO PARTIES IS LIMITED TO THE EXTENT PERMITTED BY LAW, THEREBY MINIMIZING THE LIABILITY OF SUCH CLO PARTIES TO YOU TO THE LOWEST AMOUNT PERMITTED BY APPLICABLE LAW. THIS LIMITATION IS INDEPENDENT OF ANY OTHER LIMITATION SET FORTH IN THESE TERMS.
+
+23.4 IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.
+
+23.5 THE CLO PARTIES DO NOT ENDORSE AND ARE NOT RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF ANY OPINION, ADVICE OR STATEMENT, NOR FOR ANY OFFENSIVE, DEFAMATORY, OBSCENE OR ILLEGAL POSTING OR CONDUCT, ON OUR SERVICES, INCLUDING, WITHOUT LIMITATION, BY ANYONE OTHER THAN AUTHORIZED CLO EMPLOYEES WHILE ACTING IN THEIR OFFICIAL CAPACITIES.
+
+24. INDEMNIFICATION
+You agree to indemnify and hold CLO Parties harmless from any loss, liability, claim, or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Services or Software in violation of these Terms and/or any breach of your representations and warranties set forth above and/or if content you Post causes us to be liable to another.
+
+25. EQUITABLE REMEDIES
+25.1 You acknowledge that the rights granted and obligations made under these Terms to CLO are of a unique and irreplaceable nature, the loss of which shall irreparably harm CLO and which cannot be replaced by monetary damages alone. Accordingly, CLO shall be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety or proof of damages) in the event of any breach or anticipatory breach by you.
+
+25.2 You irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Services, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Services or any content or other material used or displayed through the Services and agree to limit your claims to monetary damages (but only to the extent permissible under these Terms)
+
+26. GOVERNING LAW AND DISPUTES
+26.1 You are contracting with CLO Virtual Fashion, LLC located at 16 E 34th Street, 18th Floor, New York, NY 10016 USA. The laws of the State of New York, USA govern the interpretation of these Terms and apply to claims for breach of these Terms, regardless of conflict of laws principles. The parties specifically exclude from application to these Terms the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will, only to the extent required by applicable law, be subject to the laws of your state of residence in the United States, or, if you live outside the United States, the laws of the country in which you reside. You and we irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts for New York County, New York, USA, for all disputes arising out of or relating to these Terms.
+
+26.2 Without prejudice to any rights of CLO provided herein or otherwise, in the event of a dispute, the parties shall first exercise commercially reasonable efforts to resolve any such dispute amicably. If amicable resolution is unsuccessful, all claims you bring against CLO must be resolved in accordance with Section 26.3.
+
+26.3 All claims you bring against CLO must be resolved in accordance with this Section 26.3. All claims filed or brought contrary to this Section shall be considered improperly filed. Should you file a claim contrary to this Section, CLO shall be entitled to recover attorneys' fees and costs up to $2,000, provided that CLO has notified you in writing of the improperly filed claim, and you have failed to promptly withdraw the claim.
+
+26.3.1 Any claim or cause of action arising out of or related to use of the Services or the Software or these Terms must be filed within one year after such claim or cause or action arose regardless of any statutes or law to the contrary. In the event any such claim or cause of action is not filed within such one year period, such claim or cause of action are forever barred.
+
+26.3.2 For any claim, (excluding claims for injunctive or other equitable relief) where the total amount of the award sought is less than $10,000, the parties shall resolve the dispute in a cost effective manner through binding non-appearance-based arbitration. The party requesting relief shall initiate such arbitration through an established alternative dispute resolution ("ADR") provider mutually agreed upon by the parties. The ADR provider and the parties must comply with the following rules: (a) the arbitration shall be conducted by telephone, online and/or be solely based on written submissions, and the specific manner shall be chosen by the party initiating the arbitration; (b) all aspects of the arbitration shall be conducted in the English language; (c) the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties; and (d) any judgment on the award rendered by the arbitrator shall be final and may be entered in any court of competent jurisdiction.
+
+27. Publicity
+You grant CLO the right to use your company name and logo as a reference for marketing or promotional purposes on our website and in other public or private communications with our existing or potential customers, subject to your standard trademark usage guidelines as provided to us from time to time. CLO doesn't want to list users who don't want to be listed, so you may send us an email to legal@clo3d.com stating that it does not wish to be used as a reference and a reasonable period to stop the use.
+
+28. SEVERABILITY
+The provisions of these Terms are intended to be severable. If for any reason any provision of these Terms shall be held invalid or unenforceable in whole or in part in any jurisdiction, such provision shall, as to such jurisdiction, be ineffective to the extent of such invalidity or unenforceability without in any manner affecting the validity or enforceability thereof in any other jurisdiction or the remaining provisions hereof in any jurisdiction.
+
+29. ENFORCEABILITY, ENTIRE AGREEMENT & NON-WAIVER
+These Terms are deemed accepted upon any use of the Services. These Terms and any additional terms referenced herein constitute the entire agreement between you and CLO regarding the use of the Services and Software (subject to any separate EULA). Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect.
+
+30. ASSIGNMENT
+You may not transfer or assign any of the rights or licenses granted to you hereunder without our prior written consent therefor. However, we may transfer or assign all or a part of our rights or responsibilities under these Terms to any person or entity without your consent.
+
+31. FORCE MAJEURE
+We are not liable for any changes or problems out of our control, for example changes or problems caused by like natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, or shortages of transportation facilities, fuel, energy, labor or materials.
+
+32. TECHNICAL AND CUSTOMER SUPPORT
+Subject to the other provisions of these Terms, CLO will attempt to help you with any queries or problems that you may have with the Services, any of your purchases, and any questions about these Terms generally. To reach our customer support team, please email us at support@clo3d.com.
+
+33. NOTICES
+We may notify you by posting(s) made within the Services, sending you an e-mail or using other ways of communicating with you based on the contact information you provide to us. Any notice to CLO required according to these Terms must be in writing and addressed to 16 E 34th Street, 18th Floor, New York, NY 10016 USA, unless we have provided a more specific method of notifying us. No notice to CLO under these Terms will be effective unless a copy of such notice is also emailed to legal@clo3d.com.
+
+
+======================================================================
+
+
+Open Source Software and Other Software
+
+Portions of CLO Software may utilize the following copyrighted material, the use of which is hereby acknowledged.
+
+----
+
+Alembic
+- Download Link : https://github.com/alembic/alembic/releases
+- License : https://github.com/alembic/alembic/blob/master/LICENSE.txt
+
+----
+
+Autodesk(R) FBX(R) SDK 2020
+
+This software contains Autodesk(R) FBX(R) code developed by Autodesk, Inc. Copyright 2019 Autodesk, Inc. All rights, reserved. Such code is provided "as is" and Autodesk, Inc. disclaims any and all warranties, whether express or implied, including without limitation the implied warranties of merchantability, fitness for a particular purpose or non-infringement of third party rights. In no event shall Autodesk, Inc. be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of such code.
+
+----
+
+boost 1.76
+- Download Link : http://www.boost.org/users/history/version_1_76_0.html
+- License : Boost Software License (https://www.boost.org/LICENSE_1_0.txt)
+
+Boost Software License - Version 1.0 - August 17th, 2003
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+----
+
+BreakPad
+- Download Link : https://chromium.googlesource.com/breakpad/breakpad/
+- License : modified MIT (https://chromium.googlesource.com/breakpad/breakpad/+/master/LICENSE)
+
+Copyright (c) 2006, Google Inc. 
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+* Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+* Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+--------------------------------------------------------------------
+Copyright 2001-2004 Unicode, Inc.
+Disclaimer
+This source code is provided as is by Unicode, Inc. No claims are
+made as to fitness for any particular purpose. No warranties of any
+kind are expressed or implied. The recipient agrees to determine
+applicability of information provided. If this file has been
+purchased on magnetic or optical media from Unicode, Inc., the
+sole remedy for any claim will be exchange of defective media
+within 90 days of receipt.
+Limitations on Rights to Redistribute This Code
+Unicode, Inc. hereby grants the right to freely use the information
+supplied in this file in the creation of products supporting the
+Unicode Standard, and to make copies of this file in any form
+for internal or external distribution as long as this notice
+remains attached.
+
+----
+
+Ceres Solver
+- Download Link : https://ceres-solver.googlesource.com/ceres-solver
+- License : New BSD License  (http://ceres-solver.org/license.html)
+
+----
+
+ColladaDom
+- Download Link : http://sourceforge.net/projects/collada-dom/
+- License : MIT (http://opensource.org/licenses/mit-license.php)
+
+----
+
+CUDA v11.0
+- Download Link : https://developer.nvidia.com/cuda-downloads
+- License : https://docs.nvidia.com/cuda/eula/index.html
+
+This software contains source code provided by NVIDIA Corporation.
+
+----
+
+Curl
+- Download Link : https://curl.haxx.se/download.html
+- License : https://curl.haxx.se/docs/copyright.html
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1996 - 2020, Daniel Stenberg, daniel@haxx.se, and many contributors, see the THANKS file.
+
+All rights reserved.
+
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.dealings in this Software without prior written authorization of the copyright holder.
+
+----
+
+FreeType
+- Download Link : http://www.freetype.org/
+- License : FreeType License (https://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT)
+
+----
+
+FreeImage
+- Download Link : http://freeimage.sourceforge.net/download.html
+- License : FreeImage Public License (http://freeimage.sourceforge.net/freeimage-license.txt)
+
+This software uses the FreeImage open source image library. See http://freeimage.sourceforge.net for details.
+FreeImage is used under the FreeImage Public License
+
+----
+
+FTGL
+- Download Link : http://sourceforge.net/projects/ftgl/
+- License : LGPL 2.0 (http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html)
+
+----
+
+FX-GLTF
+- Download Link : https://github.com/jessey-git/fx-gltf
+- License : MIT (https://github.com/jessey-git/fx-gltf/blob/master/LICENSE)
+
+----
+
+gcc48
+- Download Link : https://gcc.gnu.org
+- License : GPLv3 with GCC runtime library exception (https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html)
+
+----
+
+glew
+- Download Link : http://glew.sourceforge.net/
+- License :  Modified BSD License, the Mesa 3-D License (MIT) and the Khronos License (MIT)(https://github.com/nigels-com/glew#copyright-and-licensing)
+
+The OpenGL Extension Wrangler Library
+Copyright (C) 2008-2016, Nigel Stewart <nigels[]users sourceforge net>
+Copyright (C) 2002-2008, Milan Ikits <milan ikits[]ieee org>
+Copyright (C) 2002-2008, Marcelo E. Magallon <mmagallo[]debian org>
+Copyright (C) 2002, Lev Povalahev
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice,
+  this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+* The name of the author may be used to endorse or promote products
+  derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+HDF5
+- Download Link : https://www.hdfgroup.org/downloads/hdf5/
+- License : https://support.hdfgroup.org/ftp/HDF5/releases/COPYING
+
+----
+
+Json
+- Download Link : https://nlohmann.github.io/json/
+- License : MIT (https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)
+
+----
+
+libiomp
+- Download Link : https://www.openmprtl.org/download#stable-releases
+- License : BSD (https://www.openmprtl.org/faq/10)
+
+----
+
+Mesa 3-D graphics library
+Version: 7.0
+
+Copyright (C) 1999-2007 Brian Paul All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+BRIAN PAUL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+--------------------------------------------------------------------
+
+Copyright (c) 2007 The Khronos Group Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and/or associated documentation files (the
+"Materials"), to deal in the Materials without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Materials, and to
+permit persons to whom the Materials are furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Materials.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+
+----
+
+MiniZip
+- Download Link : http://www.winimage.com/zLibDll/minizip.html
+- License : MIT (http://opensource.org/licenses/mit-license.php)
+
+----
+
+Nanum Gothic font
+- Download Link : http://cdn.naver.com/naver/NanumFont/setup/NanumFontSetup_TTF_GOTHIC_hangeulcamp.exe
+- License : SIL Open Font License v1.1 (https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497)
+
+Copyright (c) 2010, NAVER Corporation (https://www.navercorp.com/),
+
+with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen, Naver NanumGothicEco, NanumGothicEco, Naver NanumMyeongjoEco, NanumMyeongjoEco, Naver NanumGothicLight, NanumGothicLight, NanumBarunGothic, Naver NanumBarunGothic,
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+----
+
+node-appdmg
+- Download Link : https://github.com/LinusU/node-appdmg
+- License : MIT (https://github.com/LinusU/node-appdmg/blob/master/LICENSE)
+
+The MIT License (MIT)
+
+Copyright (c) 2013 Linus Unnebäck
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----
+
+Nullsoft Scriptable Install System
+- Download Link : http://sourceforge.net/projects/nsis/
+- License : zlib/libpng License(https://opensource.org/licenses/Zlib)
+
+----
+
+OpenCV 4.5.0
+- Download Link : http://opencv.org/
+- License : Apache 2.0 License (https://opencv.org/license/)
+
+Copyright (C) 2000-2019, Intel Corporation, all rights reserved.
+Copyright (C) 2009-2011, Willow Garage Inc., all rights reserved.
+Copyright (C) 2009-2016, NVIDIA Corporation, all rights reserved.
+Copyright (C) 2010-2013, Advanced Micro Devices, Inc., all rights reserved.
+Copyright (C) 2015-2016, OpenCV Foundation, all rights reserved.
+Copyright (C) 2015-2016, Itseez Inc., all rights reserved.
+Third party copyrights are property of their respective owners.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the names of the copyright holders nor the names of the contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+This software is provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall copyright holders or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
+----
+
+OpenEXR
+- Download Link : http://www.openexr.com/downloads.html
+- License : Modified BSD License (http://www.openexr.com/license.html)
+
+Copyright (c) 2006-2019 OpenEXR a Series of LF Projects, LLC. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+OpenGL Mathematics (GLM)
+- Download Link : https://glm.g-truc.net/0.9.9/index.html 
+- License :  The Happy Bunny License and MIT License (http://glm.g-truc.net/copying.txt)
+
+----
+
+OpenSSL
+- Download Link : https://www.openssl.org/
+- License : dual OpenSSL and SSLeay license (https://www.openssl.org/source/license-openssl-ssleay.txt)
+- Acknowledgement: "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)" "This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)"
+
+----
+
+OpenSubdiv
+- Download Link : http://graphics.pixar.com/opensubdiv/docs/intro.html 
+- License : Modified Apache 2.0 (http://graphics.pixar.com/opensubdiv/docs/license.html)
+
+----
+
+Python 3.7
+- Download Link : https://www.python.org/downloads/
+- License : PSF License  (https://docs.python.org/3/license.html#psf-license)
+
+----
+
+QT 5.15.2
+- Download Link : https://download.qt.io/archive/qt/5.15/5.15.2/
+- License : LGPL v3 (https://https://doc.qt.io/qt-5/lgpl.html)
+
+----
+
+Spoqa Han Sans font
+- Download Link : http://spoqa.github.io/spoqa-han-sans/
+- License : SIL Open Font License(http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+
+----
+
+STB Image 
+- Download Link : http://nothings.org/stb/ 
+- License : MIT (https://github.com/nothings/stb/blob/master/LICENSE)
+
+----
+
+Libigl
+- Download Link : https://github.com/libigl/libigl/tree/v2.4.0
+- License : MPL2 (https://github.com/libigl/libigl/blob/v2.4.0/LICENSE.MPL2)
+
+----
+
+Eigen
+- Download Link : http://eigen.tuxfamily.org/
+- License : MPL2 (https://www.mozilla.org/en-US/MPL/2.0/)
+
+----
+
+Autodesk(R) HumanIK(R) 2016
+(C) 2015 Autodesk, Inc. All rights reserved.
+All use of this Software is subject to execution by You of the Middleware License Agreement and any attachments or Appendices thereto and acceptance thereof by Autodesk, except if this Software is for evaluation purposes or is Pre-Release Software then all use of this Software is subject to the terms and conditions of the Middleware Evaluation and Pre-Release Product Testing License Agreement accepted upon installation of this Software and/or packaged with the Software.
+
+
+----
+
+PDFNet Custom SDK 9.1.0 (CLO Products Only)
+
+PDF technology powered by PDFNet SDK copyright (C) PDFTron Systems Inc., 2001-2022, and distributed by CLO Virtual Fashion Inc. under license. All rights reserved.
+
+----
+
+Substance Development Kit(SDK) / Substance Engine 
+
+(C) 2021 Adobe. All rights reserved
+
+Adobe End User Minimum Terms
+
+The following terms ("Terms") between you  and Adobe Inc. ("Adobe") apply to  your use of the certain Adobe products ("Adobe Products") that are included in the [CLO6.0 (and later versions as applicable) and/or MarveleousDesigner10 (and later versions as applicable)] ("Licensed Products"). For the purpose of the Adobe End User Minimum Terms, Adobe Products shall mean the SDK and the Substance Engine. For clarity, the Substance Assets provided in the frame of the Combined Product(s) shall be governed and comply with the general and specific terms and conditions available here: https://www.substance3d.com/legal/general-terms-conditions/.
+ 
+1.	License. 
+1.1	License Grant. Subject to your  compliance with these Terms, Adobe grants  you, during the term of your license to the Licensed Product, a non-transferable, non-exclusive license to access and use the Adobe Products solely as integrated into the Licensed Products for your internal business purposes, and not for further distribution. 
+1.2	License Restrictions. 
+(A)	No Modifications or Reverse Engineering.  You will not, and will not assist or permit any third party to (1) modify, port, adapt, translate or create derivative works of any portion of any Adobe Products, or (2) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of any portion of any Adobe Products. 
+
+(B)	No Interference.  You will not (1) remove any "About" or "Info" screens or pages in the Adobe Products or  interfere with the functionality or appearance of any Adobe Products or any component thereof; (2) circumvent or attempt to circumvent any technical measures incorporated into the Adobe Products for the purposes of restricting their use to the purposes set forth in this Agreement; or (3) remove, alter, or obscure any proprietary or restrictive notices affixed to or contained in the Adobe Products. 
+
+(C) Malware. You  will not take any action that exposes any part of the Adobe Products to any malicious or harmful code, viruses, Trojan Horses, worms, time bombs, cancelbots or other malware intended to cause destruction or disruption.
+
+(D)	Compliance with Laws. You will use the Adobe Products in compliance with all applicable laws. 
+
+(E) No Sublicensing. You are   not permitted to (1) rent, lease, lend, sell, encumber, distribute or sublicense or grant other rights in the Adobe Products to a third party, including rights on a membership or subscription basis; or (2) provide use of the Adobe Products in a computer service business, third party outsourcing facility or service, service bureau arrangement, network, or time-sharing basis. 
+ (F) Open Source Software. You will not merge, integrate, or use the Adobe Products, or any portion thereof, with any software that is subject to license terms that require any Adobe intellectual property to be licensed to or otherwise shared with any third party (for example only, GPL license terms). 
+
+2.  	Adobe Intellectual Property. Adobe remains the sole owner of all right, title, and interest in the Adobe Products. Except as stated in these Terms, Adobe does not grant you any rights to patents, copyrights, trade secrets, trademarks, or any other rights in the Adobe Products. Adobe reserves all rights not granted under the Terms.  
+
+3.	 Warranty Disclaimer. THE ADOBE PRODUCTS ARE PROVIDED TO YOU "AS-IS." TO THE MAXIMUM EXTENT PERMITTED BY LAW, ADOBE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. ADOBE FURTHER DISCLAIMS ANY WARRANTY THAT (A) THE ADOBE PRODUCTS WILL MEET YOUR REQUIREMENTS OR WILL BE CONSTANTLY AVAILABLE, UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (B) THE RESULTS OBTAINED FROM THE USE OF THE ADOBE PRODUCTS WILL BE EFFECTIVE, ACCURATE, OR RELIABLE; (C) THE QUALITY OF THE ADOBE PRODUCTS WILL MEET YOUR EXPECTATIONS; OR (D) ANY ERRORS OR DEFECTS IN THE ADOBE PRODUCTS WILL BE CORRECTED.
+ 
+ 4. 	Limitation of Liability. Adobe is not liable to you or anyone else for any special, incidental, indirect, consequential, moral, exemplary or punitive damages whatsoever, regardless of cause, including losses and damages (1) resulting from loss of use, data, reputation, revenue, or profits; (2) based on any theory of liability, including breach of contract or warranty, negligence, or other tortious action; or (3) arising out of or in connection with your use of or access to the Adobe Products. Adobe's total liability in any matter arising out of or related to these Terms is limited to US $100. Notwithstanding the foregoing, nothing in these Terms limits or excludes Adobe's liability for gross negligence, intentional misconduct of Adobe or its employees, death, or personal injury. 
+The limitations and exclusions in this section 4 (Limitation of Liability) apply to the maximum extent permitted by law even if (1) a remedy does not fully compensate you for any losses or fails of its essential purpose; or (2) Adobe knew or should have known about the possibility of damages. 
+5. 	General Provisions. 
+
+5.1	Assignment. You may not assign or otherwise transfer these Terms, in whole or in part, without Adobe's prior written consent, and any such attempt will be void. 
+
+5.2 Severability. If any provision in these Terms is held invalid or unenforceable for any reason, the remaining terms will continue in full force and effect. 
+
+5.3	Entire Agreement. These Terms contain the entire understanding of the parties relating to the subject matter and supersedes all earlier agreements, understandings, proposals, discussions, negotiations, representations and warranties, both written and oral, regarding the subject matter.
+
+5.4	Governing Law. These Terms are governed by and construed under the laws of the State of California, without regard to any conflict of law rules or principles, and excluding the application of the United Nations Convention on Contracts for the International Sale of Goods. The Parties irrevocably submit to the exclusive jurisdiction of the courts of competent jurisdiction in the County of Santa Clara, State of California, provided however, Adobe will have the right to pursue claims against you in any other jurisdiction worldwide to enforce its rights under this Agreement or to enforce its intellectual property rights.
+
+5.5	Trade Rules. You acknowledge that the Adobe Products may be subject to the trade control laws and regulations of the United States and other national governments, and you will comply with them.
+5.6 U.S. Government Licensing. For US Government end users: you acknowledge that the Adobe Products are  "Commercial Item(s)," as that term is defined at 48 C.F.R. section 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as the terms are used in 48 C.F.R. section 12.212 or 48 C.F.R. section 227.7202, as applicable. You agree, consistent with 48 C.F.R. section 12.212 or 48 C.F.R. sections 227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (1) only as Commercial Items; and (2) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished rights are reserved under the copyright laws of the United States. 
+
+----
+
+V-RAY APPLICATION SDK
+
+This software contains binary code developed and provided by Chaos Software Ltd. All rights, reserved. Such code is provided "AS IS" and unless otherwise required by applicable law, Chaos Software disclaims any and all warranties, whether express or implied, including without limitation the implied warranties of merchantability, fitness for a particular purpose or noninfringement of third party rights. To the maximum extent permitted by applicable law, in no event shall Chaos Software be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of such code.
+
+======================================================================
+
+
+
+
+
+
+

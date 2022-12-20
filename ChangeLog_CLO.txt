@@ -1,0 +1,3113 @@
+[7.0.444]
+
+NEW
+
+- Apple Silicon I Simulation Speed ​​Improvement
+- Coloro Color Library
+
+FIXED
+
+- Fixed a crash that occurred while using the Select Mesh tool
+- Fixed a crash that occurred when loading certain Collada files
+- Fixed a crash that occurred when using the Avatar Measure function in certain Garments
+- Fixed an intermittent crash when copying the Piping created Fill pattern
+- Fixed a crash that occurred when the binding of a specific Garment was switched to Mode after Flip Normal
+- Fixed a crash that occurred when Undoing after adding a colorway to the Garment created by Graphic and Zipper
+- Fixed a crash that occurred when clicking Print on the Fabric tab after adding Colorway
+- Fixed the problem that the texture is scaled when Convert to Trim
+- Fixed a problem that certain 16bit image files could not be loaded
+- Fixed the problem that Undo cannot be done after modifying the texture
+- Fixed the problem that the color values ​​of graphic properties change when the colorway order is changed
+- Fixed an issue where grading information was not loaded properly if the scale was changed when loading a DXF file
+- Fixed an issue where grading information was different from the original when certain DXF files were loaded
+- Fixed an issue where the avatar was displayed in a deactivated state in Review Mode
+- Fixed the problem that binding was not created properly in a specific Garment
+- Fixed the problem that Piping could not be deleted when a specific pattern was modified
+- Issue that the property editor is distorted when adjusting intensity of the normal map with the slider
+- Fixed an issue where older versions of MVS files were not compatible properly
+- A problem that takes a long time when running the Standalone version in a VPN network environment
+- Issue that the outline of the pattern is distorted when generating POM in grading pattern 
+
+[7.0.358]
+
+NEW
+
+- Avatar Improvements
+- Grading Improvements
+- Colorway I Puckering
+- POM I Order Change
+- CLO-SET I Hierarchy
+
+FIXED
+
+- Crash when undoing after deleting or adding a colorway in a specific file 
+- Crash when adding a colorway after applying Fill 
+- Crash when loading specific files created with grading and group buttons 
+- Crash when using Scale Styleline in certain garments
+- Crash when saving ZPRJ after setting Save Thumbnails in Multiviews option
+- Crash when Refresh Texture with AI file applied as texture
+- Issue that the Tension Ratio value of the sewing line was changed during simulation 
+- Issue where the graphic size was applied differently in the review mode 
+- Issue where the zipper slider was not displayed in the review mode 
+- Issue that the grading value is not copied 
+- Issue that grading is not applied symmetrically when cutting internal line of Half Symmetry Pattern
+- Issue that the center line of the Half Symmetry pattern cannot be selected with the Trace Tool
+- Issue where images were saved as duplicate images when taking colorway snapshots
+- Issue that reapplying cannot be done when undoing after desaturation in the texture editing window 
+- Issue that Switch Color does not work at Blur Edge in the texture editing window 
+- Issue of speed being slow when changing graphic color of PSD file in the texture editing window 
+- Issue where some properties were not displayed when undoing after deleting the texture of the Substance 
+- Issue that caused a warning window when downloading Connect free items
+- Issue where the set value was changed when loading an MVS file saved in version 6.2 or earlier
+- Issue where playback was not performed when set to Real Time option in animation mode
+- Issue that certain grading points were not reflected when Extend/Trim the outline of the pattern   
+- Issue that the entered value was not applied when copying internal line that is in Inch
+- Issue where grainline rotation with Gizmo was not applied to all colorways
+
+
+[7.0.296]
+
+NEW
+
+- Child Avatar Head Circumference Adjustment 
+- Colorway Improvement
+- Nesting Improvement
+- Render I Environment Map (HDRI) Preview
+- CONNECT Integration Improvement
+
+FIXED
+
+- Crash when copying internal line in a certain type of garment 
+- Crash when creating a specific OBJ after registering it as a button 
+- Crash when copying patterns and internal shapes 
+- Crash when loading the group button created garment file in the grading pattern 
+- Crash when adding a garment file with a different grading size 
+- Crash when undoing the style after modifying the style line in the Thick Textured Surface state
+- Crash when Color Switching of GLB files in Texture Editor
+- Issue that the zipper shape was not maintained when creating graphics 
+- Issue that internal lines are created in the outline when tracing with a pattern 
+- Issue where the grading information of the baseline is missing when loading certain DXF files 
+- Issue that the default size is not applied when creating a buttonhole after scaling the pattern 
+- Issue of not being able to  auto-save in Apple Silicon (M1)
+- Issue that the metal preset of the zipper does not appear in the Colorway Editor 
+- Issue that the normal map of Puckering is not included when exporting as a GLB format after changing the Normal Blending Method 
+- Issue where desaturated textures were rendered in black 
+- Issue where the graphic with the grading size changed in review mode was displayed in black 
+- Issue where some seams were deleted when cutting after Layer Clone 
+- Issue when hiding the Silhouette Line in Schematic Render Mode
+
+
+[7.0.242]
+
+FIXED
+
+- Crash when loading/saving/modifying the garment with Buttonhole
+- Crash when clicking the POM tab of the Object Browser after loading a specific garment file
+- Crash when using nesting in print layout mode
+- Crash when changing Zipper Teeth & Tape presets
+- Crash when changing the colorway order
+- Crash when exporting using the API with ImportExportOption included
+- Issue where Texture Transformation does not appear in the button properties window
+- Issue that the CLO cannot open multiple windows by double-clicking the garment file
+- Issue where a warning window appeared during a live update
+- Issue of the missing baseline when importing certain DXF files
+- Issue that the 3D line segment is different from created 3D segment using tracing with the internal segment
+- Issue of the curve points of the pattern is not applied symmetrically when undoing after deleting
+
+[7.0.228]
+
+Key Features
+
+- Parametric Pattern Creation
+- Pantone Library
+- Native support for Apple Silicon
+
+Other Features
+
+- Texture Editor I Color Switch
+- Zipper | Teeth & Tape Individual Material
+- Convert to Trim
+- Binding I Created Bi-Directional
+- Modular I 3D Auto-Arrangement
+- User Interface Improvements
+
+FIXED
+
+- Crash when clicking the Modular Template Presets button 
+- Issue that Graphic Boundary is displayed during Show Grading
+- Issue that buttons and buttonholes disappear when changing the grading size
+- Issue that the outline of the pattern is distorted when generating POM in grading pattern 
+- Issue that normal map is applied in original size when copying after changing size graphic 
+- Issue that the Bind Position of the Buttonhole is not applied symmetrically when copying the symmetric pattern 
+- Issue that the Z-Offset of the graphic intersected with other graphics does not change
+- Issue where a line segment was displayed abnormally when the Realistic Quilting Line option was applied to a 
+  specific line segment after Fill was applied 
+- Issue that the Seamline Normal Map of Binding is not displayed properly in UV Editor 
+- Issue that the directions of sewing lines, topstiches, and puckering normal maps are not reflected in UV Editor
+- Issue that the normal map intensity of 3D Seamline is not reflected when changing in the UV editor 
+- Issue where some maps of Topstitch were not displayed in the UV editor
+- Issue that normal maps were not displayed clearly when exporting FBX files
+- Issue that the surface was not smooth when changing the pose of the converted avatar
+- Issue that the changed toolbar configuration is not maintained 
+
+
+[7.0.158]
+
+Key Features
+
+- Parametric Pattern Creation 
+- Pantone Library
+- Native support for Apple Silicon
+
+Other Features
+
+- Texture Editor I Color Switch
+- Convert to Trim
+- Binding I Created Bi-Directional
+- Modular I 3D Auto-Arrangement
+- User Interface Improvements
+
+[6.2.384]
+
+NEW
+
+- Graphics | Object Browser & BOM Mode 
+- Nesting | Set Quantity by Size
+- Replacing Outlines of Internal Shapes and Basic Shapes
+- Style Line  I Scale in One Direction and Serve as a Shortcut to Move
+- V-ray | Change the Maximum Values of Ground Shadows 
+- Change the Notch Color and Thickness
+- Option to Include the Word Copy in the Name of the Duplicated Pattern/Internal Shape 
+- Added New Default Project Loading Menu
+
+FIXED
+
+- Crash when Seam Taping was applied to certain garment files 
+- Crash when modifying the pattern of specific garment files 
+- Crash when loading garment files with abnormal symmetry settings
+- Issue where the program stopped after rendering animation
+- Crash when switching to Print Layout mode after loading certain garment files
+- Crash when converting a default avatar to an avatar
+- Issue where a license error occurred due to a network problem when logging into CLO
+- Issue that grading was not applied to the baseline when cutting the grading pattern 
+- Issue that some patterns are missing when using Layer Clone
+- Issue where Focus by Click did not work during rendering 
+- Issue where Custom Views were not applied properly during rendering 
+- Issue of the notch not appearing when 3D sewing 
+- Issue that certain spots were distorted when changing the avatar pose 
+- Issue that the topstitch of the selected colorway in the UV Editor does not appear properly
+- Issue where 2D Measurements cannot be updated when moving graphics
+- Issue that normal map is not maintained when OBJ file is loaded 
+- Issue that the print on the fabric disappears when grading Unassign Size Group 
+- Issue that the history of the fabric does not accumulate when saving the ZPRJ file
+- Issue where the length did not get displayed during Walk Pattern
+- Issue when the lock state of the baselines was not maintained when unfolding the pattern 
+- Issue where graphics were not displayed properly in the Review Mode 
+- Issue where grading did not get applied symmetrically during Scale Styleline
+
+[6.2.468]
+
+NEW
+
+- Nesting | Overlapping Pattern Highlight
+- Graphics I AI File Import Improvement
+- Zipper I YKK Metal Preset Added
+- Asset I Chinese Language Support
+- Copy and Paste I Symmetrical Position
+
+FIXED
+
+- Crash when replacing the pattern created by Seamline Topstitch 
+- Crash when the moving distance value was entered as Zero
+- Crash when exporting as glTF  
+- Issue that the normal map of the integrated UV coordinates does not appear clearly.
+- Issue when cutting internal line segments in certain garment files
+- Issue of button disappearance when changing the grading size after Fasten Button 
+- Issue that input value and the moved distance are different when moving a point
+- Issue of unlocking the baseline in Fullness 
+- Issue that the outline of the pattern is changed when creating a POM for a graded pattern 
+- Issue that 3D pattern position was changed when the size was changed after adding the grading garment file 
+- Issue where the image was rotated when adding a specific image file as a graphic 
+- Issue of certain BTN file created garment file failed to load 
+- Issue where thumbnails of Substance files were not displayed in the Graphics tab
+- Issue where the graphic was hidden before changing to graphic style in Colorway mode 
+- Issue of changing into square ratio when applying Lock Aspect Ratio option in copied graphic properties 
+
+
+
+
+[6.2.430]
+
+FIXED
+
+- Added Tile option to graphic properties
+- Crash when changing the grading size for certain garments
+- Crash when loading garment files that had been deleted from grading information
+- Crash during simulation after changing the particle distance in certain garment files 
+- Issue that certain DXF files cannot be loaded
+- Issue that the length of each grading size in the POM does not appear properly
+- Issue where the button position was changed when changing the size after Pair Avatar 
+- Issue that the fur and iridescent properties of graphics were not reflected properly during rendering
+- Issue where the background color was incorrectly combined with transparent garments when rendering.
+
+
+
+[6.2.394]
+
+FIXED
+
+- Crash when copying and pasting Buttonhole 
+- Issue where graphics were not added to the same location as the other graphics 
+- Issue that the Z-Offset value does not change when adding a graphic at a location where it intersects with other graphics 
+- Issue that Alembic files cannot be exported properly.
+
+[6.2.330]
+
+FIXED
+
+- Issue where the auto sewing dose not work.
+
+[6.2.324]
+
+NEW
+
+- Improved Zipper
+- Lock | Fixed Point Position
+- Shirring I Applied to Internal Segment 
+- Graphics I Over Seamline Improvements
+- glTF | Export Joint Points
+- Library | Motion for Kids 
+- V-Ray Render | Background Image Improvement 
+- Dart Sewing
+- User Setting | Default Mode 
+- Preset Chinese Support
+
+FIXED
+
+- Crash when undoing after changing the grading size
+- Crash when changing the grading size after cutting a half symmetric pattern
+- Crash when undoing after Draw Styleline in the textured surface state 
+- Crash when switching to review mode after changing the grading size of over seamline graphics 
+- Crash when deleting a specific Substance file in the fabric properties 
+- Crash when undoing an FBX file with animation and saving it as a ZPRJ file after loading 
+- Issue that the colors of over seamline graphics were not updated in the colorway mode 
+- Issue where topstitch does not display in the review mode 
+- Issue where graded graphics were not displayed properly in the review mode 
+- Issue where only one screen was displayed when switching to review mode after moving the graphics 
+- Issue that the topstitch created on the inside of the pattern is displayed on the outside when exporting to OBJ 
+- Issue where the texture of the avatar was missing when exporting a colorway outfit as an OBJ file 
+- Issue that the zipper name was not properly reflected in the colorway list 
+- Issue where button textures were not applied properly
+- Issue that normal map does not rotate together when rotating the texture 
+- Issue where the avatar detach all from avatar measure did not work
+- Issue where the avatar joint points cannot be rotated symmetrically 
+- Issue of grading distortion when cutting certain grading patterns 
+- Issue that multiple circumference measurements of a symmetrical pattern are created when tracing with internal segments 
+- Issue that the internal line segment with curved points is not applied symmetrically when undoing after changing the length
+- Issue that the fabric of the binding cannot be changed after changing the grading size 
+- Issue of distortion when replacing the graphic generated pattern with another pattern 
+- Issue of curve point selection with Edit Grading (Each) tool 
+- Issue that internal segments are distorted when undoing after changing the grading size of the pattern created for internal segments 
+- Issue where include Scene & Props option did not work when exporting to FBX file 
+- Issue where straight points were added to the notch when the notch created pattern was exported as a DXF file and imported 
+- Issue that the width value in the register button window does not change according to the program setting unit 
+- Issue where button colors were initialized when loading garment files saved before May 2018
+
+[6.2.260]
+
+FIXED
+
+- Crash when changing the grading of the multi graphic applied pattern and changing the mode to review mode
+- Crash when loading lower version files that have been created before 2015 (ver. 2.2)
+- Crash when copying the pattern after changing the grading size
+- Crash when adding a size after loading a garment file without grading information
+- Crash when clicking the No button in the ZBLC file loading window
+- Crash when re-draping 3D arrangement in certain garments
+- Crash irregularly occur during Extend/Trim & Add Point in Half Symmetry Pattern internal line
+- Issue of the pattern does not get placed inside when using Layer Clone
+- Issue that Print does not get displayed in Object Browser when loading ZFAB file 
+- Issue of Half Symmetry Pattern does not get applied when merging certain patterns 
+- Issue where ghosts do not get displayed when grading symmetric patterns individually 
+- Issue of the outline does not get displayed properly when undo-ing after changing the grading size of the symmetric pattern  
+- Issue that binding is not maintained when undo-ing after cutting the symmetric pattern created by binding 
+- Issue that binding does not move together during Fold Arrangement 
+- Issue where texture tools do not get displayed in print layout mode
+- Issue of the button item properties does not get changed after the property is initialized 
+
+
+[6.2.234]
+
+FIXED
+
+- Crash during Flattening 
+- Crash when loading certain DXF files 
+- Crash when clicking the Edit Styleline tool on a specific garment file
+- Crash when changing the size after duplicating the grading pattern as a symmetric pattern
+- Crash intermittently occur using Fold 3D garment 
+- Crash when saving and reloading after applying Buttonhole Items copied to the garment
+- Crash when adding a colorway after replacing the printed fabric with another ZFAB file 
+- CLO Fabric Digitization Service CSV file’s Construction (e.g. Knit Woven) name has been changed to Construction
+- Issue where 3D Seamline looks different from the previous versions
+- Issue where baked graphic colors were displayed differently in the UV Editor
+- Issue of shades appearing when rendering quality in monochrome view mode
+- Issue that certain images were not applied to fabric prints
+- Issue where grading information was not duplicated when duplicating with a symmetric pattern 
+- Issue that curved points were distorted when undoing after Unfold Symmetric Editing of Grading Pattern
+- Issue where Seam Allowance was distorted when opening a lower version of the garment file
+- Issue where internal line segment intersects the Hole when applying Realistic Quilting Line
+- Issue that some straight points of certain Fill patterns cannot be moved 
+- Issue where certain AVAC files do not appear on the 3D screen
+- Issue that the set units were not reflected when loading a specific FBX file 
+- Issue where the Fold Arrangement tool duplicated when un-grouping the tool 
+- Issue where the curve of the Standard DXF pattern appears as a straight line 
+- Issue that cannot be merged after cutting the baseline of a symmetric pattern
+
+[6.2.218]
+
+Key Features
+
+- Realistic Puffy Garment
+- Fold 3D Garment
+- Standard DXF Import
+- CLO-SET in CLO
+
+Other Features
+
+- Improve Speed of loading Avatar / Garment
+- Print Layout | Nesting Improvement
+- UV Editor Improvements
+- Print | Shift & Space
+- Grading | Edit Each Size with a Tool
+- Topstitch I Remove Linked Editing
+- Offset Internal Line individually
+- Fabric | Open Fabric Selectively
+- Jeanologia | Import to Texture Editor
+- Review Improvements 
+
+[6.2.136]
+
+Key Features
+
+- Standard DXF Import 
+
+Other Features
+
+- Improve Speed of loading Avatar / Garment
+- Print Layout | Nesting Improvement
+- UV Editor Improvements
+- Print | Shift & Space
+- Grading | Edit Each Size with a Tool
+- Topstitch I Remove Linked Editing
+- Offset Internal Line individually
+- Fabric | Open Fabric Selectively
+- Review Improvements 
+
+[6.1.422]
+
+FIXED
+
+- Crash when loading certain DXF files
+- Issue that UI update speed slowing down when editing after selecting multiple colors in colorway mode
+- Issue that the toolbar do not appear when the program is closed in the Review Mode
+- Issue that the placement point do not change when changing the pose of the child avatar 
+
+
+Jinny mac version test용 daily build
+
+[6.1.414]
+
+NEW
+
+- Curve Point Added to Notch when Import / Export DXF
+- Asset | Buttonhole Update
+- Asset I YKK Color Library
+- Emulator | Changed the Number of Weight Input Digits
+
+FIXED
+
+- Crash when moving the styleline points 
+- Crash during Partial Solidify in a frozen pattern 
+- Crash in certain glTF Files 
+- Issue that program stops when selecting the select Mesh (Brush) tool after modifying the pattern in a specific garment 
+- Issue where the 3D normal map does not display when creating a topstitch on a pattern with a fabric print applied
+- Issue where normal map images do not open directly in photoshop
+- Issue where multiple Garment Circumference Measures were created when tracing with internal line segments 
+- Issue where opacity was applied to 0 when loading certain FBX files
+- Issue where animation information gets missing when loading Collada files
+- Issue that a warning window appears when opening a graphic file that has a Substance file applied 
+- Issue that topstitch is maintained when hiding the 3D patterns
+- Issue that Trim’s hidden state does not maintain when opening the garment file 
+- Issue of Glued Trim gets deleted from the pattern when cutting the pattern 
+- Issue of computing does not work if only the third step of the Stretch value in a specific direction is entered in Emulator Mode 
+- Issue where only dots were displayed in the 3D window when changing the avatar straight tape measure type to default 
+- Issue of selecting fabrics with different properties when selecting properties of the same fabric 
+
+[6.1.394]
+
+FIXED
+
+- Crash when scaling an internal shape
+
+[6.1.390]
+
+NEW
+
+- Improved Avatar Style Configurator
+- Avatar Asset Update
+- New Zipper Textures
+- Improved Fabric File and Emulator
+- Improved OBJ/FBX Import and Export
+- Export DXF Buttonhole Lock Position 
+- 3D Pattern Highlight Color Change
+- Added Option to Load Custom View
+
+FIXED
+
+- Crash when scaling the pattern after applying the graphic tile 
+- Crash when Edit Styleline in a specific garment file 
+- Crash during Undo and Redo after Draw Styleline 
+- Crash when tracing after selecting the outline and inner line segments of the Half Symmetry Pattern 
+- Crashing randomly when exporting glTF file
+- Issue where QTX files created on certain devices cannot be loaded 
+- Issue where the notch position was changed when loading Lectra’s DXF file 
+- Issue that Auto Convert to Avatar AVT file cannot be export as FBX file 
+- Issue where Alpha Map does not get reflected when exporting avatars as OBJ/FBX files
+- Issue that Korean input does not work when saving the avatar size file as a CSV file 
+- Issue that the baseline is moved when changing the grading size after merging the pattern
+- Issue where graphics  does not appear when saving images in print layout mode 
+- Issue that the sewing line is flipped when the cut pattern has the same shape
+- Issue of distortion when moving 3D graphics after changing from Schematic Render to garment color mode  
+- Issue that Show 3D Grid setting is not reflected in the review mode 
+- Issue where the avatar disappeared in the review mode when loading the garment file 
+- Issue that the position of the pattern in different colorways is changed when the pattern is rotated in print layout mode 
+- Issue that the Pivot option of the Texture Editor does not change when the program setting language is in Chinese
+- Issue that the puckering texture is not applied to the back when changing the textures 
+- Texture size was not applied when applying the displacement map to the Zipper Teeth 
+- Issue of color change when loading the 6.0 version of Trim file 
+- Issue where the button material was not reflected when exporting the button-generated garment file as an OBJ 
+- Issue that 3D ghost disappears when moving the button to numerical input 
+- Issue where the length of 2D tape measurement does not display properly when creating and moving buttons 
+- Issue that the lock option was disabled when changing the stopper property of the zipper 
+- Issue that the path of the default file appears incorrectly in the User Settings window 
+- Issue where all patterns were selected when selecting all with same fabric property 
+- Issue of misalignment when moving the sewing line be numerical input 
+- Issue that the 2D Sewing Lin Correction Tool does not automatically select when selecting the 3D Edit Sewing Tool 
+- Issue that custom view file is duplicated when loading the ZPRJ file 
+
+
+[6.1.390]
+
+NEW
+
+- Improved Avatar Style Configurator
+- Avatar Asset Update
+- New Zipper Textures
+- Improved Fabric File and Emulator
+- Improved OBJ/FBX Import and Export
+- Export DXF Buttonhole Lock Position 
+- 3D Pattern Highlight Color Change
+- Added Option to Load Custom View
+
+FIXED
+
+- Crash when scaling the pattern after applying the graphic tile 
+- Crash when Edit Styleline in a specific garment file 
+- Crash during Undo and Redo after Draw Styleline 
+- Crash when tracing after selecting the outline and inner line segments of the Half Symmetry Pattern 
+- Crashing randomly when exporting glTF file
+- Issue where QTX files created on certain devices cannot be loaded 
+- Issue where the notch position was changed when loading Lectra’s DXF file 
+- Issue that Auto Convert to Avatar AVT file cannot be export as FBX file 
+- Issue where Alpha Map does not get reflected when exporting avatars as OBJ/FBX files
+- Issue that Korean input does not work when saving the avatar size file as a CSV file 
+- Issue that the baseline is moved when changing the grading size after merging the pattern
+- Issue where graphics  does not appear when saving images in print layout mode 
+- Issue that the sewing line is flipped when the cut pattern has the same shape
+- Issue of distortion when moving 3D graphics after changing from Schematic Render to garment color mode  
+- Issue that Show 3D Grid setting is not reflected in the review mode 
+- Issue where the avatar disappeared in the review mode when loading the garment file 
+- Issue that the position of the pattern in different colorways is changed when the pattern is rotated in print layout mode 
+- Issue that the Pivot option of the Texture Editor does not change when the program setting language is in Chinese
+- Issue that the puckering texture is not applied to the back when changing the textures 
+- Texture size was not applied when applying the displacement map to the Zipper Teeth 
+- Issue of color change when loading the 6.0 version of Trim file 
+- Issue where the button material was not reflected when exporting the button-generated garment file as an OBJ 
+- Issue that 3D ghost disappears when moving the button to numerical input 
+- Issue where the length of 2D tape measurement does not display properly when creating and moving buttons 
+- Issue that the lock option was disabled when changing the stopper property of the zipper 
+- Issue that the path of the default file appears incorrectly in the User Settings window 
+- Issue where all patterns were selected when selecting all with same fabric property 
+- Issue of misalignment when moving the sewing line be numerical input 
+- Issue that the 2D Sewing Lin Correction Tool does not automatically select when selecting the 3D Edit Sewing Tool 
+- Issue that custom view file is duplicated when loading the ZPRJ file 
+
+
+[6.1.346]
+
+FIXED
+
+- Crash when the simulation terminates while moving the pattern in the simulation state 
+- Issue where hidden graphics in colorway mode appeared when rendering 
+- Issue where fabric’s print file cannot be saved 
+- Issue where Button was not displayed as a baseline when only the selected pattern was exported as a DXF file  
+- Issue where the opacity of the graphic gets changed to 100 when clicking the Edit Tack tool 
+- Issue where the fabric print was displayed when changing the garment option of the Schematic  Render to Color
+- Issue where line change cannot be done with the Enter Key in the description field of the Garment Information window
+- Issue that Re-draping 3D arrangement does not work when OBJ files are imported as a garment 
+- Issue where textures cannot be maintained when saving as a ZPAC file after loading an OBJ file as a garment 
+- Issue where the colorway cannot be deleted with the Delete Key when Undo after deleting the graphic in colorway mode. 
+- Issue where garment files with Chinese characters as file names cannot be shared to CLO-SET
+- Issue where grading values were not applied properly when loading a Rul file. 
+
+
+[6.1.322]
+
+NEW
+
+- Move Styleline
+- Editing Avatar Head Circumference
+- Convert to Avatar | User Rigging Settings
+- Jeanologia Breakage Property Added
+- AI Artboard Based Import
+- DXF Export Improvements
+- Grading Mirror Paste
+- Freeze, Layer, Strengthen, Bond Color Change
+- Offset Puckering
+- Review I Hide Specific Grading Sizes
+
+FIXED
+
+- Crash when changing the skin style in the avatar properties window 
+- Crash when pasting a copied pattern in a multi- executed program 
+- Crash when saving a specific print file (PRT) 
+- Crash when Cut & Sew the internal line of a specific garment file 
+- Crash occurring when opening certain ZPRJ files in thick textured surface mode 
+- Issue where the baseline cannot be traced to the internal line when importing a DXF file. 
+- Issue of grading value cannot be copied from Curve Point 
+- Issue that buttons and buttonholes disappear when changing the grading size 
+- Issue of grading distortion when cutting after offset as an internal line in the pattern 
+- Issue that grading is not applied symmetrically when re-applying after removing the linked edit 
+- Issue that some curved points are changed to straight points when imported as a DXF file
+- Issue where the curvature was changed when loading Lectra’s DXF file 
+- Issue that the avatar gets deleted when new is selected after pair avatar 
+- Issue that pattern cannot be deleted with the backspace key on the keyboard
+- Issue that graphic is deleted when undoing after Remove Linked Editing 
+- Issue that Topstitch and Puckering which cannot be corrected symmetrically after copying Half Symmetry Pattern
+- Issue of Bezier Curve maintained when undoing after moving the center point of Half Symmetry Pattern
+- Issue that the properties of Fabric and Trim are changed together 
+- Issue that the topstitch texture was not applied along the curve of the pattern 
+- Issue that pattern selection was not possible by dragging with the edit texture tool 
+- Issue that the file path of the normal map is displayed incorrectly 
+- Issue of graphic being added to the front in Thick Textured Surface (Back) state
+- Issue that the graphic is distorted when saving as a garment file after setting the tile in the graphic 
+- Issue where the avatar size cannot be initialized in Avatar Editor
+- Issue that the Baseline disappears when undoing after creating a 3D pen 
+- Issue that the 3D pattern cannot be canceled when the ESC key is pressed while moving  
+- Issue where graphics were hidden when switching to another mode after archiving 3D pattern
+- Issue where 2D mesh cannot be viewed when opacity map in RGB mode was applied 
+- Issue where the graphic image was changed when undoing after deleting a colorway 
+- Issue of reappearance of deleted Substance subsidiary material in  colorway mode 
+- Issue where the pattern cannot be saved as a fabric file when deselecting a pattern in print layout mode 
+- Issue that QTX file cannot be added in the color palette window 
+- Issue warning window appearing when loading glTF file without normal data 
+- Issue that the print image of the fabric is not reflected correctly when exporting in glTF 
+- Issue where the image file extension was changed when exporting as glTF files 
+- Issue that the roughness map of the glTF cannot be exported properly
+- Issue where Mac cannot export into Alembic(OGAWA) file 
+- Issue where Circumference Measure cannot be cut in certain garments 
+- Issue that some properties disappear when applying print to fabric 
+- Issue that the property window cannot be updated when changing or deleting the Substance color chip 
+- Issue that the repeat type of the print applied to the Substance fabric cannot be copied 
+- Issue where Substance material applied to the avatar cannot be saved 
+- Issue where color chip color in Avatar Style Configuration and the color selected in the Color Dialog are different 
+- Issue where the thickness of each line looks different when running Schematic Rendering at 4K resolution
+- Issue that Grid is displayed when saving the image with Transparent Background in the Review Mode 
+- Image formats other than PNG files are not classified as Jeanologia in the graphic properties. 
+- Improvements in transparent backgrounds are now displayed in a checkerboard pattern in the AI/PDF graphic preview window 
+- Updated CSV file form for the emulator
+
+
+[6.1.250]
+
+NEW
+
+- Show Back Texture (3D) 
+- Graphic File Format Added & Improved Face Usability 
+- UV Editor | Displacement Map
+- 3D Pattern Archives 
+- Multi-Movement of Subsidiary Materials
+- Set Symmetrical Pattern 
+- Render | Toolbar Options Added & UI Improvements
+- glTF | Export Zipper, Button, and Trim Animations
+- Substance | Exclude Textures for Backward Compatibility when Saving 
+
+FIXED
+
+- Crash when changing the color of the garment with certain buttons 
+- Crash during simulation after the freeze in solidify the applied pattern
+- Crash when selecting a pattern and undoing it after draw styleline 
+- Crash when adding a styleline point to a line segment that was created via piping and binding
+- Issue of Live Update failing and warning window pop-up
+- Issue of colorway information excluded when exporting GLB files
+- Issue of missing reflection parameters properties of Substance
+- Issue of motion file not being applied to the V1 avatar
+- Issue where only some colors of certain hair files were changed in the Avatar Style Configurator
+- Issue of arrangement point cannot be adjusted when changing the pose of the child avatar
+- Issue of grading information of the button is changed when the pattern is cut
+- Issue of the right-click pop-up menu do not appear on the mesh selected in Box/Lasso format
+- Issue of mesh distorted during undo and redo after applying subdivide
+- Issue of the pattern being flipped or distorted when the scale styleline was used in the clothes with small patterns 
+- Issue of the outline of the 3D snapshot is out of the line during Schematic Rendering
+- Issue where unzip error occurs when the filename of the ZPAC file is too long 
+- Issue of loading time being long on certain garment files
+- Issue where buttons translate when creating pleats 
+- Issue where certain seam allowance does not convert when loading DXF files
+- Issue where magnification change when resizing while loading Adobe (AI/PDF) files
+- Issue that undo cannot be undone when flipping the pattern symbol of the inner line segment
+- Issue where certain notch angles were changed when cutting half symmetry 
+- Issue where certain ZPRJ files failed to upload to CLO-SET on Mac
+- Issue where part of drop-down menus in the animation editing window does not appear on Mac
+- Issue where pair avatar was duplicated in the review mode 
+- Issue of UI update when undoing after pair avatar
+- Issue of GPU simulation do not work in the pair avatar state
+- Issue that the value does not get saved when changing the width of the custom button 
+- Issue where the item was deleted when created after adding a new topstitch item 
+- Issue that the pattern created by Seam Allowance cannot be snapped in the print layout mode
+- Issue of Fabric Roll in the properties window is displayed differently from the 2D window in the print layout mode 
+- Issue of a printed image of the fabric is misaligned when undoing after moving the pattern in the print layout mode. 
+- Issue where Custom View was added when loading render properties file
+- Issue of an automatically generated normal map cannot be deleted when the texture of the fabric is deleted
+- Issue of filename do not display in the cursor tooltip of the library window
+- Issue of the right-clicking menu of the ZIP file do not appear in the library window
+- Issue of hair color changing when running Avatar Style Configurator 
+- Issue of ASE file cannot be added in the Color Palette window
+- Issue where particular PDF files cannot be applied as textures
+- Issue of warning window getting generated and the plot cannot be plotted when plotting the bonding applied patterns
+- Issue that the Point of a specific DXF file produced by Gerber is compatible as a Curve Point
+- Issue of color picker function does not work properly in the Color Palette
+- Issue of Remove Linked Editing do not work for Symbol, Puckering, Seam Allowance when Remove Linked Editing 
+- Crash when clicking the Style Configurator button after loading a specific hair file 
+- Issue where the CSV cannot be saved as ZFAB if the fabric in the emulator mode has multiple lines
+- Issue of Custom Image cannot be maintained when Fabric file is re-saved
+- Issue where only a single map (0-1) is applied when setting the Unified UV Coordinates option when exporting in a glTF file
+- Issue that Fold Arrangement does not get applied to the internal line of Half Symmetric Pattern
+- Issue where the color of 2D patterns changes when exporting in GLB format.
+- Issue of the Material Type of Trim cannot be changed back to PBR once it is changed as a Substance.
+
+
+[6.1.186]
+
+Key Features
+
+- 3D Linked Editing
+- Brush Selection Tool & Partial Divide Mesh / Freeze / Solidify
+- New Avatar Assets
+- Avatar Face Style Configurator
+- UV Editor | Unified Map
+- glTF | Standard Unified Fabric File Format
+- CLO-SET CONNECT in CLO
+
+Other Features
+
+- Trim Collision
+- Save 3D State in ZPRJ File
+- 3D Base Pen
+- Auto Sewing | Pants
+- Create Spiral Pattern
+- Perpendicular Pattern Corner
+- 2D Pattern Archive (Coming Soon)
+- Convert Seam Allowance of DXF file
+- Button I Create buttons between start and end points
+- Binding I Create on a part of line
+- Print Layout | Ruler & Guideline
+- Colorway Improvements
+- BOM Improvements
+- Open Texture with AI / PS
+- 3D Snapshot Improvements
+- Expand gITF file compatibility
+- Change UI
+- Expand SSO support platform
+
+[6.0.594]
+
+NEW
+
+Trim Classification Category Added
+3D Snapshot PPI Setting
+
+FIXED
+
+- Crash when exporting certain files as FBX files
+- Crash when loading certain OBJ files as a Garment
+- Crash when viewing mesh on M1 Mac
+- Crash that occurs when creating a POM in certain garments 
+- Crash when dividing mesh in specific alembic files
+- Crash when executing a program by double-clicking a ZPRJ file containing Chinese characters in the file name.
+- Issue of fullness in instance pattern not being applied equally 
+- Issue of the Seam Taping’s property file not being applied symmetrically when changes made in the property file 
+- Issue of normal direction getting reversed when the axis was switched when registering a zipper in OBJ
+- Issue of preview screen when registering a zipper OBJ in high quality render state 
+- Issue that custom pattern file of Substance file was not applied. 
+- Issue of a specific pattern getting flipped when the annotation was created
+- Issue where straight and curved points do not come in properly when importing DXF files 
+- Issue where outlines appear outer side of the pattern when rendering schematics in certain clothes
+- Issue where the gap getting wider when thickness of the topstitch has been adjusted in the schematic render 
+- Issue where pattern that has not been placed as an arrangement point getting distorted during Rest 3D Arrangement
+- Issue of dialog that does not close when Grain Direction changed with right-clicking numerical input in Mac
+- Issue where XP Pen was set when changing the default View Control setting with Magic Mouse in Mac
+- Issue where the speed of loading ZPRJ files in Mac is slower than Windows 
+- Issue where the pattern was flipped when rendered in the M1 Mac
+- Issue of getting dirty with straight points of the curve that appear in Modris DXF files 
+- Issue where the position was shifted when moving graphics of different sizes at the same time 
+- Issue where transparency is applied when properly reflected layer is applied
+- Issue of reflection intensity extension applied when exported in a glTF file format
+- Issue where map getting changed when loading SST file while Topstitch’s type was applied to the texture 
+- Issue where files in Network Drive cannot be applied by Drag &  Drop in the library window
+- Issue where 3D/2D window view cannot be controlled when loading accessory file (ZACS) 
+- Issue where the Pattern to Snap menu does not appear on certain PCs
+- Issue where an abnormal shadow appeared in the 2D window when OBJ was loaded into Garment 
+- Issue where the line length getting large and is hidden by the image when clicking a line segment in the 2D window 
+
+
+[6.1.126]
+
+Key Features
+
+- 3D Linked Editing (Coming Soon)
+- Brush Selection Tool & Partial Divide Mesh / Freeze / Solidify
+- New Avatar Assets (Coming Soon)
+- Avatar Face Style Configurator (Coming Soon)
+- UV Editor | Unified Map
+- glTF | Standard Unified Fabric File Format
+- CLO-SET CONNECT in CLO (Coming Soon)
+
+Other Features
+
+- Trim Collision
+- Save 3D State in ZPRJ File
+- 3D Base Pen
+- Auto Sewing  | Pants
+- Show Back Texture Surface of 3D Garment (Coming Soon)
+- Create Spiral Pattern
+- Perpendicular Pattern Corner
+- 2D Pattern Archive (Coming Soon)
+- Convert Seam Allowance of DXF file
+- Button I Create buttons between start and end points
+- Binding  I Create on a part of line
+- Print Layout | Ruler & Guideline
+- Colorway Improvements
+- BOM Improvements (Coming Soon)
+- Open Texture with AI / PS (Coming Soon)
+- 3D Snapshot Improvements (Coming Soon)
+- Expand gITF file compatibility
+- Change UI 
+- Expand SSO support platform 
+
+[6.0.560]
+
+NEW
+
+Improved Zipper
+Hair/Shoes | Save as ZACS
+Reset Avatar Size
+
+FIXED
+
+- Issue where the physical property values of the fabric were incorrectly applied and simulated
+- Crash occurring during fullness in certain patterns
+- Crash when opening certain ZPRJ files
+- Crash when deleting Substance file in the Colorway Mode 
+- Issue where file does not reopen when saved as AI/PDF patterns as a garment file.
+- Issue where QTX file cannot be opened in Mac 
+- Issue where tack cannot be applied during simulation after loading the tack-generated garment file 
+- Issue where the menu of the thread length was hidden when copying tack
+- Issue where patterns were duplicated during flattening
+- Issue where Schematic Rendering does not get applied properly in certain garments
+- Issue where some properties do not reflect when saving a print file 
+- Issue where auto save file type does not change in the user setting window 
+- Issue with the reset layout cannot be done when 3D and 2D windows are composed of tabs 
+- Issue where elastic setting value disappears when using extend/trim to internal line
+- Issue with the width of the seam taping resetting during the offset pattern outline
+- Communication issue with Yuka Alpha Myu
+- Graphic incompatibility issue when loading Yuka Alpha Myu file
+- Issue where the grainline angle changes when loading a garment file with Half Symmetry Pattern made in   
+  CLO 5.2 in CLO 6.0
+- Issue where the color changes when deleting the zipper puller’s normal map
+- Issue where mesh created was duplicated when exporting to FBX file
+- Issue where the location of the saved avatar being changed after imported as a morph target
+- Issue of not being applied normally when changing from a specific pattern to Quad Mesh
+
+
+[6.0.534]
+
+NEW 
+
+Import QTX Colors
+ACO/ASE | Lab Color Support
+Applying xTex I Displacement Map
+
+FIXED
+
+- Crash when modifying the applied bond pattern after adding colorway
+- Issue of rendering not showing some parts properly after applying normal map to graphics
+- Issue where color change does not work properly in certain Substance files
+- Issue of Substance file size being changed when loading a Substance file on Mac
+- Issue where patterns were distorted when exporting to OBJ and FBX files in Thick Textures Surface mode
+- Issue where AVS files cannot be opened in Avatar Editor 
+- Issue where numbers were included in the texture image file name when using automatically generated normal map 
+- Issue where the file name was incorrectly displayed when using Share Project in CLO-SET after loading ZPAC file
+- Issue of the changed size not being applied properly when the image of the graphic is changed
+- Issue of the simulation not working properly when simulating changed attach the pin to the avatar
+- Issue where 3D topstitch was distorted when property reset after changing the topstitch type
+- Issue of the program stopping when loading a specific block file 
+- Issue of applying the button to the block pattern being not reflected in the thumbnail
+- Issue where the image disappears when loading the block file of the user with the PNG image applied
+- Issue where Substance file cannot be deleted in the colorway mode 
+- Issue where the view in the 3D window can not be reflected when saving colorway images on Mac
+- Issue where the graphic image was changed when executing and exiting the Texture Editor after selecting multiple graphics 
+- Issue where the options in the 3D snapshot window were not initialized 
+- Issue where grading information cannot be applied when unfolding a pattern 
+- Issue where the properties of the deleted fabrics were applied when creating a pattern 
+- Issue where value is doubled when scaled by inputting dimensions in Half Symmetry Pattern 
+- Issue of a warning window appearing when creating an internal line in Instance Pattern 
+- Issue of the direction being applied differently during fullness after duplicating the rotated Half Symmetry Pattern as an Instance Pattern
+
+[6.0.520]
+
+FIXED
+
+- Issue where pressure and shrinkage value of the pattern cannot be changed 
+- Crash when canceling after Unfold Symmetric Editing in Instance Pattern
+- Issue of colorway was not properly applied when grain direction aligned with X, Y, and parallel to selected axes
+- Issue of UV coordinate value which cannot be changed when Fit All UV to 0-1 in UV Editor
+- Issue of restored editing after applying desaturation in the Texture Editor
+
+[6.0.506]
+
+NEW
+
+glTF | Import as Trim Type
+FBX | Import (Add) and Export Texture Combined with Diffuse Color
+OBJ / FBX | Exports Scenes & Props
+Symmetric Joint Rotation for Custom Avatar
+Apply Avatar Size(AVS) to Multiple Avatars
+Emulator | Add Owner Information and Editable Supplier
+Edit All Colorways’ Grainline at Once
+2D Snapshot | Editable PPI in Pixels
+Cut by Extending the Internal Line Close to the Pattern Outline
+Change the Internal shape of Fold Rendering default to OFF
+Sherpa Fabric Weight Value Update
+AutoSave Time Extended to Default 10 Minutes 
+Topstitch/Puckering Z-axis Distance Negative Value Input
+
+FIXED
+
+- Crash when merging the topstitch produced sewing line
+- Crash when cutting a specific internal line
+- Crash when selecting Avatar Measure with Tack on Avatar tool 
+- Crash when exporting clothes with auto-generated normal map applied to FBX file
+- Issue that the thickness of the seamline topstitch of the internal line do not adjust during Schematic Render
+- Issue where Length does not display when creating the Avatar Measure
+- Issue where puckering normal map does not get applied in review mode
+- Issue where the button position does not change when merging the created symmetric pattern of the group button 
+- Issue where the location of Annotation and Tack was changed when combining patterns 
+- Issue where only one side was canceled when Undo after deleting the Bezier curve point of the Half Symmetry pattern 
+- Issue of other colorways getting deleted when deleting after selecting a colorway
+- Issue where warning window appeared when modifying pattern after applying Substance material to the fabric
+- Issue of copying as PBR material when copying material applied with Substance material 
+- Issue where some textures get deleted when saving after applying the same Substance file to multiple colorways 
+- Issue of reducing the column size when the colorway name was long 
+- Issue where the Open Texture Editor button appeared in the properties window when applying a JEAN file 
+- Issue of changing values with sliders in the Texture Editor
+- Issue where the size of the AI file became smaller when adding a graphic
+- Issue of metal values not properly applied when exporting in glTF 
+- Issue that colors not properly applied when selecting the Diffuse Color Combined on Texture option when exporting in glTF  
+- Issue where dark mode not applied on certain Macs
+- Issue of sorted by name in the library window
+- Issue where the Heels position does not change when applying shoes to several avatars
+- Issue where the clothing position changed when applying shoes to multiple avatars
+- Issue where Annotation does not get displayed when loading a DAE file
+- Issue that caused a warning window when saving after loading the OBJ as Scenes & Props
+- Issue of CLO that cannot execute when the OS’s thousands digit and decimal point were the same
+- Issue of the scale property value of Trim that does not adequately change when the program measurement unit is set in Inch
+- Issue of default settings which does not get initialized during Reset Layout
+- Issue of the techpack (CLO-SET) option being changed into Exclude when creating an object
+- Issue of installation failing after a warning window saying that a specific dll file does not exist
+- Issue of the generated normal map not being exported when exporting a glTF file
+- Crash when opening the textual accessory file
+- Issue where Undo and Redo does not work in Review Mode 
+- Issue of exporting an OBJ when the topstitch was distorted if the Unified UV Coordinates and Thin options were set. 
+- Issue of the MVS file setting in the Snapshot Window does not apply to the preview 
+- Issue of loading Alembic files when the conversion of the set fps value was not viable
+- Issue of some properties of the Substance material cannot be changed with a slider
+- Issue of selection being canceled when moving with the direction key after selecting multiple patterns in UV Editor
+
+[6.0.460]
+
+FIXED
+- Crash occurrence during simulation after combining button generated patterns
+- Issue where the button disappears after cutting the button generated pattern 
+- Issue of the distorted outlines when importing the DXF files created in Gerber
+- Issue of the error occurrence in symmetry setting when Undo after deleting the points in Bezier curve of the symmetry straightening pattern
+- Issue of the screen when setting the magnification to 125% on a FHD monitor
+
+[6.0.450]
+
+NEW 
+Plotter (USB Type Supported)
+Save Video as MP4 / MOV
+Review I 3D Window Right Click Popup Menu added 
+Graphic & Tack I Duplicate to Symmetric Pattern
+Improved Texture Editor
+Changing the Topstitch Thread Thickness (Tex) Minimum Value
+16 PNG Images per Channel Supported 
+Maintaining Each Object Name when Exporting OBJ File
+glTF I Automatically Add Arrangement Points
+Multiple Poses/Hairs/Shoes Applied to Avatars
+Search Subfolders in the Library Window
+
+FIXED
+- Crash when running the program by double-clicking the Zprj file with Garment Information 
+- Crash when changing color after loading Zprj file applied with Substance file 
+- Crash when loading Zprj that has an animation with a Korean name
+- Crash that occurs when using Trace as a Pattern in a specific pattern
+- Crash when cutting the internal line intersecting the center line within the Half Symmetry Pattern 
+- Crash that occurred in Unified UV Coordinates when exporting a specific file as a glTF format
+- Crash that occurred irregularly during simulation after applying the Freeze and Strengthen
+- Issue that some functions related to Custom Palette could not be used with Eyedropper activated in the Color window
+- Issue where Antialiasing of Silhouette Line did not work properly when Schematic Rendering on Intel Graphics Card
+- Issue where artboard selection window does not appear when loading AI/PDF files in the Texture Editor
+- Issue where Lasso could not be selected in the Edit Curve Grading Tool 
+- Issue where size could not be deleted by right-clicking on the grading tab of the Object Browser
+- Issue of Undo not working after changing the property of Pattern Symbol 
+- Issue that shows annotation of 2D windows is off by default 
+- Issue that Notch angle of Half Symmetry Pattern does not apply symmetrically
+- Issue where some baselines are not properly loaded when loading DXF files 
+- Issue where the grading pattern does not export in the selected size when exporting as a DXF format 
+- Issue of 3D Lines and dependent POM is not hidden when using hide 3D patterns  
+- Issue of 3D Seam Line Normal Map not extending go the end of the sewing line 
+- Issue where normal maps of crossed puckering cannot be blended
+- Issue where Normal and Displacement Maps are not displayed under transformation among zipper tape properties
+- Issue where Undo and Redo does not work when changing the Topstitch Texture
+- Issue where Palette list in the color window does not get deleted on Mac
+- Issue where Gizmo in 3D window does not appear when selecting the button in the 2D window 
+- Issue where some prints are rotated when saving and reloading as a Zprj file after adding a print to a fabric with a colorway 
+- Issue where the texture is applied to the trim for each colorway does not get saved 
+- Issue of returning to the original size during simulation after using the trim scale in the property window 
+- Issue where patterns do not get selected by dragging in the Edit Texture Tool 
+- Issue of Undo and Redo not working when using Remove Add’l Nesting Patterns in Print Layout Mode 
+- Issue where the POM connection line does not display properly in Print Layout Mode
+- Issue of animation disappearance when loading Zprj that has the animation with a Korean name
+- Issue where the texture does not get changed when saving a Zprj file after changing the texture of the stage file 
+- Issue where UV maps do not load from other 3D tools when exported as OBJ file during Unified UV Coordinates
+- Issue where the order of overlapping graphics was changed when baking textures in UV Editor
+- Issue where the topstitch was hidden when the graphic is larger than the pattern in the UV Editor
+- Issue where the [] symbol getting included in the file name when saving the baked texture in UV Editor 
+- Issue where graphic outlines were not properly sampled when exporting in glTF format
+- Issue where roughness values were applied to the alpha channel when exporting in glTF format
+- Issue of all set shortcuts were initialized when the User Settings window was reset
+- Issue where the Heels position was changed when applying motion to the avatar
+- Issue with a hole in the front nose of the MV2_Sneaker_A.zacs file
+- Issue where the Custom View window does not get minimized when clicking the minimize button on Mac
+- Issue where reset layout does not get returned to the initial state after changing the position of each window 
+- Issue where the current folder location was not maintained when canceling after searching in the library window. 
+
+
+[6.0.374]
+
+NEW
+Wacom / XP Pen Compatibility
+Edit, the size of the avatar hand
+glTF | Metallic-Roughness UV Map Export
+Improved Pleats Sewing
+Improved Schematic Render
+
+FIXED
+
+- Crash that occurred intermittently when exiting the program after changing to colorway mode
+- Crash during the exposure of the welcome window while running the program
+- Crash that occurred when Undo and Redo after fullness in topstitch generated pattern 
+- Crash when undoing after modifying Avatar Skin Offset
+- Crash when modifying after loading CLO 6.0 basic costume file in CLO 5.2
+- Issue of overall UI reaction speed slowing down in the simulation state
+- Issue of certain files produced in CLO 5.1 could not be opened
+- Issue that auto sewing does not work well when there is a reset arrangement pattern 
+- Issue where sewing lines were not created in certain parts in the dart during auto sewing 
+- Updated the content of the warning window that appears when the CLO default avatar is not used  
+  when Auto Sewing
+- Issue where a specific OBJ file was placed at the origin when creating after Register Button 
+- Issue where the texture of the back of the fabric was not visible in Review mode
+- Issue where button disabling when the deletion of size after updating the Pair Avatar tab of grading
+- Issue where the added avatar was deleted when the size was changed after adding an avatar while the  
+  avatar was loaded for each grading size 
+- Issue with Bezier Curve distortion when moving a point in Half Symmetry Pattern
+- Issue of corresponding value not being able to be maintained when copying the pattern after changing  
+  the tension of the sewing line
+- Issue of the incorrect background was displayed when rendering schematic on Intel graphic cards
+- The issue with the schematic render results abnormally applied when exporting into a Tech Pack (JSON) file.
+- Issue where compression failed while saving the garment file 
+- Issue of background image appearance when UV baking 
+- Issue of Schematic Render Seamline placed out from the pattern 
+- Issue of producing Off result  when creating Topstitch in 3D window Quality Render On 
+- Issue of 3D pen cracking when cutting pattern after 3D pen creation
+- Issue of Change Heels not working in V1 avatar
+- Issue where Undo and Redo does not work properly after Steam
+- Issue where simulation shape of the zipper changed when modifying the pattern after loading 
+  a garment with the zipper
+- Issue that does not return to the original state when initializing after changing the pivot position and 
+  the angle in the Texture Editor
+- Issue where the number changed in the POM does not get saved 
+- Issue when there are multiple Stitch Counts during Schematic Rendering, it is not scaled to the original 
+  shape
+- Issue of not getting applied immediately upon Apply All when loading the JEAN file 
+- Issue with the ratio not maintained when applying the normal map to the graphic
+- Issue where part of the avatar’s hair becoming transparent when adding a graphic to the pattern
+- Issue with the graphic of the pattern created with Topstitch was displayed in black in UV Editor mode
+- Issue where tooltip shortcut key disappearance
+- Issue where the decimal point is automatically entered when moving the line segment and point of the 
+  pattern with the dimensional input
+- Issue where the Tab key does not move the fields sequentially in the color window
+- Issue where the tab of the selected color was not maintained in rerun after selecting a color in the 
+  palette library window
+- Issue where the icon does not change when selecting the Garment Resolution tool in the 3D toolbar
+- Issue where the history window does not hide in animation mode
+- Issue of not immediately close down when the render window is closed in the interactive rendering 
+  state 
+- Issue where grading menu appears when right-clicking a pattern in UV Editor mode
+- Issue where the program was expanded larger than the monitor screen when changing the mode
+- Issue where 3D/2D windows could not be placed in the desired location when interacting between dual 
+  monitors
+- Issue of transparent background is activated when adding an image in the Texture Editor
+
+[6.0.328]
+Key Features
+
+- Grading Review
+- Auto Sewing
+- Texture Editor
+- Print on Fabric
+- Render I Subsurface Scattering Material
+- Automatic Rigging & Converter
+- Schematic Rendering Style for Tech Pack
+- UV Editor Mode
+- PBR Material | Substance by Adobe & X-Rite AxF
+ 
+Other Features
+
+File
+- Jeanologia | Import Washing File of eDesigner (Coming Soon)
+- Color Digital | DMIx Cloud Linkage & Compatible with Material
+- Add the path of saved file to Recent File List 
+
+2D
+- Fullness & Pleats Improvements I Move Internal Lines and Baselines in accordance with the enlarged pattern.
+- Automatically folding Dart when it is added 
+- 2D Ruler Improvement
+     - Create and Edit Curves
+     - Trace Outline and Internal lines of the pattern with Ruler
+     - Change the number from POM List
+     - Show/ Hide in Print Layout Mode
+- Grading Improvements
+     - Pair Avatar for Grading Size
+     - Apply Grading to Curve Points (Coming Soon)
+- Extend/Trim & Add Point to Pattern Outline or Internal Line
+- Copy a part of Base/Internal Shape
+- Enter Segment Length value when you move points
+- Lock Curve Points when you Change Length
+
+Materials
+- Zipper I Add metal preset for YKK
+- Create Graphic Over Seamline
+- Edit Back Texture with Texture Edit
+
+Avatar
+- Cuboid Arrangement Bounding Volume
+- Integration of Avatar Ruler & Tape
+
+Render
+- Metalness Map & Alpha Map (PBR Material)
+- Save Render Properties
+    
+Print Layout Mode
+- Pattern Nesting (Marker) I Spacing Patterns (Coming Soon)
+
+Colorway Mode
+- Colorway UI Improvements
+
+Interface
+- Compatible with Wacom 3D Pen
+- News Notifications in CLO
+- Login via SSO
+- Import/ Export window Improvements 
+
+[6.0.278]
+NEW 
+
+PBR Material | Substance by Adobe
+Render | Iridescence Material
+4K Display | Resolution Preset
+Schematic Render | Garment Color Change
+Line Segment is changed to a Dotted Line when Baseline is Locked
+
+FIXED
+
+- Crash occurs when a graphically created garment’s base size has been changed under review mode. 
+- Crash occurs when the 3D line segment has been created after the avatar divide mesh.
+- Crash occurs when exporting button created garment as an Alembic file format.
+- Crash occurs when creating a zipper while the topstitch item has been selected.
+- Crash occurs when opening a file while CLO software is running. 
+- Crash occurs when clicking the right button in the animation editor. 
+- Crash occurs when changing the item name under material and property window after the colorway garment file has been loaded. 
+- Issue of the view control when changing into review mode in quality render (3D window).  
+- Issue where 3D garment created twice when undoing Pair Avatar grading deletion.  
+- Issue where the grading line segment does not denote when changing from review mode to simulation mode.  
+- Issue where values were applied in the opposite direction when correcting the grading of the symmetric pattern. 
+- Issue when changing colors after selecting multiple swatches of trims in colorway mode. 
+- Issue where the existing properties not returning when undoing, after applying a substance to the inner surface of the fabric.
+- Issue where moving values were not applied properly when adding AVAC files. 
+- Issue where the location of the 3D/2D pattern when creating a pattern after the avatar is deleted.  
+- Issue of 32Bit JPG image file rendering 
+- Issue that did not move along the axis when dragging the axis of the Gizmo after selecting the joint of the avatar.  
+- Issue where animations do not load when ZPRJ file has been saved in version 5.0 or lower and has Non-ASCII characters 
+- Issue of missing Teck Pack (CLO-SET) menu in graphic properties
+- Issue where the pattern does not return to the original position when undoing, after placing the patter with the arrangement point
+- Issue of not reflecting normally when Reset Layout
+- Issue where Topstitch was displayed by default under Transform Pattern tool 
+- Issue where 2D window menu appears when right-clicking the background of UV Editor after selecting the button tool under UV Editor Mode. 
+- Issue where the right button of the Property Editor has been covered by the scroll bar on Mac.
+- Issue where a part of a line segment was cut when rendering a schematic in Quality Render (3D window) 
+- Issue where the location of the Property Editor changes when rerunning after changing the programming language into Italiano. 
+- Issue where the graphic size was changed when executing Texture Editor in graphic properties
+- Issue of animation files that cannot be loaded normally 
+- Issue of obscuring graphics when creating Select Mesh and Pin
+- Issue where the reverse copy menu was missing from the baseline right-click pop-up menu
+- Issue where characters were broken when saving as a CSV file after entering Korean in the POM tab. 
+- Issue where Seamline Puckering’s Normal Map has not been applied normally on Mac
+- Issue where mouse hover image does not disappear on Mac 
+- Issue of focus when using the trackpad on Mac 
+- Issue of 3D window being separated in Review Mode
+- Issue where part of the layout being broken when the library window is separated. 
+- Issue of irregular click problem when viewing the Show Screen Navigation
+- Issue where some texts were cut off under drop-down menu
+- Issue where Notch being displayed small on Mac
+- Issue where the CLO program disconnects when moving between two or more monitors. 
+- Issue where the icon does not update when clicking the show button of the layer in the Texture Editor. 
+- Issue that Property Editor does not update when the Print of Fabric has been deleted with the Delete key. 
+- Issue where horizontal/vertical pixel values were displayed equally when showing 3D Garment Window Size.  
+- Issue of a warning window occurring while applying the thumbnail as an AI/PDF file when the Register Button was applied. 
+- Issue of text overlapping when double-clicking annotation with Edit Annotation tool. 
+
+
+[6.0.238]
+
+Key Features
+
+Grading Review
+Auto Sewing
+Texture Editor
+Print on Fabric
+Render I Subsurface Scattering Material
+Automatic Rigging & Converter
+Schematic Rendering Style for Tech Pack
+UV Editor Mode
+PBR Material | Adobe Substance & X-Rite AXF
+
+Other Features
+
+File
+Color Digital | DMIx Cloud Linkage & Compatible with Material
+Add the path of saved file to Recent File List
+
+2D
+Fullness & Pleats Improvements I Move Internal Lines and Baselines in accordance with the enlarged pattern.
+Automatically folding Dart when it is added
+2D Ruler Improvement
+Create and Edit Curves
+Trace Outline and Internal lines of the pattern with Ruler
+Change the number from POM List
+View/ Hide in Print Layout Mode
+Grading Improvements
+Extend/Trim & Add Point to Pattern Outline or Internal Line
+Copy a part of Base/Internal Shape
+Enter Segment Length value when you move points
+Lock Curve Points when you Change Length
+
+Materials
+Create Graphic Over Seamline
+Edit Back Texture with Texture Edit
+
+Avatar
+Cuboid Arrangement Bounding Volume
+Integration of Avatar Ruler & Tape
+
+Render
+Metalness Map & Alpha Map (PBR Material)
+Save Render Properties
+
+Interface
+Compatible with Wacom 3D Pen
+News Notifications in CLO
+Login via SSO
+Import/ Export window Improvements
+
+[5.2.382]
+FIXED
+
+- Crash that occurs when adjusting the thumbnail size in the Colorway Mode.
+- Issue of mismatching symmetrics when cutting multiple Internal Shapes of Symmetric Patterns at the same time.
+- Issue of irregularly sized thumbnail when changing from the Colorway Mode to the Viewer Mode. 
+- Issue of deleted animation when saving ZPRJ files. 
+- Issue of abnormal sewing errors in particular files.
+- Issue where the file path of saved files do not appear in the Recent File list. 
+- Issue of changed default settings when changing styles of the Button’s properties. 
+- Changed to apply only effective grading information when importing DXF files.
+- Issue of improper parsing of HTML information when dragging-and-dropping it from a webpage. 
+- Changed to prevent graphics from colliding by increasing Z-offset value by 0.05.
+- Changed to include Reflection Intensity value when exporting glTF files.
+- Issue of incorrect export of texture size and rotating values of glTF files. 
+- Issue where Dialogue setting does not reset when changing the direction Offset Pattern Outline to Retract.
+
+
+[5.2.364]
+FIXED
+
+- Issue where graphics are overlapped when rendering a garment file with multiple graphics created on a single Pattern; such issue occurs because Z-Offset is set to the default value (0.05).
+- Issue of arrow key malfunction when selecting Pattern Outline and Internal Lines with the Grading tool.
+- Issue where the blue picking point does not appear on 3D Patterns.
+- Issue where the original Sewing Lines are deleted when newly created ones overlap the original ones.
+- Issue of user picking malfunction when activating Simulation while holding down the mouse.
+- Issue of metallic roughness map export error when exporting gltf files.
+- Issue where Grainline's direction of symmetric patterns of other colorways changes when cutting Patterns.
+
+[5.2.356]
+NEW 
+- Nesting Patterns for Bulk Production & Grading
+- Export to GLB/glTF-Embedded
+- Z-Offset of Graphic
+- Rotating Dialog of Grainline and Fabric Texture
+- UV Maps of All Buttons
+
+FIXED
+- Issue where graphics set to appear on both sides of the Pattern do not show on the back with the Show Thick Textured Surface mode is on.
+- Issue where the presets of Bonding cannot be changed when set as Custom.
+- Issue where the error message does not appear when creating duplicated sewing.
+- Issue where grading rules are not applied and cannot be copied to Internal Shapes.
+- Issue where Topstitch is not properly created to M:N sewing.
+- Issue of dislocation of graphics of other Colorways when cutting Patterns.
+- Crash that occurs when loading a file without Pattern information.
+- Crash that occurs when loading particular files with Bindings created on Internal Lines. 
+- Crash that occurs when exporting particular Patterns as Adobe (PDF). 
+- Crash that occurs when exporting files as FBX or Alembic format after hiding Patterns with Topstitches. 
+- Issue of dislocation of buttons after Simulation. 
+- Issue where the shortcuts of show/hide of the Library Window do not work when changing the Language setting.  
+- Issue where Patterns do not appear when loading a DXF file in the Print Layout Mode. 
+- Issue where grading rules of buttons are not copied when duplicating Patterns.
+- Issue of distorted curved lines of Baselines when exporting as DXF file.
+- Issue where garment information is reset. 
+- Issue where the names of symmetric Arrangement Bounding Volumes change when changing the name of avatars’ Arrangement Bounding Volumes.
+- Issue where the preview does not appear when moving graphics while the Thick Textured Surface is activated. 
+- Issue where the software cannot be updated when multiple programs are running. 
+- Issue of Sewing malfunction when using the Re-draoe 3D Arrangement function to garments with Seamline Topstitches.
+- Issue of Simulation malfunction after adding graphics in specific cases.
+- Issue where graphics and Patterns appear to be parted when their sizes are small.  
+- Crash that occurs when exporting particular Patterns with Baselines as Adobe (PDF). 
+- Issue where Topstitches are reversed on M:N Sewing. 
+- Issue where Toptstitches do not appear when taking 3D Snapshots while Quality Render is activated. 
+- Issue where the both ends of Pipings on Internal Lines are sewn together. 
+- Issue of reset properties when editing the length of Topstitches after loading a file with Seamline Topstitches. 
+- Issue of abnormal appearance of Topstitches when activating 3D On in the Seamline Topstitch properties.
+- Issue of disappearance of the Apply button in the List when selecting multiple Seamline Topstitches or Puckerings. 
+- Crash that occurs when extending both segments of Half Symmetry Patterns.
+- Issue where Buttonholes cannot be selected with the Fasten Button tool. 
+- Fixed to apply grading rules to buttons created on graded Patterns.
+- Issue of abnormal validation when exporting as glTF files.
+- Issue where graphic properties do not appear when selecting multiple graphics on a Patterns with buttonholes.
+- Issue where partial messages do not appear when exporting avatars from inferior versions as gITF files.
+
+
+[5.2.334]
+FIXED
+- Improved to operate based on seam allowance in Nesting Patterns (Marker) function.
+- Crash that occurs when loading a particular garment file with OBJ Topstitches.
+- Issue where the Arrangement option does not appear in the Create Internal/Base Ellipse window.
+- Fixed to apply the show/hide setting of render lights when loading ZPRJ files.  
+- Issue where the cut/sew function failed in some patterns.
+
+[5.2.318]
+NEW
+- Laser Wash Information in Tech Pack
+- Nesting Patterns (Marker)
+- Network Plotter
+- Improved Optimize Curve Points 
+- Add Right-click Popup Features for Baseline
+- Supplier of Fabric
+- Replace the Preset of Bartack Topstitch
+- Add Normal Maps of Three Rib Fabrics
+- Notification of License Expiration
+
+FIXED
+- Crash that occurs when loading avatars after using the Flatten tool.
+- Crash that occurs when changing properties of Seamline Puckering. 
+- Crash that occurs when changing Zipper Tape properties to Trim physical properties. 
+- Issue where OBJ Topstitch appears in the empty space of the 3D window.
+- Issue of disabled Simulation when changing avatar pose in the Colorway Mode.
+- Correct the name of the arrangement points which's left/right or front/back were reversed.
+- Correcting the value of CF Neck to Waist of the 'ASTM Missy Straight 12.avs' which caused the unnatural
+  neck shape of the avatar.
+- Crash that occurs when moving Puckering by inserting specific values.
+- Crash that occurs when changing path for file auto-saving. 
+- Occasional crash that occurs when unfolding graded Patterns. 
+- Crash that occurs when loading files with group buttons and puckerings.
+- Crash that occurs when changing presets after changing location of Seamline Puckerings with properties. 
+- Crash that occurs when downsizing Pattern outlines that are connected with segments with Seamline stitches.
+- Crash that occurs when closing the program from Dock while CLO is running in Mac.
+- Issue where Baselines are not locked when editing Patterns using particular tools.
+- Issue of redo and undo malfunction of locking Patterns.
+- Issue of incorrect application of Roughness map strength and color when exporting glTF files.
+- Issue of incomplete application of resolution setting when rendering in CLOSET. 
+- Issue of incomplete application of avatar location setting when adding AVAC files. 
+- Fixed to load CLO avatars barefoot when Converting to Avatar.
+- Issue where standard setting is maintained when loading another avatar after changing the properties. 
+- Issue of duplicated Sewings when duplicating Patterns with Internal Lines using Layer Clone. 
+- Issue where Notches do not appear on seam allowances based on the angles of Patterns’ corners. 
+- Issue where partial Patterns do not attach according to Avatar Tape.
+- Issue where Item No. of trims do not reset or cannot be copied.
+- Issue where category properties cannot be modified when changing button types.
+- Issue where rotated Patterns are copied and pasted upside-down when flipping horizontally after applying graphics.
+- Issue where Sewings are not duplicated when duplicating a single Pattern, sewn to Symmetric Patterns, as a Symmetric Pattern.
+- Issue where texture images are not saved when saving as Topstitch files. 
+- Issue of malfunction when Non-ASCII characters exist in the file path. 
+- Issue where the appearance setting (hide/show) of lights file of render is not saved.
+- Issue where a part of a name is cut off when it has a period. It happens when saving a fabric created in the Emulator Mode.
+- Issue of incorrect display of the icon size on the last page of the Emulator Mode.
+
+[5.2.284]
+FIXED
+
+Crash that occurs when selecting Edit Sewing after loading a particular file.
+Issue of deleted Piping and Zipper when Symmetric is applied.
+
+[5.2.268]
+FIXED
+- Crash that occurs when merging seamlines.
+- Crash that occurs when adding Points to segments with Seamline Puckering.
+- Issue which Elastic option does not appear in the Property Editor when selecting Internal Lines.
+
+
+[5.2.260]
+NEW
+-  Size preset of maternity avatar is added to the Library
+-  Option to add CLOSET tech pack to each object
+-  When added, notches appear on both sides of a seam allowance at a corner of a Pattern. 
+-  Animation is deleted when an OBJ with animation is moved in the 3D window.
+
+FIXED
+-  Crash that occurs when Unfolding particular Patterns. 
+-  Crash that occurs when switching to the Animation Mode. 
+-  Crash that occurs when canceling after changing properties of Puckerings.
+-  Crash that occurs when moving Seamline Puckering of symmetric Patterns.
+-  Crash that occurs when clicking after loading 5.0 avatar in CLO 5.2.
+-  Crash and an error message that appears when loading particular gITF files. 
+-  Crash that occurs when dividing mesh of particular gITF files in Mac.
+-  Crash that occurs when changing length of a point with Elastic.
+-  Crash that occurs when switching to Screen Gizmo from Local or World Coordinate Gizmo.
+-  Crash that occurs when canceling or redoing deleting or changing 3D background image.
+-  The maximum value of Fabric’s Normal Map Strength dropped to 50 from 100.
+-  Issue of partially hidden Arrangement Points when placing Patterns.
+-  Issue of deleted original name when double-clicking POM description field of the Object Browser.
+-  Issue of asymmetric deletion of Topstitches when deleting them with the right-click pop-up menu of a symmetric Pattern. 
+-  Issue which Pattern Outlines appear in red. 
+-  Issue of abnormal application of Strength of Normal and Roughness Map when exporting a glTF file.
+-  Issue of duplication of a single image file when exporting a glTF file.
+-  Deleted Weld option from the Export glTF window. 
+-  Issue which the Reset button of the Export gITF window does not work for the Save with Meta Data (XML) option.
+-  Issue which button textures are not applied when exporting as a FBX file.
+-  Issue of abnormal application of baselines when canceling or creating them to 3D garments.
+-  Issue of unintentional application of transparency to Avatar Hair when taking 3D snapshots with a transparent background with activated Quality Render (3D).
+-  Issue of difference of grading information when importing DXF files created in Gerber.
+-  Issue of abnormal application of the 3D option of Topstitch properties. 
+
+
+[5.2.204]
+NEW
+- Import/ export glTF files
+- Option to Reverse Direction of fold pleats.
+
+FIXED
+- Crash that occurs when merging points on Internal Lines.
+- Crash that occurs when tracing shapes to Internal Lines.
+- Crash that occurs when unfolding graded Patterns.
+- Occasional crash that occurs when cutting graded Patterns.
+- Crash that occurs when changing shoes of female Avatars.
+- Crash that occurs when exporting DXF files when the Pattern Bounding Box option is selected.
+- Crash that occurs when irregular base lines exist when opening a garment file.
+- Issue where the transparency is not properly reflected, when applying texture desaturation.
+- Issue where a pop-up window appears when moving garment and avatars with animation.
+- Issue where an icon to view grainlines 
+- Issue of texture difference between the original and exported ones when exporting Flip Normal applied Fabrics as an Adobe (PDF) file.
+- Issue where ground shadow does not appear properly when running Quality Render.
+- Issue where the 3D garment breaks when canceling the change of the avatar pose.
+- Issue of abnormal compatibility of DXF file’s notches with Gerber.
+
+
+[5.2.172]
+[Fixed] Crash that occurs when loading a ZFAB file in the Colorway Mode.
+[Fixed] Crash that occurs when right-click on a notch created with specific measurement input.
+[Fixed] Crash that occurs when Topstitches are created on a Pattern with abnormal mesh structure. 
+[Fixed] Intermittent Crash that occurs when sewing pleats. 
+[Fixed] Issue where images are not included when uploading a garment file to CLO-SET.
+[Fixed] Issue of constant appearance of an error message of authentication failure.
+[Fixed] Issue where pattern symbols are not included when exporting a file as a DXF.
+[Fixed] Issue where annotations are deleted when merging or cutting symmetric Patterns.
+[Fixed] Issue where meshes of OBJ Topstitches created on Internal Lines break and do not update properly.
+[Fixed] Issue where button holes disappear when changing grading size. 
+[Fixed] Issue of changed image size when adjusting grading size of patterned graphics. 
+[Fixed] Issue of changed shape of zipper or piping when they are created on edges of Patterns.
+[Fixed] Issue where changed zipper tapes are not linked to the default preset folder.
+[Fixed] Issue where checked options are not maintained when changes are made in the Export OBJ window. 
+[Fixed] Issue of missing information about Convert Avatars in the History window.
+
+
+[5.2.142]
+KEY FEATURES
+
+- High-Quality Realtime Render
+- Render I Various Lights
+- YKK Zipper Slider & Puller Library
+- Zipper Stopper
+- Pleats
+- Rotate Dart
+- Fullness
+- Group Patterns
+- BOM Mode | Cost Calculation of Fabric Consumption
+
+Other Features
+
+Improved Speed Performance
+  Saving/Opening files
+  Colorway Mode
+  Color Palette window
+
+Render
+  Render I Fur Gradation Color
+
+Color Search
+
+2D
+  Create & Edit Baseline
+  Add Dart with Fullness
+  Slash Open from Both Edges at Once
+  Lock Point and Segment
+
+Asset
+  New Kid Avatar Size Presets
+  New Object Avatars for Bags
+
+Avatar
+  OBJ Scale
+
+Group Tools
+
+Automated Download and Installation of New Patch Versions
+
+[5.2.84]
+
+KEY FEATURES
+
+- High-Quality Realtime Render
+- Render I Various Lights
+- Zipper Stopper
+- Pleats
+- Rotate Dart
+- Fullness
+- Group Patterns
+- BOM Mode | Cost Calculation of Fabric Consumption
+
+Other Features
+
+Improved Speed Performance
+  Saving/Opening files
+  Colorway Mode
+  Color Palette window
+
+Materials
+  Compatible with PBR Material
+    - Exporting a Garment to glTF file.
+    - Importing Substance File for Fabric Material.
+
+Render
+  Render I Fur Gradation Color
+
+Color Search
+
+2D
+  Create & Edit Baseline
+  Add Dart with Fullness
+  Slash Open from Both Edges at Once
+  Lock Point and Segment
+
+Asset
+  New Kid Avatar Size Presets
+  New Object Avatars for Bags
+
+Avatar
+  OBJ Scale
+
+Group Tools
+
+Automated Download and Installation of New Patch Versions
+
+
+[5.1.482]
+
+FIXED
+[Fixed] Crash that occurs prior to login when launching the program after the version upgrade.
+[Fixed] Crash that occurs when particular garment files with shirrings.
+[Fixed] Crash that occurs when tracing 2D Patterns based on an UV map while importing an OBJ as a garment.
+[[Fixed] Issue where curve points of connected segment do not move when moving its pair.
+[Fixed] Issue where the Edit Dart and Fold Dart menus do not appear for symmetric Patterns.
+[Fixed] Issue where turntable videos are not recorded according to the configured duration.
+[Fixed] Issue where the file navigator does not appear when the Create HW File button is selected in the Offline Authentication window. 
+[Fixed] Issue where only a single AVAC file opens when opening a ZPRJ file with multiple same AVAC files.
+[Fixed] Issue where properties of Topstitches appear when selecting group buttons of a ZPRJ file.
+[Fixed] Issue where only the first colorway is rendered when rendering all colorways as turntables.
+[Fixed] Issue where an image is not saved when the name of a colorway includes an Enter.
+
+
+
+[5.1.474]
+
+IMPROVEMENT
+[Improved] Hiding setting of Patterns is maintained when opening ZPRJ / ZPAC files.
+[Improved] OBJs can be loaded with the Load as Scene & Prop option.
+[Improved] An option to keep the original avatar’s animation when adding a ZPRJ file with an avatar is added.
+
+FIXED
+[Fixed] Crash that occurs when rendering turntable images. 
+[Fixed] Occasional crash that occurs when clicking Render or Stop Render button.
+[Fixed] Crash that occurs when cutting graded Patterns.
+[Fixed] Crash that occurs when selecting the Perpendicular Direction option while distributing internal line between segments. 
+[Fixed] Crash that occurs when using the Plotter feature without Patterns.
+[Fixed] Issue where sewing lines are duplicated on Instance Patterns when using the M:N Sewing feature.
+[Fixed] Issue where the strength of the normal map is not copied when a fabric is duplicated.
+[Fixed] Issue where wrong information appears when selecting Patterns with graphics by clicking-and-dragging.
+[Fixed] Issue where the starting point of the frame changes when loading a FBX file with animation.
+[Fixed] Issue where the Lock to Camera option malfunctions when rendering with a Custom View.
+[Fixed] Issue where unified textures are misaligned when exporting OBJ files.
+[Fixed] Issue where annotations are deleted after cutting Patterns.
+[Fixed] Issue where AVS files cannot be saved in the Avatar Editor window.
+[Fixed] Issue where images cannot be overwritten when using the CLO file navigator in Mac.
+[Fixed] Issue where MTL file is not loaded when re-loading an OBJ file after exporting.
+
+[5.1.436]
+
+FIXED
+[Fixed] Crash that occurs when right-clicking on a file while the library window is in List View.
+
+
+[5.1.432]
+IMPROVEMENT
+[Improved] Names for Trims are visible in the Colorway item list.
+[Improved] Angles of Patterns are maintained for Automated Grading.
+[Improved] Fixed points and axes are automatically calculated based on Patterns for Automated Grading.
+[Improved] Buttons created on a symmetric Pattern are duplicated to its symmetric pair. 
+[Improved] Both Patterns of a symmetric pair are cut when one of them is cut with 3D lines.
+[Improved] Fit Map can be added when exporting garments as Alembic files. 
+
+FIXED
+[Fixed] Crash that occurs when slash-and-spreading a Pattern with seam allowances.
+[Fixed] Crash that occurs when merging particular Patterns. 
+[Fixed] Crash that occurs when dividing meshes of avatars with Avatar Tape.
+[Fixed] Crash that occurs when moving all Patterns in the 2D Window while the GPU Simulation is activated.
+[Fixed] Issue of slow speed when opening AI/PDF files.
+[Fixed] Issue where the Import as Graphic does not work properly when opening AI/PDF files.
+[Fixed] Issue where Internal Shapes and Base Lines are incorrectly printed when plotting AI/PDF files.
+[Fixed] Issue where the Refresh and Cancel buttons are partially hidden in the Import AI/PDF window.
+[Fixed] Issue where animation information is not included when saving ZPRJ files.
+[Fixed] Issue where the progress bar does not appear properly when exporting OBJ files.
+[Fixed] Issue where the Select/Move tool is not updated after canceling previous actions while simulation is active.
+[Fixed] Issue where Symmetric Patterns are not placed symmetrically.
+[Fixed] Issue where pins are deleted when canceling the actions of creating and/ or editing pins, 
+[Fixed] Issue where meshes break in particular garments after applying Automated Grading. 
+[Fixed] Issue where grading information is changed when Patterns are cut. 
+[Fixed] Issue where Grading is not applied correctly to Internal Shapes with curve points.
+[Fixed] Issue where grading information of buttonholes is not copied when patterns are duplicated symmetrically. 
+[Fixed] Issue where Distance, one of the grading properties of buttons, is not applied properly.
+[Fixed] Grading information of Instance Patterns are updated when points are edited.
+[Fixed] Issue of malfunction of slash and spread when applied to Instance Patterns. 
+[Fixed] Issue where Internal Shapes are not created or edited when Instance Patterns are Unfolded.
+[Fixed] Issue of pattern distortion when Automatic Grading is applied to Patterns with Internal Shapes placed close to Pattern Outlines.
+[Fixed] Issue where Grading is not automatically selected in the Object Browser’s Grading tab when selecting a Pattern.
+[Fixed] Issue where Internal Lines are extended even when the option is turned Off. 
+[Fixed] Issue where Topstitches are selected after Unfolding Patterns with Symmetric editing.
+[Fixed] Issue where one side of the Symmetric Patterns’ sewing line does not snap.
+[Fixed] Issue where decimal points do not update based on units when changing Width of seam allowances. 
+[Fixed] Issue where Property Editor does not update when Patterns are unselected. 
+[Fixed] Issue where eyelet OBJs do not appear in the 3D window once they are registered as buttons.
+[Fixed] Issue where decimal points cannot be inserted when creating Group Buttons.
+[Fixed] Issue of misplacement of Ghost when selecting buttons right after fastening them.
+[Fixed] Issue where view cannot be controlled when saving fabric file is canceled while processing. 
+[Fixed] Issue where some features of the Refresh from Custom Folder Path of Texture Images do not work properly. 
+[Fixed] Issue where Bounding Volumes cannot be selected, moved or deleted after Patterns are placed with corresponding Arrangement Points. 
+[Fixed] Issue where two warning pop-ups appear when loading abnormal pose files.
+[Fixed] Issue where motion is not applied properly when a ZPRJ file contains multiple avatars and a single motion file.
+[Fixed] Issue where Simulation can be temporarily activated while rendering.
+[Fixed] Sporadic issue where the scene does not load when switching from Final Render to Interactive Render.
+[Fixed] Issue where a dialogue pop-up is hidden behind the program when saving Modular Structure files. 
+[Fixed] Issue where Zipper/ Piping/ Binding is not saved properly when saving ZBLC files. 
+[Fixed] Issue where garment information disappears when copying Patterns between different files.
+[Fixed] Issue where selected row expands or unnamed menus appear in the Shortcuts setting list.
+[Fixed] Issue where buttons with 0 degree angle cannot be rotated 180 degrees when duplicated to symmetric patterns. 
+
+[5.1.330]
+[Fixed] Bug that crashes or freezes the program when loading a project file after changing shoes or hair for avatars.
+[Fixed] Crash that occurs when using the Slash and Spread tool to patterns with sewing lines.
+[Fixed] Issue of the unstable collision of trims such as buttons when Layer is applied to patterns.
+[Fixed] Issue where a file does not open when double-clicking the ZPAC/ ZPRJ file while the program is running in Mac.
+[Fixed] Occasional crash that occurs when pausing the render or interactive render.
+[Fixed] Issue where the Layer is applied to zippers, bindings, and pipings when they are created.
+
+[5.1.312]
+IMPROVEMENT
+[Improved] Linear Workflow On/Off option added to Render Properties.
+[Improved] Units for topstitch thread thickness are added.
+
+KEY FEATURES
+
+- Auto Grading
+- Pantone Color Library
+- Displacement Map
+- Animation Render
+- New Fur Presets
+- Folded Shirt Template
+- New Adult Avatars (Male and Female of two ethnicity)
+- Size Editor for Kid Avatar
+- 2D Pattern Ruler
+- Unfold Symmetric Editing (with Sewing)
+- Walk Pattern
+
+Other Features
+
+File
+  Export OBJ
+    - Export OBJs as many as colorways
+    - Save with Absolute Texture Image File Path
+    - Topstitches are included in Combined UV Map
+  JPG Format added to 3D Snapshot
+  Selectively Download Assets
+
+3D
+  Express Shirring
+  3D Environment Show/Hide Icons
+
+2D
+  Button Placement Grading
+  Retract Pattern Outlines
+  Add Point to Notch
+  New Seam Allowance (Dart Type)
+  Create Patterns and Internal Shapes from the Center
+  Maintain Angle of the Handle when Modifying Curvature of Bezier Curve
+  Maintain Sewing when Deleting Points
+  Back Texture Surface
+
+Sewing
+  Snap Sewing Lines to Points when Editing Sewing
+  Show Snapping Point when using 3D Free Sewing
+  
+Materials
+  Partially Apply Materials to OBJ Trims
+  Fabric
+    - Gravity Property is Added
+    - Bias Direction is Added to Bending, Buckling Stiffness, Buckling Ratio 
+    - Register Preview Image when Saving ZFAB
+    - Assign Path for Texture Refresh
+  Puckering 
+    - Free Puckering Tool
+    - Apply Normal Maps and Textures Simultaneously
+  Button 
+    - Create Group Buttons/Buttonholes along Pattern Outline
+    - Edit Placement of Button Texture
+  Grain Direction for Binding
+  Physical Properties for Zipper Tape
+  Pop-up Window for Overlapped Graphics
+ 
+Avatar
+  Updates to Default Assets in ver 5.1
+    - Motions: Kelly, Emma, Martin, Dario
+    - Heels: Kelly, Emma
+    - Hair: Mara, Thomas
+    - Hanger: Kid
+  Symmetric Pose Editing
+  Convert to Kid Avatar
+  Improved Avatar Size Editor 
+    - Standard Width for Overall Body Shape
+    - Smaller Feet/Hands
+    - Show Avatar Measure when Adjusting Height
+  Align Avatar to The Ground / Center of 3D
+    - Align Bottom of Avatar to Ground When Loading a Pose
+    - Align Avatar / Avatar & Garment to Center of 3D
+    - Align Avatar / Avatar & Garment to Ground
+ 
+Emulator Mode 
+  A Page Added to Enter Bias Values
+  A Button Added to Input All Values
+ 
+Print Layout Mode
+  Can Switch to Print Layout Mode without Texture
+ 
+Render
+  Real-time Sync for Materials
+  Show/Hide HDR Image
+  Maximum Value for Light Intensity is Increased to 10,000
+  Name Render Image Files
+  Set Range Angle of Turntable Images
+  Set Resolution(ppi) in Pixel Unit
+
+[5.0.252]
+[Fixed] Crash that occurs when clicking the 3D window while using AMD Radeon graphic card.
+[Fixed] Crash that occurs when opening a file saved in ver5.0.242 in lower versions.
+[Fixed] Misplacement of Avatars when opening a garment file saved in lower versions in ver5.0.242.
+[Fixed] Improper loading of Gerber DXF file with closely placed points or overlapped lines.
+[Fixed] Problem where the size of the converted avatars are edited without maintaining the changed form.
+
+[5.0.242]
+[Fixed] Crash that occurs when clicking OK after deleting the original thumbnail file which was added through the Register Button window.
+[Fixed] Occasional crash that occurs when importing DXF files with the Swap Cutting Line and Sewing Line option activated.
+[Fixed] Sporadic crash that occurs when undoing changes made to Grading information.
+[Fixed] Sporadic crash that occurs when using Pin.
+[Fixed] Issue where Texture image files of ZPRJ file disappears.
+[Fixed] Issue where the Simulation tool does not activate after the click.
+[Fixed] Issue where the tooltips do not appear when the GPU Simulation is chosen.
+[Fixed] Issue where Internal Lines can be selected when Patterns are locked after locking Internal Lines.  
+[Fixed] Issue where the size of the User Setting window does not change.
+[Fixed] Issue where the Reset and Close buttons are hidden in the monitor with the resolution of 1200*800.
+[Fixed] Issue where, in case of dual monitors, the Welcome window appears in a different monitor from the one showing the program. 
+[Fixed] Issue where the Welcome window still remains at the top of the window after clicking 2D or 3D window. 
+[Fixed] Issue where the Format Background window appears below the Avatar Editor in Mac.
+[Fixed] Sporadic issue, that only occurs in Mac, where the Rotate window does not appear when right-clicking while rotating Patterns.
+
+
+[5.0.234]
+[Fixed] Texture would disappear when user removes the texture’s color, saves as ZPRJ file, and opens file in another PC or CLOSET 
+[Fixed] When opening ZPRJ/ZPAC, abnormal bindings will now be removed 
+[Fixed] Crash that occurs when it is unable to bring the thumbnail image of the button file 
+[Fixed] When changing the user setting and restarting CLO, the tool bar disappears 
+[Fixed] When arranging pattern with buttons created, it will appear in the wrong position
+[Fixed] When the program’s unit of measurement is Inch, user cannot input values less that 1 for the binding width 
+[Fixed] When cutting internal segments closer to points on a dart, 2 patterns are created
+
+
+[5.0.224]
+[Fixed] Crash that occurs when adding colorways to garments with buttons and exporting to a PDF file 
+[Fixed] Crash that occurs when cutting the 3D pen with intersecting segments 
+[Fixed] Crash that occurs when sewn patterns are freezed and the action is undone 
+[Fixed] When editing grading, the graphic repeat setting is reset 
+[Fixed] Fixed an issue which a 'unidentified developer' dialog window pops up when installing CLO program in Mac OS. (Mac OS code signing issue)
+
+[5.0.214]
+
+[Fixed] Crash that occurs when sewing patterns 
+[Fixed] Crash that occurs when Arrangement Points are added 
+[Fixed] Crash that occurs when copying a pattern with OBJ trims attached 
+[Fixed] Crash that occurs when user applies “Flip Normal” on the frozen pattern in Modular Mode 
+[Fixed] Crash that occurs when deleting the original file of the texture that is applied on the fabric, then saved as ZFAB
+[Fixed] ZIP file being broken when exporting to OBJ file 
+[Fixed] Texture file name being saved incorrectly in MTL file 
+[Fixed] Error message appears when user double-clicks on ZPAC/ZPRJ file to open the program 
+[Fixed] Graphic position changes when cutting patterns 
+[Fixed] When exporting to Tech Pack file (JSON), a black thumbnail image is created 
+[Fixed] When opening a ZPAC/ZPRJ file, the dialogue box appears although “Open the Garment Information Window” is turned off 
+[Fixed] Certain shortcut keys are omitted when language is changed 
+
+[5.0.202]
+
+IMPROVEMENTS
+[Improved] Added new feature to export Techpack (JSON)
+[Improved] The image preview of the project file (ZPRJ/ZPACK) is now imported within the project file and not through an original file path
+
+FIXED
+[Fixed] Occasional crash that occurs when using the zipper tool
+[Fixed] Occasional crash that occurs when uploading a ZBLC file with seam line
+[Fixed] Crash that occurs when uploading a PDF file with nonstandard  patterns
+[Fixed] Tooltips not appearing properly for certain tools
+[Fixed] The changed position of the toolbar resetting when reopening the program
+[Fixed] When cutting internal lines in a locked pattern, the original pattern remains
+[Fixed] When annotation is selected with the Pattern Annotation Tool and edited with the Edit tool, the selected annotation disappears
+[Fixed] Buttonhole is also shown in unit L
+[Fixed] When seam line is right-clicked in Modular Mode, it is not selected properly
+[Fixed] Logging in through the client server is not operating properly
+[Fixed] Simulation is activated during rendering
+[Fixed] When importing internal shapes from a PDF file as graphics, they appear in black
+[Fixed] When the resolution is different across multiple displays, dialogue window appears in the opposite display
+[Fixed] Occasional crash that occurs during rendering
+[Fixed] Crash that occurs when clicking a point in the pattern and then changing arrangement property
+[Fixed] Issue where the grading value of a curve point is not properly copied
+[Fixed] When exporting to DXF files and there are patterns with identical names, grading information is not properly converted
+[Fixed] When  there is an internal segment in a pattern with thickness added, the back side geometry protrudes in renders and other programs
+[Fixed] Issue where graphic image size is not maintained when the image is changed
+[Fixed] Issue where Avatar measurements appear incorrectly when Avatar Editor's tab is changed
+[Fixed] Issue where grading information of seam allowance is not properly converted when exporting it as DXF
+
+[5.0.178]
+[Fixed] The crash that occurs when using the Trace tool
+[Fixed] The crash that occurs when converting certain segment points to curve points.
+[Fixed] The crash that occurs when aligning Internal Shapes.
+[Fixed] The crash that occurs when exporting only selected patterns as OBJ files
+[Fixed] When exporting DXF files, seam allowance is not converted properly.
+[Fixed] When moving a button with the Arrow Keys in the 3D window, it is not in sync with the 2D window.
+[Fixed] When the hyperlink of local file is dragged & dropped into CLO, it will not upload on versions later than Chrome 69.0
+[Fixed] Occasional crash that occurs when creating zippers in Colorway mode
+[Fixed] Occasional crash that occurs after adding details such as Graphics in Colorway mode *
+[Fixed] Bug in Notch properties that occurs after resetting the user settings window *
+[Fixed] When editing a Tack in the 2D window, it will snap to mesh
+[Fixed] Bug that occurs when changing the avatar pose when there are patterns
+[Fixed] Crash that occurs when clicking on a point in a pattern and changing arrangement property
+[Fixed] When exporting in FBX file format, button threads are now included
+[Fixed] Due to the crash that occurs when recording a turntable video in MOV format in versions above macOS 10.14.4, videos are now recorded in AVI format
+
+[5.0.162]
+[Fixed] Inclusion of (*) in file path when saving file in Mac
+[Fixed] Crash when file loaded in Colorway Mode.
+[Fixed] Wrong arrangement point in Avatar File
+[Fixed] Disable CB Neck to wrist option in Detail Advanced preset in Avatar Editor
+
+[5.0.156]
+
+IMPROVEMENTS
+[IMPROVED] Decreased lag in Colorway Mode
+[IMPROVED] Applied Opacity setting to Light material
+[IMPROVED] Fixed avatar symmetry
+[IMPROVED] Added detailed preset values (Intermediate) to Avatar Size Editor window
+
+FIXED
+[FIXED] Occasional crash that occurs in Colorway Mode
+[FIXED] Occasional crash that occurs when using the Slash & Spread tool
+[FIXED] Occasional crash that occurs when selecting Topstitch in the Object Browser
+[FIXED] Occasional crash that occurs when synchronizing pattern with notch in the 3D window
+[FIXED] Crash that occurs when opening garment file with abnormal binding
+[FIXED] Crash that occurs when converting to avatar and the converted 3D file is not properly loaded
+[FIXED] The error in texture conversion information when unit is Inch or Centimeter
+[FIXED] Issue when opening AVS file and avatar cannot be selected
+[FIXED] Issue where RGB value of topstitch cannot be input
+[FIXED] When editing grading, interval value of Property Editor is now applied correctly
+[FIXED] User can now move to the manual and video page linked with each tool
+[FIXED] When the intensity of Normal Map is negative, the value is applied in the render
+[FIXED] When changing avatar pose after editing avatar size, issue of specific body measurements being reset
+[FIXED] Random crash of avatar measurements not saved correctly
+[FIXED] PNG image file can now be opened on Windows
+[FIXED] When exporting to Adobe (PDF) file, issue where pattern outline is saved abnormally
+[FIXED] When editing avatar size or readjusting avatar joints, arrangement points are now automatically readjusted	
+[FIXED] Avatar hair position is not aligned in 4.2 and previous versions
+[FIXED] Issue of multiple segment points appearing when using ‘Trace’ tool
+[FIXED] Set the maximum value of button width and thickness to 100mm
+[FIXED] When topstitch color is changed in Colorway Mode, it is now applied in the thumbnail
+[FIXED] Issue of when changing button thickness, weight is not changed
+[FIXED] When merging patterns, original name is now retained
+
+
+[5.0.100]
+
+KEY FEATURES
+
+- GPU Simulation
+Escalate the simulation speed up to 20x using GPU
+- Avatar Size Editor
+Customize avatars.
+As CLO's Avatar Size Editor is powered by thousands of real body scanned data, body parts not assigned by users also adjust automatically based on the real data to generate true-to-life body shapes.
+- Convert Custom Body Scan to CLO Avatar
+Convert custom body scans such as dummies and bodies to CLO Avatar. Poses and accessories such as hair and shoes provided in CLO can be used with converted custom bodies.
+- CLOSET Tech Pack
+Upload a 3D Garment to CLOSET and extract its tech pack.
+- Glitter & Light Material
+Express glitter with various particle density and colors.
+Utilize objects and garments as supplementary lights.
+- Enhanced Render Environment
+Three Point Lights are added in addition to the original Dome Light. Adjust each of their strength and location to render 3D Garments more realistically and dramatically.
+Take a dramatic shot with an advanced camera that supports IOS, Focus Distance, and Image Slope editing.
+- Export Garment Information with API
+Develop features to selectively export 3D Garments' BOM information necessary for production using CLO API.
+
+
+
+OTHERS
+
+- Improved Grading
+Copy and paste grading rules from one point to another
+Grading remains when multiple Patterns are merged
+Graded Patterns can be easily noted with colored points.
+- Improved Notch
+Notches now appear on both Pattern outlines and Seam Allowances.
+Notch length now can be edited.
+- Ruler and Guidelines
+Arrange 2D elements accurately with the ruler and guidelines.
+- Improved Binding
+Binding legth and thickness now can be edited.
+- Align Grainlines Parallel to Segments
+Align grainlines parallel to designated segments.
+- Random Colored Surface
+Distinguish Patterns easily with randomly colored surface.
+
+
+
+[4.2.164]
+
+KEY FEATURES
+- Express Fur
+Express various types of fur of different color in Render.
+- 3D Sewing 
+Sew Patterns intuitively in 3D window.
+- Plot
+Plot 2D Patterns.
+- Render in CLOSET
+Render 3D Garments in CLOSET, minimizing use of your OS. 
+- Sewing Tension
+Adjust sewing tension to visualize 3D fit more accurately.
+- Adjust Trim Weight
+Adjust trim weight to express change in 3D Garments' drape.
+- Change Thread Type and Material for Buttons
+Buttons' thread type and material can now be changed.
+
+
+
+OTHERS
+- Binding Improvements
+Apply Topstitch on Binding.
+- Compatible with Alvanon Avatar
+Import purchased Alvanon Avatars to CLO after authentication.
+- 4K Support
+Program UI automatically adjusts to 4K monitor resolution.
+- Automated Arrangment Point Creation
+Arrangement Points and Bouding Volumes are automatically created based on Avatar's mesh length and circumference.
+- Trace Patterns with UV Map
+Extract 2D Patterns from UV Map when importing 3D objects.
+
+
+
+[4.1.74]
+
+[Fixed] Fixed a bug that incorrectly loads Arrangement Points and Bounding Volume
+[Fixed] Fixed a bug that Button picking information is corrupted (dangling pointer) when the user cancels creating button dialog in the 2D window.
+[Fixed] Fixed a bug that Grading size group changes to duplicate check.
+[Fixed] Fixed a bug which texture position of the copied graphic does not match the original.
+[Fixed] Crashes when closing.
+[Fixed] Fixed a bug that BR guide was not updated by using existing Shape BR when deleting internal figure.
+[Fixed] Fixed a bug which the barycentric coordinate of button bind position is negative.
+[Fixed] Fixed a bug that changes the notch direction when loading dxf.
+[Fixed] Fixed a bug that duplicats grading names when creating or importing Grading.
+[Fixed] Fixed a crash happens when changing Button Shape of Button Head Style with OBJ without UV.
+[Fixed] Fixed a bug which Avatar imported as Fbx cannot be exported as Obj.
+[Added] Added an option to select either Ogawa or hdf5 format when exporting using Python Script.
+[Fixed] Fixed a crash happens when importing Pattern File (.Pacx) with one closed line.
+
+
+
+[4.1.48]
+
+KEY FEATURES
+- Express Silk, Velvet and Glass Materials
+- Binding
+- Plot Patterns
+- [Print Layout Mode] Automated Pattern Placement
+- New Topstitch Presets
+- Tool Guides
+
+FILE
+- Garment Info Improvement
+- 3D Snapshot Improvement
+- Save 2D Snapshot Images as PDF
+
+3D
+- Garment Fit Map Improvement
+- Flattening Improvement
+- Custom View Improvement
+- Press Tool Improvement
+- Change Focus for Camera
+
+2D
+- Shape Dart Cap
+- Create Perpendicular Internal Lines
+- Grading Improvement
+- Cut Improvement
+- Divide Sewing Lines Based on Notches
+
+MATERIALS
+- Select Multiple Free Curve Points
+- Open / Save Trim
+- Copy / Paste Tack
+- Reorder Fabric Items
+- Zipper Slider Gizmo
+- [Print Layout Mode] Align Patterns
+- Change Properties for Multiple Topstitches at Once
+- Zipper Improvement
+
+RENDER
+- Render Colorways
+
+OTHERS
+- Python Script
+
+
+
+[4.0.129]
+
+IMPROVEMENTS
+[Improved] Modification to the minimum value of Particle Distance to 0.8. 
+[Improved] UI modification related to Grading. 
+[Improved] Added Environment Map (*.hdr, *.exr) input function.  
+[Improved] Color alteration of Strengthen feature. 
+[Improved] Dimensions of buttons and buttonholes to be displayed up to the third decimal place when units are in inches. 
+
+
+FIXED
+[Fixed] Abnormal Simulation of patterns when Particle Distance was less than 1.0. 
+[Fixed] Bug that caused CLO not to run or to be very slow in some Anti-virus environments.
+[Fixed] Bug that prevented CLO from running in Mac OSX 10.10 Yosemite. 
+[Fixed] Bug where certain network drives were not added when adding Favorites to Library.
+[Fixed] Bug where closing New Features window would close the program randomly if the trial period had only 1 day remaining. 
+[Fixed] Crash when using Undo after deleting grading size. 
+[Fixed] Bug where surface texture of OBJ Topstitch would not appear.
+[Fixed] Bug where Topstitch thumbnails in Colorway Mode and Object Browser were not updating when changing colors.
+[Fixed] Bug that initialized Seam Allowance type when using Undo/Redo on the Seam Allowance.
+[Fixed] Bug where Curvature Percentage would not change in Create Smooth Curve dialog.
+[Fixed] Bug on Avatar Pose/Motion 
+[Fixed] Bug where pressing Ctrl + A in 3D Line Tool would unselect all. 
+[Fixed] Multiple pop-up error message windows when Flattening failed. 
+
+
+
+[4.0.104]
+
+KEY FEATURES
+- Render Upgrade
+- Express Metallic Materials
+- AI Graphic Automatic Refresh
+- Grading
+- 2D Seam Allowance
+- Pattern Instruction Lines
+- Notches
+- Scale OBJ Trims
+- Graphic Repeat Options
+- Register Buttons and Buttonholes
+
+NEW
+- CLO Marketplace
+
+FILE
+- Additions to Assets
+- Save Videos on Mac
+- Save ZPRJ Along with Other Objects and Files
+- Improvements to AI Compatibility
+- Improvements to DXF Compatibility
+
+3D
+- 3D Seamline Thickness and Intensity
+- Copy/Paste 3D Patterns and Trims
+- Flatten Multiple Patterns
+- Arrow Key Movement in the 3D Window
+- Create Pins on Internal Lines
+- Direct Positioning Improvement
+- PBR (Physically Based Rendering) is applied
+
+2D
+- Divide Internal Lines
+- Sewing Line Type UI Improvement
+- Show/Hide Linked Editing
+
+Materials
+- Preview and Select AI Artboards
+- Colorway for Zippers
+- Color Name UI in Colorway Editor
+- Standard Measurements for Topstitch Thickness
+- Ligne (L) Units for Buttons
+- Fasten Button Improvements
+- Image Application UI Improvements
+- Maintain Pattern Arrangement in Print Layout Mode
+- Show/Hide Zipper Slider
+- Preview Color Names in the Property Editor
+
+Others
+- Vertical Arrangement for the 3D/2D Toolbar
+- Reset View of 3D/2D Window to Grid Center
+- Scripting
+
+
+
+[3.2.45]
+
+KEY FEATURES
+- Flattening
+- Human IK
+- Hair Options for Kid Avatar
+- Segment Darts
+- Offset as Internal Line along Slope
+- (Windows Only) File Sharing
+
+NEW
+- Rotation Angle Input
+
+IMPROVEMENTS
+
+FILE
+- Auto Save Display
+- Save User Setting as Configuration File
+- Improvements to 2D Snapshot
+- Automatic Resolution for 3D Snapshot
+
+3D
+- Simulation Presets as Tools
+
+2D
+- Invert Selection
+- Create Multiple Patterns or Internal Shapes and Input Intervals
+- Convert Multiple Segments Points to Curve Points
+- Create Ellipse with Circumference
+- Improvements to Add Point/Split Line
+- Copy Patterns, Internal Lines and Baselines
+- Fixed Grid Display
+- Toggle Option to Offset 2D Patterns with Cut
+- Maintain Entered Values in the Moving Distance and Create Internal Polygon Dialogue Menus
+- Improvements to Add Point/Split Line
+- Improved Selection Speed for Internal Lines
+
+MATERIALS
+- Color Name Input
+- Apply Topstitches and Puckering by Dragging
+- Set Sewing Fold Angles Between the Zipper and Pattern
+- Additional Buttons
+- Duplicate as Button/Buttonhole to Symmetric Pattern
+- Addition of Flip Menu to Internal Line Seamline Topstitches
+
+Avatar
+- Morph Target with AVT Files
+
+[3.1.27]
+
+FIXED
+- Crash when clicking Simulation button after loading an Avatar and an additional Avatar 
+- Crash when arranging patterns loaded via OBJ To Garment
+- Bug where the Thread Length would not apply for Tack on Avatar
+- Bug where the Camera moves back to its origin when selecting a pattern in the 2D Pattern Window and then Zoom into selected part in the 3D Garment Window
+- Bug where the Button Style Save button would be disabled when Autosave is activated while changing the shape of the buttons
+
+[3.1.26]
+
+IMPROVEMENTS
+- Simulation will be turned off while using the Fold Arrangement function on items that can be folded (Internal Lines and/or Seam Lines)
+- Simulation will be turned off while playing Animation in Animation Mode
+- Unified Tooltip background colors of Topstitch and Puckering
+- Deactivated the click and drag feature on the icon area (Undock-Maximize-Restore-Dock) in the upper right corner of the program
+- Changed the weight unit of Fabric Information from g / mm2 to g / m2
+- Modified the title of File / Information History window from Garment Info to File History
+- Removed the Cancel button of File / Information History window
+- Improved AI Import stability
+- Improved DXF Grading Import stability
+- Improved the ability to morph avatars saved as AVT files
+- The status will be updated in the Configurator when loading ZPAC files which have similar structures with the current Modular structures
+
+FIXED
+- Crash when deleting Puckering on Symmetric Patterns and/or Internal Lines
+- Crash when cutting 3D Lines on Modular blocks
+- Crash when deleting Avatar Line Tape
+- Crash when using Extend/Trim and/or Add Point to Pattern Outliner functions on Selected Point
+- Crash when there is no Button style in garment files created in specific versions 
+- Crash and/or Freeze when deleting and simulating the garments after deleting Avatar Tape
+- Intermittent crashing when Login failed
+- Bug when extending Topstitches
+- Bug when loading particular ANM files
+- Bug where the Avatar Tack pattern points remained in the 2D window after an Avatar was deleted
+- Bug where Custom View data would not save in Project files
+- Bug where the title of the 3D Avatar window would change when importing Alembic files
+- Bug where the Menu name was not toggled to Active Sewing when Deactivate Sewing (selected) of the Main Menu was executed
+- Bug where the 'Default Camera' phrase was cut off at the bottom of the 3D Avatar Window when Show Camera was set up in Display
+- Bug where the Animation (FBX, MC, PC2, MDD, Alembic, Cache) was not exported when exporting Project files that included trims
+- Bug where the Animation Editor was pushed to the bottom when expanding the Library in Animation Mode
+- Bug where the Undock-Maximize-Restore-Dock icon would not appear in Colorway Mode
+- Bug where all grading sizes would accumulate every time, when opening Garment (Project) files with grading information on Mac
+- Bug where the sewing stitch length on two patterns with different lengths would be changed after Simulation
+- Bug where Unified Texture check (FBX, OBJ) was not saved properly when the 2D Pattern Editor Window was turned off
+- Bug where the Avatar Mesh could be selected (hair and eye area), even when the Avatar was hidden
+- Bug where the buttons were not saved in a Modular Block
+- Bug where the buttons remained in their original position even after choosing Reset Arrangement
+- Bug where the Gizmo Increase/Decrease shortcuts were not reflected in the 3D Avatar Window when pressed on the 2D Pattern Window
+- Bug where the Notches disappeared after editing the texture
+
+[3.1.18]
+
+IMPROVEMENTS
+- Removed the ‘Please press the update button to apply the changes’ message that appears while loading Project files
+- Compatibility with Gerber CAD (DXF)
+- Log in window will appear after closing the Renewal License (Maintenance) expiration window
+- Load Project files with specific OBJ stitches properly
+
+FIXED
+- Unstable Simulation when using Physical Properties created in certain versions of CLO
+- Crash when creating Zippers
+- Intermittent crashes when using Render
+- Intermittent crashes when moving mouse cursor while editing Topstitch and/or Puckering
+- Intermittent crashes when using Swap Lines feature
+- Intermittent crashes when typing in Comment Mode
+- Crash when loading particular garments in Thick Textured Surface mode
+- Crash when editing curve points with Smart Guide
+- Crash when loading garments with Zippers in CLO Viewer
+- Crash when saving garments with Colorway as PACX file
+- Crash when exporting LXO files
+- Crash when exporting OBJ files with the Diffuse Color Combined on Texture option
+- Crash when copying Fabric of Button Hole Style
+- Intermittent crashes while saving Project files
+- Bug where the Edit Bezier curve would not work properly
+- Bug where previously saved Custom Garment Resolution would not be deleted properly
+- Bug where the Render option would not adjust after saving a rendered image
+- Bug where the seamlines that were connected to Symmetric Patterns were not updated properly when converting segment points of patterns to curve points
+- Bug that the texture of Button Head would not render properly
+
+[3.1.10]
+
+KEY FEATURES
+
+- Zipper
+- Realistic Topstitches (OBJ)
+- Circumference Garment Measure
+- AI Pattern Export
+- AI Import of Patterns with Prints/Graphics Applied
+- Rendered Turntable Videos
+- Print Layout 2D Snapshot
+- Colorway Multivew Snapshot
+- 2D Pattern Annotations
+- Transform Point/Segment
+- Smooth Curve / Replace as Pattern Outline
+- Fabric Information
+- Custom View
+- Animation Video Capture
+
+
+IMPROVEMENTS
+- AI Import Improvement
+- Fabric Normal Maps
+- DXF Import Improvement
+- Version Archive
+- Project Files as Default
+- File Navigation UI Improvement
+- Button Collision Detection On/Off
+- Duplicate Buttons to Symmetric Patterns
+- Additional Camera Options
+- Button Gizmo
+- Automatic Turntable Axis Adjustment
+- Default Camera Lens Field of View
+- 3D Viewpoint
+- 2D Tack
+- 2D Pleats Improvement
+- Add Point to Intersection
+- Polygon Lasso Selection
+- Convert to Baseline
+- 2D Pleats Improvement
+- Create Ellipse
+- Standardized Pattern Point Movement
+- Accurate Button Placement
+- Dart Tool
+- Convert 2D AI Bézier Curves
+- Avatar Size Editor
+- Move Avatar & Garment to Default Position
+- Avatar Pose Changed According to 3D Garment
+- Create Body Model
+- Render UI Improvement
+- Emulator / Fabric Kit
+- Topstitch Presets
+- Density Unit Change
+
+
+[3.0.76]
+
+- [Fixed] Intermittent crashes when loading a particular file and/or using the Thick Textured Surface 3D Garment Rendering Style on devices with NVIDIA Quadro graphic cards
+- [Fixed] Bug where the Use Proxy Server did not work properly
+
+
+[3.0.74]
+
+IMPROVEMENTS
+- Rendering stability for Garments with Alpha textures
+- Open and Save File Dialog UI on Mac
+
+FIXED
+- Crash if textures are not loaded while importing FBX files
+- Bug that Notches are not properly imported with DXF files
+- Crash while saving files on Mac
+- Non-linear Stiffness Values will be saved to new Fabrics made with the Fabric Emulator
+- Intermittent crash while dragging and dropping SST files to Topstitch Object window
+
+
+[3.0.65]
+
+FIXED
+- Occasional crash while saving Garment files
+- Crash when quitting the program after deleting an Avatar
+- Occasional crash while importing DXF files with a grading rule
+- Occasional crash while drawing a Bezier curve
+- Crash after exporting BOM
+- Crash while exporting BOM with Normal Map
+- Crash while tracing pattern on Mac
+- Crash while using the Slash & Spread function on Mac
+- Occasional crash while logging in on Mac
+- Crash while loading Textures on Mac
+- Bug that causes the handle of a Bezier curve to remain after changing it to a straight line
+- Bug when Patterns are arranged on Symmetric Arrangement Points and simulated, Patterns move back to the Arrangement Points
+- Some of the materials are not applied to the mesh when the Single & Thick option in the FBX Export window are selected
+- Avatar does not appear with the Show All Avatar function
+- Bug where the color of the Shadow changed to grey
+- Issue where Arrangement Points and X-ray Joints were moved together
+- Issue where the user custom view image is saved instead of the updated view image when saving a file
+- Issue where the size of the indicator for the List View icon increases in the 1:1 Pattern Snapshot window (macOS Sierra)
+
+CHANGED
+- MODO Renderer will stop when the Render window is closed
+- UV guide will automatically update when the Export Pattern Bounding Box option in the DXF Export window is selected
+- Input exact measurements in the Avatar Size Editor
+- Modified the color of the Resolution Garment icon
+- Link to Chinese manual added to the Certificate Error Dialog
+- Changed MODO renderer preset
+- Added On/Off icon (in 3D window) and menu (in 2D window) for 3D Line
+
+[3.0.35]
+
+KEY FEATURES
+
+- Modular Mode
+- 3D Line
+- Glue
+- Transform Graphic (3D)
+- Import AI Files(Patterns/Graphics)
+- AI Curve (Bézier Curve)
+- Smart Guides
+- Instance
+
+
+NEW FEATURES
+
+3D
+- Nonlinear Simulation
+- Linear Garment Measure
+- Symmetric Arrangement
+
+2D
+- Offset Pattern Outline Options
+- Match Up
+- Optimize All Curve Points
+- Convert Multiple Segment Points to Curve Points
+- Copy & Paste from Different Program Windows
+- Overlapping Points/Lines Selection UI
+
+FILE
+- Smart Arrangement
+- BOM Export
+- Default Fabrics
+- Default Garment Trims
+- Library Sort, Search, and View
+- Library Folder Order
+
+
+IMPROVEMENTS
+
+- Arrangement Selection : After arranging a Pattern in the 3D Garment window, the Pattern will remain selected and the Pattern ghost will not appear unless selected again.
+- 2D Measurements : 2D Measurements will appear when placing Internal Shapes with the Transform Pattern tool or while moving Graphics with the 2D Edit Texture tool.
+- Trace : When using Trace on segments that overlap, choose from options to trace the original segments as-is or trace a new shape.
+- Render | Settings : Return the Render settings to its program defaults.
+- Render | Avatar : Changes made to the Avatar color will be reflected in the Render window.
+- Avatar | Undo : Any actions related to changes to the Avatar properties can be undone with Ctrl+Z.
+- Avatar Style : Options for the Avatar Hair and Shoes have been moved to the Library.
+- Emulator Mode : Leather, None fabric categories have been added and the standard unit of measurement for the Force gauge input has been changed to Kgf.
+
+
+
+[2.5.78]
+
+2D
+- [Improved] Points will be arranged to default position when aligning points doesn’t work properly. 
+- [Fixed] Crash when using slash and spread.
+- [Fixed] Crash when controlling gizmo after deleting texture in ‘Texture tool mode pattern pop up menu (Gizmo will be deactivated).
+
+DXF
+- [Improved] Drill hole graded when importing DXF.
+- [Fixed] Curve points are not properly imported when importing DXF.
+- [Fixed] Crash if ‘Export Pattern Bounding Box’ checked when exporting DXF.
+
+FBX
+- [Improved] FBX Import/Export Scale option (works same as Maya).
+- [Improved] Changed the FBX SDK and improved to export SDK by versions. 
+- [Fixed] Difference between actual morph and FBX Morph Animation.
+- [Fixed] Transform is not properly applied when exporting FBX imported avatar.
+- [Fixed] Same garments are exported several times while exporting one garment. 
+
+ETC
+- [Improved] Radio button unchecked if users assign fps value when importing/exporting Alembic.
+- [Fixed] Sometimes Texture is not visible in 2D Snapshot.
+- [Fixed] Crash on buttons.
+- [Fixed] Crash while loading specific project file.
+- [Fixed] Font not changed when changing languages.
+- [Fixed] Bug that symmetric pattern undo doesn’t work on resolution garment.
+- [Fixed] Default Scale value in Turntable Preview dialog.
+- [Fixed] Translation value is not properly loaded when importing obj. 
+
+[2.5.75]
+-[Fixed] Bug that the size change is not properly applied to an imported DXF file; contains the Grading information.
+-[Fixed] Crash when increasing the Extrude value via mouse wheel.
+-[Fixed] Bug that the paths of accessories (e.g. Collada files loaded as scenes & props) are changed, when loading previously saved project files.
+
+
+[2.5.73]
+- [Added] 'Delete All Avatars' menu in 3D pop-up window.
+- [Added] 'Auto Align' menu in DXF import dialog.
+
+- [Fixed] Occasional crash when using ‘paste’.
+- [Fixed] Bug that blank history remains even after clearing the histories.
+- [Fixed] Removed warning pop-up when loading 3D state, when there is no history.
+- [Fixed] Bug when searching Turn Table related codec on Windows 32bit OS.
+- [Fixed] Bug that internal lines are not displayed even though the ‘internal lines’ option is selected in 2D 1:1 snapshot.
+- [Fixed] Abnormal patterns and internal polygons are created when tracing imported patterns with the grading rules.
+- [Fixed] Bug that the distance between each pattern is widely spread when exporting DXF.
+
+
+[2.5.70]
+- [Fixed] Occasional crash on Obj import
+- [Fixed] Random crash when quitting the software on Mac
+- [Fixed] Bug that DXF curve points are not imported properly 
+- [Fixed] Bug on sublayer (unstable simulation)
+- [Fixed] Occasional crash when loading an avatar.
+- [Fixed] Occasional crash when undo after moving seam line.
+- [Fixed] Occasional crash when unsing 'Slash and Spread'.
+
+- [Improved] The irradiance cache option has been added in the render.
+
+[2.5.61]
+
+High Quality Renderer
+- [Improved] Display the current rendering status.
+- [Improved] Save Multiview snapshot in the highest image quality (When saved with Background).
+ 
+ETC
+- [Improved] Scroll bar follows the current timeline when playing animation in Animation editor.
+- [Improved] Animation data can be saved/loaded even there are multiple avatars in a project file.
+- [Improved] Avatar related functions (e.g. delete) can be operated by selecting any parts of the avatar (e.g. shoe, hair etc.).
+- [Improved] Enhanced history speed.
+- [Improved] Automatic symmetric sewing is available in Pleats sewing tool.
+
+Cut & Merge
+- [Fixed] Bug that all fabrics changed to the default fabric or crash when loading a garment file which used the merge tool.
+- [Fixed] Non-editable pattern created when using the Cut tool.
+- [Fixed] Bug that abnormal pattern created when applying Cut tool on a symmetric pattern.
+
+Button
+- [Fixed] Only unfastened buttons can be copied & pasted; even though both fastened & unfastened buttons are selected simultaneously.
+ 
+Texture Tool
+- [Fixed] Fabric texture scale gizmo highlighted in multiple directions simultaneously.
+- [Fixed] Edit undo does not work when right-click the mouse while adjusting Graphic gizmo scale.
+- [Fixed] Gizmo stops when rotating fabric texture with both left and right mouse buttons.
+ 
+Context Menu
+- [Fixed] Deactivate (Only Pattern) / Activate menu disappears when opening the pattern context menu while adding/editing buttons.
+ 
+High Quality Renderer
+- [Fixed] Assigned texture image is not applied on the backside of the fabric (Only in thick textured surface 3D garment rendering style).
+- [Fixed] Changed Material Diffuse/Ambient/Specular Color settings are not applied to renderer, after loading Avatar (Obj, Collada, Fbx).
+- [Fixed] Normal applied to a fabric is not displayed when opening garment file and update the Renderer.
+- [Fixed] Blank or same images saved in Multiview snapshot.
+ 
+File
+- [Fixed] Garment animation pauses when saving a project file while playing the animation.
+- [Fixed] Animation is not loaded when OBJ and Vertex Cache Animation are saved as a project file.
+- [Fixed] Occasional crash occurs when loading file on Mac.
+ 
+Other
+- [Fixed] Graphic Option Dialog: View Control setting is not applied.
+- [Fixed] Fabric Emulator UI.
+- [Fixed] 2D Measurements dialog appears when moving seamlines or patterns.
+- [Fixed] Patterns inside the internal polygon pattern cannot be selected in Steam mode.
+- [Fixed] Malfunction of mouse event on Mac
+- [Fixed] File does not open when drag & drop the file to open in Mac OSX 10.10 (Yosemite).
+- [Fixed] Adjusting Print texture outline in Pattern editor.
+- [Fixed] Stitch material color in pattern editor is not applied when using Shader.
+- [Fixed] The print texture bump map of the bottom pattern is visible through the upper pattern, where patterns are overlapped closely.
+- [Fixed] Text saved on Clipboard is deleted when using the Multiview Capture tool. (If the same bug appears, go to File Menu -> Options -> Others -> and uncheck the "Copy Multiview Capture Images To Clipboard" option)
+- [Fixed] User’s display setting retained in the Chalk mode.
+- [Fixed] Bug when using Slash & Spread tool on internal or baselines.
+- [Fixed] Crash when the particle distance is less than 5.
+- [Fixed] Only the first piping is updated when editing pattern.
+- [Fixed] Crash when using the Rotate function on Symmetric patterns.
+- [Fixed] Crash when creating Seam Taping on internal darts.
+- [Fixed] Symmetry deactivated when symmetric sewing.
+- [Fixed] Zoom Extents All’ does not work for garments with a very tiny pattern.
+- [Fixed] Undo of ‘Attach Pin to Avatar’ does not restore the previous 3D shape.
+- [Fixed] Undo of ‘Flip Wrap Direction’ does not work. 
+- [Fixed] Sublayer does not work sometimes when two or more Sublayers are connected to a pattern.
+- [Fixed] Sublayers are not copied.
+- [Fixed] PrintTexture normal map artifact fixed.
+- [Fixed] 2D view is rendered by shader when UseShader option checked.
+
+- [Removed] Animation re-start at the end of Transition Animation.
+- [Removed] FBX Camera Import.
+- [Removed] Remove warning dialog for Windows 10.
+ 
+- [Changed] Remove Filter > Sketch menu. 
+- [Changed] Nanumgothic font -> Spoqa Han Sans Regular font.
+
+
+
+[2.5.33]
+
+New Feature
+- 2D Measure
+- Solidify
+- Offset Pattern Outline
+- Align & Distribute
+
+3D
+- [Improved] Garment Resolution
+- [Improved] Style Line | Silhouette
+- [Changed] Default Garment
+
+2D
+- [Improved] Symmetrization
+- [Improved] Pattern Selection
+- [Improved] Slash & Spread | Angle and Distance Input
+- [Improved] Slash & Spread | Slash Internal Lines and Baselines
+- [Improved] Delete All Curve Points
+- [Improved] Delete All Overlapping Points
+- [Improved] Internal Point UI
+
+Sewing
+- [Improved] M:N Sewing
+
+Materials
+- [Improved] Buttons | Deactivate / Activate
+- [Improved] Buttons | Freeze / Unfreeze
+- [Improved] Buttons and Buttonholes | Move
+- [Improved] Buttons and Buttonholes | Mirror Paste
+- [Improved] Buttons and Buttonholes | Snapping
+- [Improved] Buttonhole Bind Position
+- [Improved] Fasten Button UI
+- [Improved] Buttons and Buttonholes | Reset to Default
+- [Improved] Lock All Graphics
+- [Improved] Save Surface Textures
+- [Improved] Puckering
+- [Improved] xTex Drag & Drop
+
+Avatar
+- [Improved] Delete Avatar
+- [Improved] Avatar Properties
+- [Improved] Show X-Ray Joints UI
+
+Render
+- [Improved] Render Multiview Snapshot
+- [Improved] Render Viewpoint Shortcuts
+- [Improved] Render Property Editor
+
+Animation
+- [New] Scene Time Warp
+- [Improved] Load Motion | Start Position
+- [Improved] Simulation Toolbar Addition
+- [Improved] Transition Animation
+
+Others
+- [Improved] UI | Snapshot
+- [Improved] UI | Rename / Delete
+- [Improved] UI | Toolbar
+- [Improved] Scale Input
+- [Improved] Smart Panning
+- [Improved] UV Display | Piping
+- [Improved] Pin Action with the Divided Gizmo (QWE)
+
+[2.4.65]
+- [Improved] Application Main Windows will be shown when the dock icon is clicked.
+
+[2.4.63]
+- Minor bug fixes.
+
+[2.4.55]
+- [Fixed] Sometimes crashes when using 'Pattern Cutting'
+- [Fixed] Sometimes crashes when using 'Piping'
+- [Fixed] Sometimes crashes when updating UI on 'Colorway' mode.
+- [Fixed] Sometimes crashes when using 'Pattern Merging'
+- [Fixed] Crashes when opening a file including symmetric patterns.
+- [Fixed] Cannot open a file including topstitches or puckerings.
+- [Fixed] Preview image of Library window do not disappear.
+
+[2.4.53]
+- [Fixed] Merge does not work
+- [Fixed] Sometimes crashes when using 'Slash and Spread'
+- [Fixed] Sometimes crashes when 'Colorway' mode
+
+[2.4.52]
+
+- [Fixed] The crash occured when the Collada file loaded as Scene&Prop
+- [Fixed] The crash occured sometimes when saving the Garment file
+- [Fixed] The crash occured when reloading the file saved as Garment file after importing as OBJ To Garment
+
+
+[2.4.47]
+
+New Feature
+- Merge
+- Steam
+- Puckering
+- History
+- Slash & Spread
+- Change Line Lengths
+- Intersect & Merge Points
+- Symmetric Sewing
+- M:N Sewing
+- High-Definition (HD) Garment
+- Sublayers for Sewing
+- Copy / Paste Buttons and Buttonholes
+- Hardware Simulation
+- Render Presets
+- Library Thumbnail Preview
+- Maya Cache(MCX) File Export
+ 
+File
+- [New] Import/Export Almebic
+- [New] Import(add) xTex
+- [New] Garment Descriptions for Project Files
+- [Improved] Reduce ZPAC loading time
+- [Improved] Placement for Added Files
+- [Improved] Gizmos for Added OBJs
+- [Improved] Save Multiview Snapshot Settings
+- [Improved] Change Auto Save Frequency
+- [Improved] Save Fabric Roll Widths
+- [Improved] FBX Export improvements
+- [Improved] Library Thumbnail Preview
+
+3D & Render
+- [Improved] Style Line Improvements
+- [Improved] Keep 3D draped shapes better when Undo/Redo
+- [Improved] Negative Layer Values
+- [Improved] Fold Angles for Normals
+- [Improved] Symmetry for Normals
+- [Improved] Renderer Normal Map
+- [Improved] Arrangement Preview
+
+2D
+- [New] Reference Lines for Rotation
+- [New] Offset Multiple Internal Lines
+- [Improved] Texture Edit
+- [Improved] Symmetry for Cut and Cut & Sew
+- [Improved] Cut and Cut & Sew with Trace
+- [Improved] Extend Offset Internal Lines
+- [Improved] Input Values for Round Corners
+- [Improved] Edit Round Corners
+- [Improved] Relative Axes for Internal Lines
+- [Improved] Midpoint for Curves
+- [Improved] Trace as Pattern, Layer Clone UI Improvements
+- [Improved] UV Guide
+- [Improved] Print Texture Transformation - Normal Map Width / Height
+- [Changed] Clone as Pattern
+- [Added] "Bar Tack" Stitch Preset
+
+Materials
+- [Improved] Reset Button Arrangement
+- [Improved] Select / Move Buttons and Buttonholes
+- [Improved] Sewing Layer Settings for Button
+- [Improved] Lock Button Interface
+- [Improved] Buttonhole Ghost in 3D
+- [Improved] Symmetric Topstitching
+- [Improved] Overlapping Topstitch Popup
+- [Improved] Add Graphics from Library Window
+- [Improved] Normal Maps for Graphics
+- [Improved] Edit Graphic Size
+
+UI
+- [New] Shortcuts for Zooming
+- [Improved] Save 3D Display Settings
+- [Improved] Thousandth Decimal Place for Inches
+- [Improved] Drag & Drop to Change Background
+- [Improved] Reset Background
+- [Improved] Undo Background Changes
+- [Improved] Login UI
+- [Improved] Mac Installer UI
+
+Bug Fixes
+- Wrong Buttonhole orientation after loading
+- Bug after New and Add Garment in Print Layout Mode
+- Ctrl+A does not work in Print Layout Mode
+- Thickness is not exported in FBX
+- Button-related bugs after rotating and scaling Pattern
+- Button flies away after changing thread length in cm/inch unit
+- Avatar joints are not imported properly in FBX
+- HQ Render only works for a single application even if multiple applications are running
+- Fabric thickness is not copied
+- Snapping does not work for Curve Points
+- Chalk lines do not follow with patterns in 3D
+- Trace does not work for a closed shape
+- Fail to load some DXF files with Grading information
+- Crashes when use "Convert to Hole"
+
+
+[2.3.153]
+- [Improved] Normal Map on Graphic.
+
+- [Fixed] Progress bar does not appear while 2D Pattern Snapshot is running.
+- [Fixed] Meshing bug when converting a piping to quad meshes.
+
+[2.3.147]
+- [New] Symmetrization
+- [New] Multiple Copy for Inner Shapes/Graphics
+- [New] Snap to Pattern Outline
+- [New] Layer Clone (Under) 
+- [New] Reference Line
+- [New] Feature Line Display in 3D
+- [New] Added new Button Presets.
+
+- [Improved] Keep topstitches after SymmetricMerge/Cut
+- [Improved] "Export without Grading" option in DXF Export Dialog
+- [Improved] Texture Edit Tool
+
+- [Fixed] Crash sometimes after Deactivate License
+- [Fixed] Seamline topstitches are not exported into OBJ.
+- [Fixed] Undo of moving Avatar Bounding Volumes does not work correctly. 
+- [Fixed] Crash after undoing of tracing a base line of a symmetric pattern.
+
+[2.3.135]
+- [New] High-quality Rendering
+- [New] CLO Fabric Kit + Fabric Emulator
+- [New] Cut
+- [New] Pleats Folding + Sewing
+- [New] Multiple Program Windows
+- [New] DXF Size Information + Grading
+- [New] Check Sewing Length tool. Display differences in sewing length.
+- [New] 2D Pattern Snapshot (1:1)
+- [New] Add Project
+- [New] UV Guide
+- [New] Round Corner
+- [New] Align Points
+- [New] Seam Line Topstitch
+- [New] Double-Click/Drag&Drop for .mea, .avs, .btn, .bth, .sst files in Library Window
+- [New] On/Off Options for Avatar Collision Detection
+- [New] Show/Hide Selected Avatars
+- [New] Joint Reset
+- [New] Display Skeletorn
+- [New] Topstitch Normal Map
+- [New] Pattern Annotations
+- [New] Superimpose (Side)
+- [New] Duplicate Graphics to Symmetric Patterns
+
+- [Improved] +30% Simulation speedup
+- [Improved] Mac version enhancements( +70% speedup )
+- [Improved] Changes to the Avatar Size Interface
+- [Improved] Colorway saves Texture Transformation. 
+- [Improved] Display Baselines, Internal Lines/Shapes, Pattern Names, Segment Length, Grain line in Print Layout Mode
+- [Improved] Save/Load Graphic Name
+- [Improved] Auto Sync
+- [Improved] "Free Sewing/Stitching" operation on intersected shapes
+- [Improved] 2D point snapping accuracy
+- [Improved] More realistic Light setting
+- [Improved] Import DXF settings saved
+- [Improved] Save Avatar Data Separately
+- [Improved] Tablet Compatibility
+
+- [Changed] Terms of Service document
+- [Changed] Changes to Sewing Styles. Improvements to the interface of Sewing and Topstitches 
+- [Changed] Thickness as a Fabric Property. Added "Thickness" in Fabric property and changed "Thickness - Simulation" to "Add'l Thickness - Collision" and "Thickness - Rendering" to "Add'l Thickness - Rendering" in Pattern Property Editor
+- [Changed] Avatar Bounding Volumes + Arrangement Points in the Avatar Editor
+
+- [Fixed] Crash when double-press "Delete" key after selecting a button with Edit Button tool in 2D window.
+- [Fixed] Crash sometimes when creating a button hole in Thick Garment Rendering Style
+- [Fixed] Crash when doing "Fold arrangement" on deactivated sewing lines. 
+- [Fixed] Button is misplaced when placing a pattern on Arrangement Point.
+- [Fixed] Button is misplaced when Undoing the placement of a pattern on Arrangement Point
+- [Fixed] Some vertices are misplaced when doing "Fold Arrangement"
+- [Fixed] Delete texture of a button when deleting the texture of the pattern including the button. 
+- [Fixed] Crash when using "Stitch Style Assign".
+- [Fixed] Setting a color in Color Palette does not work after importing xTex files
+- [Fixed] Fail to create a thumbnail of 32bit png image file. 
+- [Fixed] Wrong display of a texture sometimes when repeating to scale the texture.
+- [Fixed] "Diffuse Color Combined On Texture" option does not work for a pattern without a texture when exporting as OBJ
+- [Fixed] Crash when loading some Collada files.
+- [Fixed] Crash when drag & drop some JPG images. 
+- [Fixed] crash sometimes when import DXF file.
+- [Fixed] crash sometimes when using trace tool.
+- [Fixed] crash sometimes when using snapping tool.
+- [Fixed] Some cloths with a very tiny triangle are extremely over-stretched during simulation.
+- [Fixed] Graphic is not transparent in "Transparent Surface" garment rendering style
+- [Fixed] (Mac OS) Double-Click does not work for .Zprj and .Zpac files in Finder
+- [Fixed] (Mac OS) Image Desaturation does not work on some Mac OSs.
+
+[2.2.111]
+- [Added] Colorway. 
+- [Added] Color Palette and Eyedropper.
+- [Added] High-quality Snapshot.
+- [Added] Multiview Snapshot.
+- [Added] 1:1 3D View.
+- [Added] Bond/Skive option(Partial physical property) on Internal shape. 
+- [Added] Side geometry.
+- [Added] 3D Line Length Display.
+- [Added] Offset as Internal Line.
+- [Added] Sewing Line type (Flat / Turned)
+- [Added] Fold Patterns based on Internal shape or Seamline without simulation.
+- [Added] Direct Positioning on Gizmo.
+- [Added] Create / Edit button on 2D Window.
+- [Added] Piping Edit Tool.
+- [Added] 1:N Sewing tool button on 2D Toolbar for Mac users.
+- [Added] Vizoo file importer
+- [Added] Zoom to Selected (F key) in Edit Basting.
+- [Added] Transparent Garment Rendering Style.
+- [Added] Assign to New Style tool button and pop-up context menu for Fabric / Button / Sewing style.
+- [Added] Assign tool button for Fabric / Button / Sewing style.
+- [Added] Update crash report automatically.
+- [Added] Support DXF-ASTM file format.
+- [Added] Support LXO file format (Modo scene file format).
+- [Added] Support Vizoo file format(xTex) on pop-up menu of Fabric window.
+- [Added] Support Adobe Color Swatches(ACO), Adobe Swatch Exchange(ASE) file format on Color Palette.
+
+- [Improved] UI
+- [Improved] Main menu / Pop-up menu term.
+- [Improved] Stitch Algorithm.
+- [Improved] Video Capture performance.
+- [Improved] Print Layout mode.
+- [Improved] Add Point dialog.
+- [Improved] 2D Grid display.
+- [Improved] Internal Line display in 2D window.
+- [Improved] OBJ Export with seamLine stitch, desaturated image.
+- [Improved] Puckering image import with real size and aspect ratio.
+- [Improved] Force-sync on changing property on Sewing Style .
+- [Improved] Move / Rotate button with Move object tool on 3D window.
+- [Improved] Pinching Button during Simulation.
+- [Improved] View control speed during Simulation.
+- [Improved] "Zoom to Selected" follows to the picking position not object center.
+- [Improved] Brighten 3D default lights for making 3D scene more like the real scene.
+- [Improved] Color is displayed on 2D pattern. 
+- [Improved] 3D Window Background setting.
+- [Improved] Add a line with a specific length.
+- [Improved] Support "Drill Hole" when importing DXF.
+
+- [Fixed] Deleted Buttons remained on the garment file.
+- [Fixed] Cannot undo after resetting position of Button.
+- [Fixed] Animation with Buttons does not export properly. 
+- [Fixed] Crash when importing extra-high quality images.
+- [Fixed] Crash sometimes when superimpose.
+- [Fixed] Load Pose & Size pop-up window is behind the Loading window.
+- [Fixed] Avatar does not save in ZPrj file sometimes.
+- [Fixed] Crash sometimes when using trace function.
+- [Fixed] Installation problem related to preset files on windows XP.
+- [Fixed] Crash sometimes when using convert to segment point function.
+- [Fixed] Crash sometimes when using offset as Internal Line function.
+- [Fixed] Puckering normal does not show properly.
+
+- [Updated] Korean, Italian, and Chinese translation.
+
+[2.1.98]
+- [Fixed] Bug with Multiview capture
+
+[2.1.97]
+- [Added] 3D Line Length Property.
+- [Fixed] Sometimes fail to save files.
+
+[2.1.84]
+- [Added] FBX Exporter
+- [Added] Crash report window. You can report a bug with this window whenever any crash happens.
+
+- [Improved] DXF exporter for Alpha-Myu - Curve points, Grain line, Pattern position... 
+- [Improved] FBX Importer. Now Vertex Cache Animation & Morph Animation are supported. 
+
+- [Changed] "Arrangement" name -> "Order" in Pattern pop-up menu
+- [Changed] Remove "Grain line" show/hide tool button
+
+- [Fixed] FBX Import bugs related to Texture, Animation Rotation information. 
+- [Fixed] Can not import some FBX files from DAZ.
+- [Fixed] Crash sometimes when press 'ctrl + n' while moving mouse.
+- [Fixed] Crash with 'Create Sewing Line' dialog
+- [Fixed] Crash when deactivate patterns having buttons.
+- [Fixed] Fail to load pose in the garment file.
+- [Fixed] Sewing Styles are not copied when copy patterns.
+
+[2.1.76]
+- [Added] "Show All Pipings"
+- [Added] Crash Report window
+
+- [Fixed] Default preset files are not loaded on some PCs. This can make abnormal crashes.
+- [Fixed] "Reset" in User Settings does not work for Normal/Bump map option
+- [Fixed] Crash when undo Sewing Style add, select and unselect actions
+- [Fixed] Top-stitches disappear when undo Add Point/Split Line actions
+- [Fixed] [Mac] Multi-view image capture returns wrong images
+- [Fixed] Vertex Cache exporting fails with the garment including Graphics(Print Overlay)
+- [Fixed] Crash when trace pattern including button
+- [Fixed] Crash when "Convert to Segment Point" on a curve point
+- [Fixed] Crash when add garment including Piping
+- [Fixed] Sometimes crash when create Piping
+- [Fixed] Crash when save and load the garment with buttons after changing Pattern Order in Pattern Window
+- [Fixed] "Obj to Garment" fails with zipped obj files
+
+- [Improved] FBX can import Morph and Vertex Cache animation
+- [Improved] FBX import with DAZ and Blender
+- [Improved] Snapping in 2D Pattern Editor
+- [Improved] DXF Importer with Gerber and Richpeace
+- [Improved] Piping create interface
+
+[2.1.51]
+- [Fixed] Stitch size changes on scaling pattern
+- [Fixed] Crash on simulation after changing button style in button property editor
+- [Fixed] Bug with rotation snapping on pattern
+- [Fixed] Bug with color palette
+- [Fixed][mac] Transparency not applied on capturing 3D Window in Mac
+- [Fixed] Bug with Multiview capture
+
+- [Improved] Last changes in animation region in OBJ Dialog saved
+- [Improved][mac] Network Dongle key checks key periodically and gives warning message before quit
+
+[2.1.47]
+- [Fixed] Crash when deleting points or lines in the pattern with sewing style
+- [Fixed] Bug with Unicode on exporting Maya XML file
+- [Fixed] Mesh breaks with symmetric / mirror paste
+- [Fixed] Crash when undoing after symmetric merging
+- [Fixed] Problem with 'Save with texture files' option on exporting OBJ
+
+[2.1.44]
+- [Improved] Slide bar UI on button head and button hole rotation
+- [Improved] Button head rotation per angle
+- [Improved] Physical property of button head changed(S_Button_Zipper_Pad_CLO_V2)
+
+- [Fixed] Crash when changing base line to pattern or inner shape with Trace
+- [Fixed] Crash on superimposing after sewing to inner line located out of pattern
+- [Fixed] Slow pattern transform in 2D window
+- [Fixed] Crash with adding button right after loading garment file
+- [Fixed] Crash when making piping after adding garment file
+- [Fixed] Seam-line activating status not applied to 3D window
+- [Fixed] Crash when deleting button after doing symmetric paste on it
+- [Fixed] Irregular inner shape position on exporting DXF
+- [Fixed] Crash when changing diffuse map after copying button style
+- [Fixed] Seam taping doesn't accept 0 in width value
+- [Fixed] Crash with deleting Arrangement Point or Bounding Volume
+- [Fixed] Crash with deleting symmetric pattern
+- [Fixed] Crash on exiting with button hole loaded
+- [Fixed] Impossible to pick button hole in the back side of pattern
+- [Fixed] Crash on exporting Button Point Cache
+- [Fixed] Crash on choosing root of scene graph in object browser
+- [Fixed] Some baselines are not imported when importing DXF file
+- [Fixed] Crash when sewing after making "Piping"
+- [Fixed] Crash when loading zpac file including button
+- [Fixed] Minor bugs with button
+- [Fixed] Mesh breaks when exporting OBJ file with "Thick option"
+
+[2.1.19]
+- [New Feature] Symmetric Design/Editing
+- [New Feature] Piping
+- [New Feature] Button
+- [New Feature] Sewing Style
+- [New Feature] Superimpose
+- [New Feature] Avatar Tape
+- [New Feature] Drawing on 3D Garment
+- [New Feature] Seam Tape
+- [New Feature] Add Line Pin
+- [New Feature] Press
+- [New Feature] FBX Import
+- [New Feature] Basting (Tack, Tack on Avatar)
+- [New Feature] Pivot Scaling/Rotation
+- [New Feature] Quadrangulate
+- [New Feature] Normal Flipping
+- [New Feature] Select All with Same Property
+- [New Feature] OBJ export - Selected Pattern
+- [New Feature] Snap-n-Sew for equal length Sewing Lines
+- [New Feature] Pattern Order
+
+- [Improved] Rendering frame rate
+- [Improved] Multi-layer collision handling
+- [Improved] Simulation explosion with garment including very sharp or long triangles
+- [Improved] "Zoom to Selected" speed in 3D window
+- [Improved] OBJ Dialog maintaining last status
+- [Improved] Gizmo maintaining last status when application launched
+- [Improved] Picking accuracy of multiple selection/pinning tool
+- [Improved] Sort by Alphabetic-order in Object Browser
+
+- [Fixed] Program size adjustment issue with low resolution screens
+- [Fixed] Bug with "Reset To Default Layout"
+- [Fixed] Flickering "Graphic"s(Print Overlay) when overlapped
+- [Fixed] many minor bugs...
+
+[1.4.14.0]
+- [Fixed] Multi-product authentication with single dongle key
+- [Fixed] Windows 8 64-bit crash on starting
+- [Fixed] Pattern selection with pattern locked
+- [Fixed] [Mac] Bug with multi view image saving
+
+[1.3.0.0]
+- [Added] New fabric system
+- [Added] Library window
+- [Added] Undo/Redo for Arrangement Point/Arrangement BV add/delete
+- [Added] Pinching/Pinning in 2D Pattern Window
+- [Added] Strengthen Pattern. You can make patterns act like stiff material without changing physical properties. Use this function with Freeze and Deactivate functions for efficient draping task. 
+- [Added] Delete animation clip. right click on clip in Animation Editor
+- [Added] Move animation clip
+- [Added] Bump effect for seam
+- [Added] Automatic bump map generation for texture
+- [Added] Selected Export function in OBJ Export 
+- [Added] Scale pattern/texture with exact number by input dialog. Right mouse button click during scaling will open input dialog. 
+- [Added] Roll-up function for pinched points. See pop-up menu of pinched points.
+- [Added] Aligned camera panning. Wheel drag with Shift key in 3D Avatar Window. 
+- [Added] Multiple selection for Arrangement Bounding Volume with Shift key
+- [Added] Texture Desaturation
+- [Added] Export thick cloth in obj format
+- [Added] Multiple vertices manipulation
+
+- [Improved] New UI
+- [Improved] Faster simulation when freezing/deactivating
+- [Improved] Improved draping process stability
+- [Imrpoved] Print Overlay flickering
+- [Improved] Animation Editor UI
+- [Improved] 5-10 times Garment file size reducing
+- [Improved] Zoom in/out in Animation Editor
+- [Improved] Pinching/Pinning accuracy
+- [Improved] Pinching/Pinning UI
+- [Improved] Fabric thumbnail image
+- [Improved] Gizmo is positioned at the mouse clicking point.
+- [Improved] Zoom in/out in Animation Editor
+- [Improved] Dialog Input box auto highlight
+- [Improved] More stable Multiple pinching/pinning
+- [Improved] Low-cost pin rendering
+- [Improved] Picking mechanism. Now you CAN'T pick different kinds of elements with SHIFT key.
+- [Improved] Background Color and Texture State is preserved with S/A Mode change
+- [Improved] Cloth Rendering Style is preserved
+- [Improved] Tool button is changed to Edit Pattern Tool when garment is added
+- [Improved] Window size and position is saved when closing MD3 (mac version)
+- [Improved] Added warning when sewing ratio is bigger than 30
+- [Improved] Pattern Editor function
+- [Improved] Animation Mode function
+- [Improved] Property Window related functions
+- [Improved] Stitch properties (select stitch type, added preset etc)
+- [Improved] Simplified seamline (only show sewing thread of mouse over or clicked seamline)
+
+- [Fixed] Adding garment makes system crash
+- [Fixed] Undo/Redo of Material Reset makes system crash
+- [Fixed] Last used path is not remembered while loading new texture
+- [Fixed] Sometimes crashes during Synchronization
+- [Fixed] Undo of Adding Garment does not work
+- [Fixed] Hair moves when clicking and draging it during simulation
+- [Fixed] Shoes are deformed abnormally at a specific avatar pose
+- [Fixed] Fabric file drag&drop does not work
+- [Fixed] Randomly crashes when Undo-ing
+- [Fixed] Crashes after changing Arrangement in property window
+- [Fixed] Lock aspect ration in Texture Transformation does not work
+- [Fixed] Inserting a point very close to the other point makes system crash
+- [Fixed] Sometimes crashes when changing Rendering Style to Thick Textured Surface
+- [Fixed] HASP Network key does not support for Window 8
+- [Fixed] Crashes when saving Fabric file
+- [Fixed] 3ds Max view control preset does not work
+- [Fixed] "Remove Pin" in pop-up menu does not work
+- [Fixed] Attach to Avatar does not work
+- [Fixed] Undo does not work at Texture Editing mode
+- [Fixed] Sometimes crashes when changing seamline folding angle. 
+- [Fixed] Sometimes crashes when loading avatar (.avt) file
+- [Fixed] Seamline folding angle does not keep during Draping Process
+- [Fixed] Pinning Undo does not work properly
+- [Fixed] Crashes while pinning
+- [Fixed] Offline authentication dialog characters do not show correctly
+- [Fixed] Elasticity is not shown sometimes in property window
+- [Fixed] Elasticity does not work
+- [Fixed] Pattern property is not shown sometimes
+- [Fixed] Crash sometimes while manipulating pins
+- [Fixed] Can't delete pin sometimes
+- [Fixed] Crash sometimes while undoing/redoing
+- [Fixed] Crash at start-up on some PCs
+- [Fixed] Elasticity does not work well
+- [Fixed] The first frame of recorded animation is sometimes exploded 
+- [Fixed] Some BMP files are not correctly loaded
+
+- [Changed] Now "Rearrange/Reset to 2D arrangement" function does not effect for Frozen/Deactivated patterns
+- [Changed] Now turning on Simulation forces Synchronization.
+
