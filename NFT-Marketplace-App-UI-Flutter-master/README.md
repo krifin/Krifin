@@ -1,6 +1,6 @@
 # Flutter NFT Marketplace App UI with darkmode support
 ### Flutter 2.8.1 Null Safety
-NFT Marketplace App UI with support for dark mode. Created by Martin Gogołowicz under 6 hours.
+NFT Marketplace App UI with support for dark mode. Createdunder 6 hours.
 ## Please leave a ⭐ if you like it 💙
 ## How it looks:
 #### Dark mode ⚫ :
@@ -24,3 +24,10 @@ NFT Marketplace App UI with support for dark mode. Created by Martin Gogołowicz
 - Null safety
 
 ### UI inspiration from https://dosage.pro
+
+
+👤 **Samridhi Shoor**
+
+- Website: https://krifin.in/
+- Twitter: [@samridhishoor](https://twitter.com/samridhishoor)
+- Github: [@krifin](https://github.com/krifin)
