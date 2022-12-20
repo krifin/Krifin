@@ -17,3 +17,11 @@ We have  acquired an extensive global community of luxury collectors & operate a
 
 https://user-images.githubusercontent.com/121123118/208738814-d05f4b1a-1419-4c28-81f2-3be56bb863a6.mp4
 
+
+## Template Author
+
+👤 **Samridhi Shoor**
+
+- Website: https://krifin.in/
+- Twitter: [@samridhishoor](https://twitter.com/samridhishoor)
+- Github: [@krifin](https://github.com/krifin)
